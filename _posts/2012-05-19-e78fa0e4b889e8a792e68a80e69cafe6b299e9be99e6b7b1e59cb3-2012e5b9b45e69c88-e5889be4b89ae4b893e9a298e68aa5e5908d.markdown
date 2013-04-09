@@ -1,0 +1,63 @@
+---
+author: gohan
+comments: true
+date: 2012-05-19 11:13:38
+layout: post
+slug: '%e7%8f%a0%e4%b8%89%e8%a7%92%e6%8a%80%e6%9c%af%e6%b2%99%e9%be%99%e6%b7%b1%e5%9c%b3-2012%e5%b9%b45%e6%9c%88-%e5%88%9b%e4%b8%9a%e4%b8%93%e9%a2%98%e6%8a%a5%e5%90%8d'
+title: 珠三角技术沙龙深圳 2012年5月 创业专题报名
+wordpress_id: 1914
+categories:
+- 报名
+- 沙龙
+- 深圳
+tags:
+- 沙龙
+- 深圳
+- 聚会
+---
+
+[caption id="attachment_1915" align="alignnone" width="640" caption="珠三角技术沙龙 2012.05 创业专题"]![创业题图](http://techparty.org/wp-content/uploads/2012/05/startup.jpg)[/caption]
+
+珠三角技术沙龙@深圳, 五月底的聚会分享活动. 此次活动以创业为主题, 欢迎有兴趣的朋友们报名参加.
+
+* 活动时间: 5 月 27 日下午 13:30 - 18:00
+* 活动地点: 福田区地王大厦附近, 具体地点由邮件通知.
+* 报名链接: http://f.jeffkit.info/techparty/techparty_sz_201205/
+
+讲师和主题介绍:
+
+
+
+## 1. 创业融资ABC
+
+
+
+讲师: [常亮](http://weibo.com/lucienchiong), 源渡创投投资经理, 专注于互联网、移动互联网、云计算等 TMT 领域的早期创业项目投资. 经历过 Web 2.0 浪潮, 是国内较早的科技博客作者之一. 支持信息自由获取、分享和传播, 致力于信息民主化与消除数字鸿沟.
+
+
+
+## 2. Lean Startup模式简介
+
+
+
+讲师: [柯家伟](http://weibo.com/kejiawei), 热衷产品设计及产品管理, 在社交网站、车联网等领域有较深入的了解. 活跃于各地的互联网创业圈子, 喜欢结识各类编程牛人, 业余时间策划及组织珠三角地区的Startup Weekend. 
+
+
+
+## 3. 女性网络营销思路分享
+
+
+
+讲师：[张帆](http://weibo.com/zhangfanpc), 心悦尚品副总经理. 一直从事女性消费品电子商务. 期间先后做过女装、钻石、化妆品. 已从事化妆品电子商务4年.
+
+
+
+## 4. 创业移动互联网，如何才能做得事半功倍
+
+
+
+讲师: [张泽涛](http://weibo.com/zetaozhang) 校友圈创始人, coder~
+主题: 涉及技术框架、管理工具、云服务
+
+
+

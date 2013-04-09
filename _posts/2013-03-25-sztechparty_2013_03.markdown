@@ -1,0 +1,84 @@
+---
+author: gohan
+comments: true
+date: 2013-03-25 10:03:00
+layout: post
+slug: sztechparty_2013_03
+title: 珠三角技术沙龙 深圳2013.03活动总结
+wordpress_id: 2229
+categories:
+- 沙龙
+- 深圳
+tags:
+- 深圳;沙龙;游戏开发;存储
+---
+
+3.17号深圳沙龙活动结束~
+
+[![](http://pic.yupoo.com/techparty/CJg1QPBc/medish.jpg)](http://www.yupoo.com/photos/techparty/albums/4921495/)
+
+此次活动时长略短, 但分享内容很不错, (我拍的照片, 有同学被挡住了, 抱歉~), 废话不多说, 总结如下:
+这次活动依旧在南山区松日大厦, 一共两个主题.
+
+
+### 第一个主题: Viny storage—网络游戏数据存储的终极解决方案 by 周迁([github](https://github.com/eddyzhou))
+
+
+
+
+
+** [Viny storage—网络游戏数据存储的终极解决方案](http://www.slideshare.net/cppgohan/viny-storage) ** from **[cppgohan](http://www.slideshare.net/cppgohan)**
+
+
+葡萄藤研究存储的周迁带来他的分享, <Viny storage—网络游戏数据存储的终极解决方案>.
+
+viny storage是葡萄藤使用scala编写的存储系统部分, 开源于github, 代码量k行级别.
+
+PPT介绍看到性能数据很高, 里面提出存储层的几个基本特性: 数据访问速度, 安全性, 健壮性, 分布式, API易用性.
+
+周迁比较了传统关系数据库Mysql/CDB, NoSQL存储Redis/CMEM, (据了解到的)网易存储方式, viny storage存储方式.
+Mysql随着数据量的增长带来访问速度略慢, 分表的问题, 对于创业公司业务比较繁琐, api方面也不是特别易用(唔, MySql官方c api不支持异步操作),
+Redis的存取对象受限于内存大小, 数据安全性要用Master/Slave方式来保证, 数据切分肯定是需要考虑的.
+网易(梦幻西游)存储方式, 基于内存的DBMS, 开线程dump数据, 没有用分布式.
+
+对于葡萄藤的viny storage方案:
+
+为游戏定制的可持久化的key-value存储方案
+
+viny storage特性之一是与业务逻辑同进程, 带来的好处就是速度很快.
+
+另一个特性是用内存为中心+磁盘辅助的方案, 数据的安全性用command log持久化日志保证.
+
+viny stoage在存储层的几个基本特性的表现, 大家直接参考ppt吧.
+
+之后答疑讨论和viny storage的演示(进程本地监听一个端口, 直接ssh进去来操作一个scale的REPL控制台, 遗憾的是一些接口名字有点生疏没能演示数据操作的过程.)
+
+
+### 第二个主题: by 杨博/atry([github](https://github.com/Atry))
+
+
+
+
+
+** [Hxhsm——取代mvc的状态机框架](http://www.slideshare.net/cppgohan/hxhsmmvc) ** from **[cppgohan](http://www.slideshare.net/cppgohan)**
+
+
+葡萄藤的游戏制作人杨博(atry)带来的分享, 关于客户端开发中用到的技术, 主题,
+
+这个主题是关于使用haxe语言编写的一个层级状态机hxhsm的介绍,
+haxe是一个有趣的编程语言, 受到java的"一次编写, 多处运行"的启发, 基于一个AS3语法的超集, 支持使用haxe compiler将haxe源程序生成为as, c++, javascript等原程序.
+杨博介绍的hxhsm即他使用haxe编写的HSM(层级状态机), (层级状态机我第一次听说, 只知道DFA, NFA)
+
+haxe是一个相对AS3静态类型比较完善的语言, 杨博的观点, 随着游戏引擎的丰富, 以及网络相关的程序库的更加成熟, 现下的大多数游戏开发中遇到的困难的技术问题在于游戏业务逻辑的编写, 业务逻辑在游戏中占有代码量最大, 需要控制游戏内各个模块, 写业务逻辑看似要求不高, 业务逻辑是最难写好的.
+关于游戏逻辑的例子: 卡牌游戏的一条需求(我看介绍像很像玩过的游戏卡牌召唤师), 策划描述的复杂业务逻辑树, 写代码时候该如何写呢?
+
+条件分支? 函数调用+回调? 似乎还是树型的状态转换的方式比较清晰.
+树形的状态结构和策划定义的需求描述一一对应, 很适合在UI响应, AI控制这些地方使用. atry提到AI中使用的behavior tree(行为树)是HSM(层级状态机)的简化形式
+
+接下来就是hxhsm的实现特点, 应用流程, 工具链. (其实想了解一些HSM与传统状态机的差异和实现难点, 分享里没有讲太多). 最后还有依赖状态机事件机制的游戏录像功能的演示, 不少现场同学表示很有兴趣.
+更多内容参见ppt吧.
+
+这次活动有位分享者当天放了鸽子, 比计划时间提前结束, 但大家的交流还是很热烈, 最后讨论之中黄毅分享了对于手机游戏增量升级, 版本回退实践方面的心得与思路.
+
+
+### 总结就这么多, 请大家要继续关注参与沙龙交流吧, 欢迎期待你们的分享!

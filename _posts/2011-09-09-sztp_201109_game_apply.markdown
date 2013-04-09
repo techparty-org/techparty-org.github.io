@@ -1,0 +1,47 @@
+---
+author: flydream
+comments: true
+date: 2011-09-09 19:00:56
+layout: post
+slug: sztp_201109_game_apply
+title: 珠三角技术沙龙深圳2011年9月游戏专场报名贴
+wordpress_id: 971
+categories:
+- 小沙龙
+tags:
+- 小沙龙
+- 深圳
+- 游戏
+- 聚会
+---
+
+珠三角技术沙龙深圳2011年9月游戏专场报名贴
+
+金秋九月，深圳迎来了首场游戏方面的专题party，本次游戏专场主要侧重于游戏行业同仁互相交流经验和认识新朋友，届时将会有讲师进行给力主题的分享，暂定主题涉及Flash AS、Python游戏开发以及Android平台游戏开发，然后是激动人心的open party时间，留给大家讨论和交流，保证你带着问题而来，满载而归。欢迎各位游戏界同仁呼朋唤友，前来参观，特别是深圳的游戏界朋友，此次聚会机会难得，因场地位置有限，请速速**[报名](http://f.jeffkit.info/techparty/sztp_201109_game/)**。
+
+主题和讲师介绍如下:
+
+**《Flash AS3大型游戏开发》**
+
+简介：吴绍留，Flash AS3高级工程师， Flash AS的终始守卫者，自2001年开始接触Flash，至今已经有10年的Flash开发经验，2006年开始从事网页游戏开发，代表作品有网页游戏《绝地战征》《领主战征》。本人性格开朗，希望结交Flash高手与爱好者。
+本次主要和大家交流Flash as3后台底层通信以及Flash as3 游戏开发框架—DVC。
+
+**《pygame简简单单做游戏》**
+
+简介: 仲超(@cppgohan)，道行甚浅的程序员，技术杂人，c++、 python、 js， 没有一个是能拿出手的， 最近在玩linode和HTPC，从事和游戏开发不甚沾边的Win32客户端开发工作。接触游戏20载， 愿能和大家交流下游戏心得。本次主要和大家交流使用pygame开发小游戏的基本流程， 讨论下pygame与独立游戏的潜力。
+博客：[blog.baozishan.in](http://blog.baozishan.in)
+
+**《Android下cocoa2d游戏开发》**
+
+简介：Michael谢灼贤(@michael2008s) ，Android Developer，关注移动互联网、敏捷(Agile)、IOS、云计算、电子商务。本次主要分享Android下cocoa2d游戏开发经验，Cocos2d-x是一个开放源码的，基于c++的，移动设备2D游戏引擎。它的目标是实现跨平台，轻量级，对开发人员友好。是著名的“cocos2d-iPhone”项目的子项目。目前已经支持win32，android，iphone上的跨平台游戏开发。
+博客：[http://www.cnblogs.com/michael2008s/](http://www.cnblogs.com/michael2008s/)
+
+**OpenParty**
+
+将会现场甄选讨论话题，分成小组进行讨论和交流，话题可以是您存在已久的疑问，可以是您的一些小技巧，可以是行业最新动态交流。。。，欢迎大家带着问题而来，如果您有想征集大家进行讨论的话题，也可以提前[联系我](mailto:flydreamgy@gmail.com)。
+
+时间：2011年9月18日13:30-18:30（周日）
+
+地点：深圳市南山区高新南一道TCL大厦A座901（感谢深圳万兴提供场地赞助），具体由邀请函通知。
+
+请猛击**[此处报名](http://f.jeffkit.info/techparty/sztp_201109_game/)**

@@ -1,0 +1,81 @@
+---
+author: linluxiang
+comments: true
+date: 2010-10-19 21:58:00
+layout: post
+slug: 2010q4summary
+title: 珠三角技术沙龙2010Q4总结
+wordpress_id: 99
+categories:
+- 总结
+- 沙龙
+---
+
+# 活动总结
+
+
+2010年10月17日。珠三角技术沙龙2010Q4终于在大家的期待中来临了。由于本次沙龙的选题份量十足，加上距离上一次大沙龙已经过去较长时间。所以当沙龙将要举行的消息一公布，在几天之内就有100多人踊跃报名参加，截止到沙龙开始前，豆瓣上已经有264人报名本次活动。最终有大约180人来到了现场，把偌大的网易博学堂挤得满满当当。
+
+本次沙龙的两个课题分别是由陈硕先生带来的《分布式系统：一种工程方法》和由闻波先生带来的《android应用开发杂谈》。在此再次感谢两位讲师带来如此精彩的课程。
+
+沙龙在下午1点30分准时开始。先由赖勇浩先生做了简短的开场白。主要介绍了沙龙的历史，本次沙龙的的演讲嘉宾和课题，沙龙的组委成员等信息。
+
+[![](http://techparty.org/wp-content/uploads/2010/10/lai.jpg)](http://techparty.org/wp-content/uploads/2010/10/lai.jpg)沙龙的总组织者赖勇浩先生
+
+接着就是由陈硕先生带来的《分布式系统：一种工程方法》。陈硕先生上来就反其道而行之，不说今天将要讲什么，而是说今天不讲什么，直接否定了可怜的数据库、存储、云计算，高性能XXX，安全，性命攸关的系统，不差钱的行业。接着讲述了分布式系统理论，本质，以及具体实践等方面的相关知识。可以看出陈硕先生拥有非常丰富的演讲经验，现场发生的给话筒更换电池的小插曲，被完美的应用在介绍分布式系统“随时可重启”的特性介绍上。最后指明了使用最土最烂熟的技术，把”好好完成任务涨工资“作为最高目标，是分布式系统开发的最高指导原则。
+
+[![](http://techparty.org/wp-content/uploads/2010/10/chen.jpg)](http://techparty.org/wp-content/uploads/2010/10/chen.jpg)儒雅的陈硕先生
+
+而陈硕先生的电脑也给人留下了十分深刻的印象。
+
+[![](http://techparty.org/wp-content/uploads/2010/10/computer.jpg)](http://techparty.org/wp-content/uploads/2010/10/computer.jpg)
+
+经过短暂的休息之后，是闻波先生带来的《Android系统开发杂谈》。闻波先生开场就用类比的方式，将Android系统环境和PC运行环境进行比较，可以很迅速的让听众对手机的硬件平台有所了解。接着从系统的启动过程，代码优化混淆，系统破解等角度讲述了Android系统的开发。值得注意的是：闻波先生因为感冒在讲课开始前一度讲话困难。但是开始讲课以后依然用非常洪亮的声音完成了本次课程。再次祝愿他身体早日康复。
+
+[![](http://techparty.org/wp-content/uploads/2010/10/wen.jpg)](http://techparty.org/wp-content/uploads/2010/10/wen.jpg)富有激情的闻波先生
+
+现场某女听众表示对两位讲师的演讲内容佩服得五体投地。
+
+[![](http://techparty.org/wp-content/uploads/2010/10/nvsheng.jpg)](http://techparty.org/wp-content/uploads/2010/10/nvsheng.jpg)
+
+讲课结束以后大家聚在一起积极讨论。同时因为讲课时间较长，很多朋友就就近组织饭醉活动了。
+
+[![](http://techparty.org/wp-content/uploads/2010/10/fanzui.jpg)](http://techparty.org/wp-content/uploads/2010/10/fanzui.jpg)
+
+最后再次感谢两位老师，沙龙的组委，网易公司，以及所有关注，报名，到现场参加的朋友的支持。谢谢。
+
+
+# 资源分享
+
+
+感谢@yinhm童鞋和老甘童鞋提供了照片。
+
+[http://www.yupoo.com/photos/techparty/albums/1847222/](http://www.yupoo.com/photos/techparty/albums/1847222/)
+
+下面是陈硕先生的《分布式系统：一种工程方法》的Slide。
+
+[http://blog.csdn.net/Solstice/archive/2010/10/19/5950190.aspx](http://blog.csdn.net/Solstice/archive/2010/10/19/5950190.aspx)
+
+下面是闻波先生的《Android应用开发杂谈》的pdf下载。
+
+[Android开发杂谈](http://techparty.org/wp-content/uploads/2010/10/Android_.pdf)
+
+感谢Zoom.Quiet童鞋全程拍摄DV。
+
+[http://www.youku.com/playlist_show/id_5238686.html](http://www.youku.com/playlist_show/id_5238686.html)
+
+intro
+
+陈硕1
+
+陈硕2
+
+陈硕3
+
+陈硕4
+
+闻波1
+
+闻波2
+
+感谢所有为本次沙龙做出贡献的朋友们，谢谢你们。

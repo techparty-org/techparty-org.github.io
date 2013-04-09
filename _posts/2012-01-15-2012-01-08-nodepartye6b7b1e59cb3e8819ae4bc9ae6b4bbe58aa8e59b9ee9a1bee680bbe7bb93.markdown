@@ -1,0 +1,50 @@
+---
+author: gohan
+comments: true
+date: 2012-01-15 19:00:00
+layout: post
+slug: 2012-01-08-nodeparty%e6%b7%b1%e5%9c%b3%e8%81%9a%e4%bc%9a%e6%b4%bb%e5%8a%a8%e5%9b%9e%e9%a1%be%e6%80%bb%e7%bb%93
+title: 2012.01.08 Nodeparty深圳聚会活动回顾总结
+wordpress_id: 1450
+categories:
+- 总结
+- 深圳
+tags:
+- 总结
+- 深圳
+---
+
+大家新的一年好~~
+
+由CNode社区发起的nodeparty深圳聚会, 在珠三角沙龙和腾讯学院的协助下, 于2012.01.08在腾讯大厦顺利举办. 以下是本次活动总结:
+
+早晨10:30, 主持人老赵进行开场发言.
+
+[![sztechparty_83](http://pic.yupoo.com/techparty/BEPiSGkk/small.jpg)](http://www.yupoo.com/photos/techparty/84124634/)　　首先由贾超(@玄了个澄的)来介绍node.js, 结合淘宝应用相关的业务框架讲解, 突出介绍node的特性. 简单说来node.js是基于V8引擎之上的js运行环境, 因为它的事件驱动/异步IO模型, 具有对并发连接的良好支持. 是相当流行的server-side javascript环境. 玄澄提到前晚上加班到深夜, patch node环境以防范最近引起比较大影响的HashDos攻击, :), 敬请期待随后玄澄的分享.
+
+[![sztechparty_79](http://pic.yupoo.com/techparty/BEPiIHtk/small.jpg)](http://www.yupoo.com/photos/techparty/84124620/)　　接下来老雷(雷宗明)分享<QuickWeb框架介绍>. [QuickWeb](https://github.com/leizongmin/QuickWeb)是老雷自己的node web框架. 普通青年使用express写web应用, 作为一个文艺青年就用QuickWeb吧, 有中文文档(http://quick.cnodejs.net/), 方便的初始化web框架程序, 老雷演示了聊天室demo, 动态加载更新页面, 根据测试数据可以看到QuickWeb吞吐性能高于express. (注意到老雷是使用windows版本的node做的演示, 很不错, 因为我自己感觉不少的module对windows下的npm都不怎么友好的.) 老赵在主持中建议大家多关注点国产开源框架, 需要众多框架用户的使用和支持, 以促进开源框架的发展和改进啊.
+
+[![sztechparty_71](http://pic.yupoo.com/techparty/BEPhNhN5/small.jpg)](http://www.yupoo.com/photos/techparty/84124595/)　　上午的最后一个分享, 梁增海(@seaprince)带来<用NodeJs、WebSocket打造简易多人聊天室>, 同传统B/S通信到WebSocket, 从底层WebSocket的协议说开, 握手, 长连接. 到协议帧的各个字段, 最后是单机的多客户端模拟演示. 这个聊天室在server端直接用net模块实现WebSocket通信, 客户端使用Html5的WebSocket连接server. 这是种不错的实践, 实现中使用了RFC 6455协议. 只是在正式应用场景中对客户端的限制太严格了, :P. 如果做简易聊天室的原型Gohan推荐试用下socket.io或者基于它的now.js.
+
+中午于腾讯大厦15楼就餐, 就餐环境还蛮好的. 填饱肚子后, 大家再次回到2楼.
+[![sztechparty_67](http://pic.yupoo.com/techparty/BEPh94Hu/small.jpg)](http://www.yupoo.com/photos/techparty/84124573/)
+
+[![sztechparty_8](http://pic.yupoo.com/techparty/BEPbs0cu/small.jpg)](http://www.yupoo.com/photos/techparty/84124389/)　　下午第一个主题, 赵劼(@老赵)带来和他的[Jscex](https://github.com/JeffreyZhao/jscex)相关的分享<给异步编程多一点选择>, 开场白的幽默逗乐了全场, 本来准备了2小时的分享, 现场全程敲代码, 时间有限只好捡最关键的敲啦. 模拟了缓存和数据库接口, 以便用来记录耗时. 首先演示朴素异步callback方法编写读取博客数据库文章类别数据, 渲染出html, 在浏览器显示出对应结果. 接下来, 使用jscex, 实现同样功能的代码, 之前的回调模式的函数, 变成由Jscex生成的函数, 使用$await调用函数, 等待函数执行返回. 于是乎, 整个功能的代码结构, 回避掉了许多callback, 同传统的代码编写结构一致了, 可以看到耗时和最初的实现基本是一致的. 接下来, 老赵给post/cat获取方式修改为并行, 耗时一下减少许多. 感谢老赵的精彩分享.
+
+[![sztechparty_58](http://pic.yupoo.com/techparty/BEPfNw6K/small.jpg)](http://www.yupoo.com/photos/techparty/84124483/)　　接下来的主题, <朋友网长连接系统介绍(nodejs版)>, 来自腾讯黄友昆, 这是对腾讯已在线上运行的长连接系统介绍, 里面某些数据打了码XD. 朋友网单机的长连接hold数是13W, 为了多cpu可以充分利用, 长连接进程会启动多个, youkun介绍了长连接系统和监控系统的配合. 分享中youkun用node和erlang做了比较, 在性能表现方面两者相当, 但是node的内存占用少了一半, 相比erlang, javascript更容易上手和熟悉, node提供的模块也很易用, 这也是youkun的团队尝试node的原因. 最后提到了一些存在问题, 1. 子进程运行时间长会出现CPU1%的假死, 需要父进程监控并杀死假死进程. 2. 较新版本的node环境, 会出现一个进程通信断开的问题. 相信这些问题可以在今年妥善解决:).
+
+[![sztechparty_43](http://pic.yupoo.com/techparty/BEPeaCRy/small.jpg)](http://www.yupoo.com/photos/techparty/84124448/)　　下午第三个主题, 袁锋(@Python发烧友)的<UnitTest in Nodejs：实战Nodejs单元测试>, 使用deck做的presentation, 看起来挺漂亮哈. 这次介绍的测试框架是BDD风格的Mocha, 是作者继TDD的Expresso之后开发的新测试框架, python发烧友在实战中, 使用了should的断言库. 示例是一个短网址重定向还原的功能, 我注意到python发烧友的演示也是用tdd的思路: 先写测试代码, 测试失败, 增加/修改实现, 测试成功. "A cup of Mocha, test cases should pass.", mocha和should合璧达成了一种测试用例很可读的效果, "懂英语的项目经理"会懂得需求对应的用例的含义. presentation在python发烧友的github, [点此](http://fengmk2.github.com/mk2blog/ppt/unittest-and-bdd-in-nodejs-with-mocha.deck.html).
+
+[![sztechparty_40](http://pic.yupoo.com/techparty/BEPdfWXA/small.jpg)](http://www.yupoo.com/photos/techparty/84124440/)　　本次活动最后一个主题, 大家期待的, 由玄澄带来的<NodeJs对hash漏洞修复的解决方案>, 这里说的hash漏洞就是11年底一下变得很火爆的HashDos/高斯炮, 攻击者构造造成哈希冲突的请求数据进行的拒绝服务攻击. (http://www.ocert.org/advisories/ocert-2011-003.html, 可以看到攻击理论03年就被提出了). 玄澄演示了node下使用构造的有冲突key填充的dict和普通key比较的耗时差异, 构造数据导致hash表每次插入的复杂度退化成O(n), 整个hash dict的构建复杂度就是O(n^2)了. 在演示中, 300KB的post可以让用express的server无响应15s, 在演示攻击之后, 玄澄介绍了一些修正思路, 从对输入的限制到修改hash算法. 他们patch node的思路, 修改hash算法, 在node进程启动时构造一个随机数, 参与哈希函数的运算.
+
+活动分享完结, 最后的抽奖环节, 包括腾讯学院提供的龙年公仔和图灵图书提供的购书券. 恭喜各位中奖的同学~ 17:00 活动正式结束~
+[![sztechparty_63](http://pic.yupoo.com/techparty/BEPgRWcT/small.jpg)](http://www.yupoo.com/photos/techparty/84124550/)
+
+活动录音和有关ppt下载, [点击我](http://www.xlpan.com/home/106110777/65710294-89f3-4705-95f7-fb6229cfce5e).
+
+另: BenCrox已将老赵的分享录像上传, [链接](http://www.youtube.com/watch?v=alMY1JmaPn0).
+
+[![活动完后合影](http://pic.yupoo.com/techparty/BEPkbrNd/medish.jpg)](http://www.yupoo.com/photos/techparty/84124705/)
+活动结束的合影．
+
+感谢腾讯学院, 众讲师, 还有CNode社区lenzhang同学, 本次活动打杂人员: dcshi, michael, 老甘, Gohan, 尤其感谢dcshi在后台的直播, 大家辛苦啦.

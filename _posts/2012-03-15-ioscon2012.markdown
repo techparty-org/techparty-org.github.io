@@ -1,0 +1,96 @@
+---
+author: cngump
+comments: true
+date: 2012-03-15 16:48:12
+layout: post
+slug: ioscon2012
+title: iOSCon-第二届中国iOS移动开发者大会 广州场安排
+wordpress_id: 1716
+categories:
+- 广州
+tags:
+- ios
+- iOSCon
+- 广州
+---
+
+已经在开发iOS应用了？已经在AppStore赚钱了？恭喜你，那么来与iOS开发领域的大牛们一起交流，获取灵感，做大业务吧。
+
+![](http://topgeek.org/wp-content/uploads/2012/02/Steve-Jobs-iOSCon.jpg)
+
+本次iOS开发者大会将致力于iOS开发技术分享与交流，关注iOS前沿技术及和资讯动态，讨论技术难题，分享学习心得。本次大会是在上海举办的中国第二届iOS开发者大会，同时在上海、北京、广州、杭州同期举办分会场活动。
+
+更多iOSCon各地的安排见iOSCon主站介绍：
+http://ioscon.org/2012/
+报名见：
+http://ioscon.51qiangzuo.com/
+
+--------------------------------------------- 华丽的分割线 ---------------------------------------------
+广州iOSCon大会由珠三角技术沙龙主办和[广州GTUG](http://guangzhou-gtug.org/)协办
+
+时间：2012年3月24日 13:30-18:00
+地址：广州贝塔咖啡 (地址：海珠区新港中路397号，转入艺苑路，T.I.T创意园，创意西路07号别墅/客村地铁A出口)
+与会人数：70人
+
+--------------------------------------------- 广州的主题安排 ---------------------------------------------
+
+
+## 1.Mac应用程序人机交互设计
+
+
+主题简述：
+Mac OS X 是世界上最先进的操作系统，不仅具有强大的核心功能，同时也拥有引人注目的用户接口─ Aqua。它通过先进的功能以及颜色、透明度、动画效果的使用，提供吸引人的用户体验。本次主题介绍设计Mac应用程序人机交互基本原则，使得大家能够快速高效的设计出高质量的Mac应用程序。
+
+讲师介绍：
+[![](http://techparty.org/wp-content/uploads/2012/03/chenjunzhuo.png)](http://techparty.org/wp-content/uploads/2012/03/chenjunzhuo.png)
+陈均卓
+现任(FIT)广州新点信息科技有限公司的技术总监，曾于汇丰银行的软件中心担任高级工程师，iPhone版支付宝，畅销财务软件iXpenselt的主要编程人员之一。陈均卓在项目管理，系统架构设计，以及Mac、iPhone应用开发方面有丰富的经验。
+
+
+## 2. iOS产品如何实现快速版本发布
+
+
+主题简述：
+App Store排名对产品的用户规模发展起关键作用，使得App
+Store排行榜竞争越发激烈。实践证明快速发布版本是保持产品热度的有效手段，然而实施起来对研发、产品设计、项目管理都有很高要求。
+本次将和大家分享正点科技在研发正点闹钟时是如何保持产品质量的同时做到快速版本发布。
+
+讲师介绍：
+[![](http://techparty.org/wp-content/uploads/2012/03/kdifeng.png)](http://techparty.org/wp-content/uploads/2012/03/kdifeng.png)
+冯斌 珠海正点科技有限公司研发部iOS项目经理，网名KidFeng，使用MacOSX和Ubuntu，熟悉iOS与Android开发，技术兴趣广泛。
+
+
+## 3. iOS游戏/应用的开发、推广和变现
+
+
+讲师介绍：
+[![](http://techparty.org/wp-content/uploads/2012/03/liuyiwei.png)](http://techparty.org/wp-content/uploads/2012/03/liuyiwei.png)
+刘祎玮，浙江大学计算机硕士。2009年12月加入谷歌，现在商务合作部负责
+Adsense/Admob的商业合作伙伴引入。之前曾在百度、myTino、SolidWords公司工作。
+
+
+## 4. 构建稳健的iOS推送服务
+
+
+主题简述：
+剖析iOS推送机制及分享构建通用推送服务的实践心得。
+
+讲师介绍：
+[![](http://techparty.org/wp-content/uploads/2012/03/jeffkit.jpeg)](http://techparty.org/wp-content/uploads/2012/03/jeffkit.jpeg)
+jeff kit, toraysoft联合创始人兼技术负责人。
+
+
+## 5.电子阅读的难题
+
+
+主题简述： iOS 平台被广泛认为是目前阅读体验最好的平台，因而获得众多开发者的青睐。生态良好的 iOS App Store 商业模式应用内购买模式是否适用于阅读类产品，付费阅读的前景和难题在哪里，与越狱用户如何博弈将是本次演讲中的话题。
+
+讲师介绍：
+[![](http://techparty.org/wp-content/uploads/2012/03/fengrui.jpg)](http://techparty.org/wp-content/uploads/2012/03/fengrui.jpg)
+风端，南方周末新媒体首席运营官。曾任《南方周末》资深文化编辑多年。加入《南方周末》之前，于 IBM 中国，任大型计算机系统工程师。2007年以来，致力于传统媒体数字化转型的探索，主导推出中国媒体在 iOS 和 Android 平台上最早的新闻资讯应用“南周阅读器”系列，最近与 3G 门户联合推出了 iOS 平台上的数字阅读应用 "三体"。
+
+
+## 6. 广州某移动团队 （暂定）， 敬请期待。
+
+
+

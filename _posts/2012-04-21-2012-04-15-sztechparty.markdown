@@ -1,0 +1,153 @@
+---
+author: gohan
+comments: true
+date: 2012-04-21 16:08:00
+layout: post
+slug: 2012-04-15-sztechparty
+title: 2012.04.15 珠三角深圳小沙龙聚会总结回顾
+wordpress_id: 1871
+categories:
+- 总结
+- 深圳
+tags:
+- 总结
+- 深圳
+---
+
+深圳这次的小沙龙聚会, 因为4月的清明长假调休, 拖了又拖终于在4.15成功举办. 以下是聚会总结回顾.
+
+
+
+
+[![photo](http://pic.yupoo.com/techparty/BTMofkrD/medium.jpg)](http://www.yupoo.com/photos/techparty/85163645/)
+
+
+
+
+<QT基础>, 来自珠海的李瑞彬(@Robin_cheese_Lee)带来对QT的应用介绍, 在win下的WPS2012已经在使用QT作为界面框架了, robin是一个开源爱好者, Fedora packager, 分享最后的演示用QPainter画了个techparty的三角形logo. 时间有限, 有兴趣的同学可以关注robin的博客发现更多内容.  
+
+幻灯片:
+
+
+
+
+**[Qt 基础](http://www.slideshare.net/cppgohan/qt-12627557)**
+
+
+
+
+View more [presentations](http://www.slideshare.net/) from [cppgohan](http://www.slideshare.net/cppgohan)
+
+
+
+
+
+
+
+<LAMP性能优化>, 做运营工作的周灵杰同学(@xljiejie), 本次分享的lamp的非代码层面的优化过程. 简单介绍架构设计常识, 开源产品应用的经验, 提到对过度设计的抵制. 介绍常用的前后端架构层次, 用户->APPServer(LVS/session)->DBCache->DB. 介绍对这种架构应用的优化思路, 升硬件, 扩内存, 随机存取瓶颈频繁就考虑用SSD,不走南桥总线的PCI-E SSD, 提到了Facebook开源的flashcache的混合存储实现. 网卡软中断瓶颈, webserver的选择与配置性能分析方法.
+
+
+
+
+**[Lamp优化实践](http://www.slideshare.net/zhliji2/lamp-12630136)**
+
+
+
+
+View more [PowerPoint](http://www.slideshare.net/thecroaker/death-by-powerpoint) from [zhliji2](http://www.slideshare.net/zhliji2)
+
+
+
+
+
+
+
+<移动商店>, harry介绍自己做的产品, 从一份商业计划书开始讲, 意大利菜谱, 食材购买的app例子, 他希望能够让以后的支付体验变得更无缝. 这块很遗憾这次harry没有带给大家app的演示.
+
+
+
+
+<Rails automatic test driven development>, tylerlong(@龙泰勒)带来的RoR的TDD实践介绍, RSpec+Sublime的TDD开发流程. 有兴趣可以跳至tylor的个人博客看更多的tdd心得.
+
+
+
+
+**[Rails automatic test driven development](http://www.slideshare.net/tyler4long/rails-automatic-test-driven-development)**
+
+
+
+
+View more [PowerPoint](http://www.slideshare.net/thecroaker/death-by-powerpoint) from [tyler4long](http://www.slideshare.net/tyler4long)
+
+
+
+
+
+
+
+<Web开发人员之路>, 小路(@宅小路)带给大家的web开发人员心路历程, 继续分享自己对技术行业的思考.
+
+
+
+
+**[Web开发人员之路](http://www.slideshare.net/cppgohan/webe68-a80e69cafe4babae59198e79a84e5a4b1e8b4a5e4b98be8b7af)**
+
+
+
+
+View more [PowerPoint](http://www.slideshare.net/thecroaker/death-by-powerpoint) from [cppgohan](http://www.slideshare.net/cppgohan)
+
+
+
+
+
+
+
+<Meteor>, 校友圈张泽涛带来的主题, Meteor我也只是在4月初刚刚看过他们发出来的介绍视频. 泽涛这里就介绍了meteor和webapp开发历史技术的发展, meteor的优缺点. meteor是一个基于nodejs的webapp解决框架, 目前还是0.3的版本, 但是特点突出, 大家可以继续关注. 泽涛在接触Meteor的短短几天做了一个活动管理, 参与者聊天的webapp放在Meteor的平台给大家演示, 很不错.
+
+
+
+
+**[Meteor](http://www.slideshare.net/cppgohan/meteor-12627356)**
+
+
+
+
+View more [presentations](http://www.slideshare.net/) from [cppgohan](http://www.slideshare.net/cppgohan)
+
+
+
+
+
+
+
+<twitter Bootstrap小试>, 下来是我自个(@cppgohan)关于twitter bootstrap的主题了, bootstrap是twitter开源出来的CSS样式框架库, 浏览器友好, 自适应, 支持HTML5元素, 小清新的风格很适合轻量设计的web页面样式, 也适合我这种不怎么懂设计的懒人, 这回就是介绍了一下bootstrap的基础样式, 着重介绍了些less变量的定制, 以及对应的演示.
+
+
+
+
+**[Twitter bootstrap2.0 taste](http://www.slideshare.net/cppgohan/twitter-bootstrap20-taste)**
+
+
+
+
+View more [presentations](http://www.slideshare.net/) from [cppgohan](http://www.slideshare.net/cppgohan)
+
+
+
+
+
+
+
+<敏捷介绍>, 推广敏捷流程, 组织敏捷培训的美眉江超男(@江超男), 分享介绍了Scrum的流程, 和大家讨论各个流程的实施, 推荐了几本相关书籍. 其中提到本, 很有兴趣.
+
+
+
+
+各别暂缺的演示稿稍后会继续补全, 本次龙浩的主题因为时间关系转移至下次, 下回沙龙见!
+
+
+
+
+
+				

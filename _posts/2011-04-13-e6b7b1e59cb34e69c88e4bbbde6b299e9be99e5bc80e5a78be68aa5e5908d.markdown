@@ -1,0 +1,31 @@
+---
+author: andy.shi
+comments: true
+date: 2011-04-13 13:33:02
+layout: post
+slug: '%e6%b7%b1%e5%9c%b34%e6%9c%88%e4%bb%bd%e6%b2%99%e9%be%99%e5%bc%80%e5%a7%8b%e6%8a%a5%e5%90%8d'
+title: 深圳4月份沙龙开始报名
+wordpress_id: 403
+categories:
+- 广州
+- 总结
+- 沙龙
+---
+
+珠三角技术沙龙深圳4月小沙龙将于2011年4月23日举行，现在正式接受报名。
+
+目前收集到的主题如下：
+
+1. dcshi《十分钟构建高性能微信后台》
+
+2. 感染源：Linux服务器集群方案（LVS+Keepalived）
+
+3. 小路：MySQL配置优化
+
+4. Jeff rabbitmq测评
+
+特别鸣谢Jeff同学从广州过来支援，并贡献主题。欢迎大家积极报名参加。
+
+注：本次活动有可能会在咖啡馆等场地举行，也许会有少量费用 
+
+如果本页不能显示报名表单，请点击[这里](http://autoforms.sandbox.jeffkit.info/fill/19/?is_popup=true)进行报名。

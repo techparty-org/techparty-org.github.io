@@ -1,0 +1,53 @@
+---
+author: michael
+comments: true
+date: 2011-11-05 22:44:06
+layout: post
+slug: 2011-10-30-%e6%b7%b1%e5%9c%b3%e5%9c%ba%e5%bc%80%e6%94%be%e5%bc%8f%e8%ae%a8%e8%ae%ba%e4%b8%93%e9%a2%98%e6%b2%99%e9%be%99%e5%b0%8f%e7%bb%93
+title: 2011.10.30 深圳场开放式讨论专题沙龙小结
+wordpress_id: 1253
+categories:
+- 总结
+- 深圳
+---
+
+金秋10月30日，珠三角技术沙龙深圳场10月开放式讨论专场圆满结束。
+    <a href="http://techparty.org/wp-content/uploads/2011/11/IMAG1169.jpg"><img src="http://techparty.org/wp-content/uploads/2011/11/IMAG1169-1024x613.jpg" alt="" height="383" class="alignright size-large wp-image-1256" width="640"></img></a>
+
+
+
+
+首先要感谢各位讲师的精彩分享，感谢到场的各位业界人士，沙龙正是由于有了你们的热情参与，才变得更精彩。沙龙可以开阔眼界、交流解疑、结交朋友。期望各位继续关注和参与沙龙活动。错过的同学没关系，录音/ppt/回放照片同样精彩。
+
+![](http://techparty.org/wp-content/uploads/2011/11/IMAG1128-300x179.jpg)1）《纪念乔布斯》 余华大哥(Barry)，拥有几乎大部分苹果产品的但并不认为自己是果粉的奇人。从Cfdio网，到与创业期的腾讯擦身而过，到与苹果的机缘巧合，为我们介绍了苹果的运营支撑系统（简称BOSS体系）。另外分析了腾讯的成长过程；与乔布斯的一面之缘；以及腾讯的全民运营模式；对苹果产品的十年磨一剑态度。乔布斯一个无神论者冥想的目的是为了产品--永远不要对自己的产品有感情， 但是也要爱自己的产品，很矛盾吧！听听你就知道是怎么回事。不但为我们分析乔布斯还吐槽马化腾对产品的态度。【[录音1](http://techparty.org/wp-content/uploads/2011/11/1barry混缩.mp3)】
+
+[![](http://techparty.org/wp-content/uploads/2011/11/IMAG1141-300x179.jpg)](http://techparty.org/wp-content/uploads/2011/11/IMAG1141.jpg)2）《打造全功能型团队》 许江渝(James)同学为我们分析了团队的构成、企业文化、团队文化等。可能以前我们都没有了解过这些方面，另外列举香港和大陆不同地域团队文化的相互影响相互作用。如何管理不听话的员工。阐述全功能团队的意义。还向我们推荐Team building 方面的书《iTeams》,可以去看看。最后11月还有一个敏捷大联盟的敏捷大会，大家可以关注他。 【[PPT](http://www.slideshare.net/Michael2008S/v20-10033127)】【[录音2](http://techparty.org/wp-content/uploads/2011/11/2james.mp3)】
+
+[![](http://techparty.org/wp-content/uploads/2011/11/IMAG1142-300x179.jpg)](http://techparty.org/wp-content/uploads/2011/11/IMAG1142.jpg)3)《职业规划》 第一资本猎头给我们介绍的职业规划。为我们分析了目前电商、网游等形势，介绍什么时候该跳巢，以及增加自己的机会和提升自己的能力，有这方面兴趣的同学可以听听，看看眼界。【[ppt](http://www.slideshare.net/Michael2008S/ss-10033237)】【[录音3](http://techparty.org/wp-content/uploads/2011/11/3hr.mp3)】
+
+
+
+
+
+[![](http://techparty.org/wp-content/uploads/2011/11/IMAG1145-300x179.jpg)](http://techparty.org/wp-content/uploads/2011/11/IMAG1145.jpg)4）招聘环节： 来自广州跟Barry同时代的站长Alan，与朋友一起创建的“为客栈人服务的Web App”，有兴趣向这个方向发展的同学可以留意一下（工作地点广州）。 http://nibuer.com/
+
+
+
+
+
+
+
+[![](http://techparty.org/wp-content/uploads/2011/11/IMAG1158-300x179.jpg)](http://techparty.org/wp-content/uploads/2011/11/IMAG1158.jpg)5）《Objective-C运行时及对象模型》 来自万兴的林蓝东为我们介绍了object-c的由来历史，object-c的对象模型和消息机制。面向对象--很多人把目光集中在对象里而忽略了最重要的消息机制。【[ppt](http://www.slideshare.net/Michael2008S/objective-runtime)】【[录音4](http://techparty.org/wp-content/uploads/2011/11/4objc.mp3)】
+
+
+
+
+
+[![](http://techparty.org/wp-content/uploads/2011/11/IMAG1160-300x179.jpg)](http://techparty.org/wp-content/uploads/2011/11/IMAG1160.jpg)6）《移动互联网怎么样连接用户？》 吴位松，对自身的经历以及有所启发的吐槽，大谈如何对产品有爱如何体验产品。
+
+
+
+
+
+[![](http://techparty.org/wp-content/uploads/2011/11/IMAG1163-300x179.jpg)](http://techparty.org/wp-content/uploads/2011/11/IMAG1163.jpg)于是James提出的一个电话的第三方来电提示功能，引出一位香港的朋友李学斌（Ben Crox）对这个问题的解决方法。由此引出香港的BarCamp。可关注 www.barcamp.hk。
+【[录音5](http://techparty.org/wp-content/uploads/2011/11/5wws_barcamp.mp3)】

@@ -1,0 +1,69 @@
+---
+author: dcshi
+comments: true
+date: 2011-07-21 13:03:44
+layout: post
+slug: '%e7%8f%a0%e4%b8%89%e8%a7%92%e6%8a%80%e6%9c%af%e6%b2%99%e9%be%992011%e5%b9%b47%e6%9c%88%ef%bc%88%e6%b7%b1%e5%9c%b3%ef%bc%89%e6%80%bb%e7%bb%93'
+title: 珠三角技术沙龙2011年7月（深圳）总结
+wordpress_id: 725
+categories:
+- 小沙龙
+tags:
+- 小沙龙
+- 沙龙
+---
+
+![](http://pic.yupoo.com/techparty/BacUL3OZ/medium.jpg)
+7月17日，深圳珠三角技术沙龙圆满结束，在此特别感谢Oracle特派讲师从上海给我们带来分享和赞助java文化衫，也再次感谢深圳[万兴软件](http://www.wondershare.cn/)赞助场地和茶水.由于机器+人为原因导致某些topic的录音丢失，在这里向各位表示歉意.
+
+
+
+## GeorgeMa: Jdk7 新特性介绍
+
+
+
+![](http://pic.yupoo.com/techparty/Be6bXh2K/medium.jpg)
+
+第一个是来自Oracle的GeorgeMa(马立民)的《Jdk7新特性介绍》，当然除了对JAVA7的新特性进行介绍以外，George还透露了JAVA8不少更让人期待的功能。同时时下最火的云计算，JAVA又有什么新举措？更多尽在 [[PPT](http://vdisk.weibo.com/s/sSZc)]
+
+
+
+
+## Gongyin(龚银)：Java 垃圾收集机制
+
+
+![](http://pic.yupoo.com/techparty/Be6cxfeP/medium.jpg)
+
+第二个是gongyin(龚银)带来的《java垃圾收集机制》。这是一个很有技术含量的主题，只可惜时间有限，龚银老师只能介绍JAVA GC中最核心的部分.如各种GC算法原理和优缺点比较,垃圾对象检测以及新对象的分配等。意犹未尽的同学请关注[[PPT](http://vdisk.weibo.com/s/sSYv)]
+
+
+
+
+## Gelosie (王君)：一个 Java 从业者眼中的 Java 世界
+
+
+![](http://pic.yupoo.com/techparty/Be6buuDl/medium.jpg)
+
+第三个主题是gelosie (王君)带来的《一个Java从业者眼中的Java世界》，他给我们介绍了JAVA的发展历程，JAVA的应用场景和试图解决的问题，也提到了twitter为什么从Rails迁移到java等值得让我们去思考的问题，喜欢JAVA的同学请关注[[PPT](http://vdisk.weibo.com/s/sSYE)]
+
+
+
+
+## Dennis（黄贝）：TDD 敏捷开发实践
+
+
+![](http://pic.yupoo.com/techparty/Be6b06tb/medium.jpg)
+
+第四个主题是dennis（黄贝）带来的《TDD敏捷开发实践》，基于一个简单的例子给我们介绍了如何做TDD，TDD可以为我们解决什么问题以及在遗留系统上如何做TDD等.TDD贵在实践，会后的讨论也十分热烈.更多请关注[[PPT](http://vdisk.weibo.com/s/sSYy)]和[[录音]](http://andyshi.me/mp3/huangbei.mp3)
+
+
+
+
+## Harry（周林）：做一个好性能的 web 服务器
+
+
+![](http://pic.yupoo.com/techparty/Be6cFz4O/medium.jpg)
+
+最后一个主题是前腾讯员工harry（周林）带来的《做一个好性能的web服务器》，从一个最赤裸的服务器模型开始，到进程模型，脚本支持，缓存策略，解析器等各个方面对服务器性能进行优化.对后端有兴趣的同学请关注[[PPT](http://vdisk.weibo.com/s/sSYq)]和[[录音]](http://andyshi.me/mp3/harry.mp3)
+
+

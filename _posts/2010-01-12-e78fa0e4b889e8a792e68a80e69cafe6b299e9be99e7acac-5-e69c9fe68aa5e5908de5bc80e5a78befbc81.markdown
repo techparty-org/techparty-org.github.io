@@ -1,0 +1,56 @@
+---
+author: laiyonghao
+comments: true
+date: 2010-01-12 15:15:45
+layout: post
+slug: '%e7%8f%a0%e4%b8%89%e8%a7%92%e6%8a%80%e6%9c%af%e6%b2%99%e9%be%99%e7%ac%ac-5-%e6%9c%9f%e6%8a%a5%e5%90%8d%e5%bc%80%e5%a7%8b%ef%bc%81'
+title: 珠三角技术沙龙第 5 期报名开始！
+wordpress_id: 38
+categories:
+- 公告
+- 沙龙
+---
+
+珠三角技术沙龙第 5 期回归广州，免费参加，欢迎大家来相聚。
+
+
+# 简介
+
+
+珠三角技术沙龙，原名广州技术沙龙，是由珠三角地区的 web、游戏开发人员自发组织的线下交流活动，计划每月举办一期，以主题演讲和松散交流为形式；已经在广州、深圳两地成功举办 4 期，也即将杀到珠海。
+论坛
+[http://groups.google.com/group/guangzhou-tech-party?hl=zh-CN](http://groups.google.com/group/guangzhou-tech-party?hl=zh-CN)讲师和课题
+
+《基于 RoR 的 REST API 设计与twitter/facebook API 分析》
+伍少坤 ，专业是 GIS，现任 Kude Labs 的软件工程师，从事 Web Application 的开发，将近 4年的 Ruby on Rails 经验，一直努力将 REST 的思想应用于项目中。
+个人对 Open Source 十分感兴趣，在 Github 上维护两个开源的 Javascript 小插件，同时关注 Ruby on Rails，Ajax，Javascript 等技术。
+《KTRAC ~ 珠海金山怎么用trac》
+Zoom.Quiet，周琦， 男，金山软件，过程改进经理，纯种Pythoner，自由软件原教旨主义者，尝试使用Pythonic体验感化国人主动进入自由软件世界体验/学习/再创作。
+Trac 是号称不干扰己有工作流程的任务管理平台,在金山我们则是用Trac 来建立新的流程;当然Trac 天然的敏捷内在是我们深入定制她的动力!
+
+
+# 报名
+
+
+请填写[报名表](http://surveys.polldaddy.com/s/9E8E3957F341E56D/)，我们会在 1 月 19 日发送确认信。
+
+
+# 时间、地点和交通
+
+
+时间：2010 年 1 月 23 日（周六）下午 1:30 至 5:30
+地址：广州市天河区科韵路16号广州信息港E栋网易大厦一楼博学堂
+
+交通：天河软件园交通发达，附近的公交站有学院站、科韵路站、员村四横路口站、程介村站，其中后面两个下车后走到网易大厦的路径比较曲折，敬请先查看地图或向路人问路。
+地图：
+
+![](http://hx.okvi.com/wp-content/uploads/2008/11/netease_map.jpg)
+
+![](http://farm4.static.flickr.com/3009/3808018192_1a198f1e22.jpg)
+
+
+# 赞助
+
+
+场地赞助：网易广州（[http://www.163.com](http://www.163.com)）
+奖品赞助：GeekCook（[http://geekcook.taobao.com/](http://geekcook.taobao.com/)）

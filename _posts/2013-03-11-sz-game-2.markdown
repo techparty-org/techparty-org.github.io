@@ -1,0 +1,70 @@
+---
+author: dcshi
+comments: true
+date: 2013-03-11 19:21:31
+layout: post
+slug: sz-game-2
+title: 珠三角技术沙龙深圳2013-03
+wordpress_id: 2195
+categories:
+- 社区
+---
+
+2013-03-17 (本周日)下午2点-6点，珠三角技术沙龙深圳-游戏专场。
+
+地点：腾讯某办公大楼（具体会议室稍后另外邀请帖通知）.请点击[报名](http://f.jeffkit.info/techparty/techparty_sz_201303/)
+
+
+
+主题列表:
+
+**《VinyStorage——网络游戏数据存储的终极解决方案》**
+
+VinyStorage是专为网络游戏设计的数据存储方案，具备以下特点：
+
+* 安全：支持实时热备份
+
+* 健壮：支持静态数据定义、类型检查，具备向后兼容性
+
+* 可伸缩：支持分布式部署
+
+* 易用：用户代码平均只需Memcached/MySQL的五分之一
+
+* 高性能：IOPS比Memcached高三千倍
+
+VinyStorage也是VinyCross引擎的基础部分，用以支持实时交互的巨大单一游戏世界。
+
+周迁：葡萄藤03号程序员，服务端主力开发者，前《非仙勿扰》技术负责人。
+email: zhouqian1103@gmail.com
+github: https://github.com/eddyzhou
+
+
+
+<del>**《神器OL - 数据存储方案》**</del>
+
+**《hxhsm——取代MVC的状态机框架》**
+
+hxhsm是一个状态机框架，为交互界面、场景角色控制、AI等领域的业务逻辑开发提供规范流程。它具备以下特性：
+
+* 简单：程序员需要手工编写的代码只需PureMVC等MVC框架的五分之一
+
+* 规范：对产品设计、编码实现、软件测试三方面都提供完善的工具。
+
+* 策划：自动根据状态机定义绘制状态图
+
+* 程序：自动生成程序代码；静态类型检查，强制程序员编写紧凑的模块化代码
+
+* QA：提供基于状态机的录像，能精确重现并调试业务逻辑的bug
+
+* 跨平台：基于纯Haxe编写，支持HTML5、Flash、Android、iOS、Windows、Linux、Mac OS X等主流平台
+
+hxhsm也是VinyCross引擎的基础部分之一，用于搭建游戏客户端的架构。
+
+杨博：《男搭女配》制作人；VinyCross引擎主要作者；“我们就爱复杂的编程语言”小组组长。擅长架构设计和桌面游戏。
+email: pop.atry@gmail.com
+github: https://github.com/Atry
+
+
+
+
+我要[报名](http://f.jeffkit.info/techparty/techparty_sz_201303/)！！

@@ -1,0 +1,68 @@
+---
+author: laiyonghao
+comments: true
+date: 2009-10-28 23:12:59
+layout: post
+slug: '%e5%b9%bf%e5%b7%9e%e6%8a%80%e6%9c%af%e6%b2%99%e9%be%99%e7%ac%ac-3-%e6%9c%9f%e6%8a%a5%e5%90%8d%e5%bc%80%e5%a7%8b%ef%bc%81'
+title: 广州技术沙龙第 3 期报名开始！
+wordpress_id: 26
+categories:
+- 公告
+- 沙龙
+---
+
+## 简介
+
+
+广州技术沙龙，是由珠三角地区的 web、游戏开发人员自发组织的线下交流活动，计划每月举办一期，以主题演讲和松散交流为形式；在 8 月和 9 月，我们分别在位于天河城粤海大厦的新浪广州办公室和广州信息港E栋网易大厦举办了两期沙龙，来自广州、珠海、深圳等珠三角城市的许多技术人员参加了活动，其中不乏来自网易、金山、腾讯、中国移动等公司的开发人员，活动举办后，大家通过 twitter、python-cn maillist 和 blog 持续交流，取得了比较好的线下交流效果。现在，我们也申请了自己的论坛：[http://groups.google.com/group/guangzhou-tech-party?hl=zh-CN](http://groups.google.com/group/guangzhou-tech-party?hl=zh-CN)
+
+本期沙龙
+
+10 月因为国庆放假，安排沙龙太过匆忙，所以把 10 月的沙龙合并到 11 月举行。这一期沙龙，已经邀请了珠海金山的刘鑫主讲《PostgreSQL数据库及相关设计》的 topic，和广州易度的创始人潘俊勇主讲《云时代的软件》。参加沙龙完全免费，交通费用自理。
+本次讲座内容讨论：[http://groups.google.com/group/guangzhou-tech-party/browse_thread/thread/b0009e4b767bb5ff?hl=zh-CN](http://groups.google.com/group/guangzhou-tech-party/browse_thread/thread/b0009e4b767bb5ff?hl=zh-CN)
+
+
+## 讲师介绍
+
+
+刘鑫
+从业近十年，专注于软件开发技术，广泛涉及多个领域，参与过星空极速等多个大型项目。翻译了2.3至3.0的多个版本的Python Tutorial文档，撰写过《SQL Story》等广受好评的作品。前ACCP科苑中心讲师，目前就职于金山软件公司，从事数据库运维、数据挖掘、搜索引擎等方面的工作。
+潘俊勇
+中国Python社区的领军人物，CZUG的创始人，国际知名的ZOPE/PLONE专家，十数年从业经验，是将 Python 引入国内的先行者，在 Web 等领域有多年经验，创造的润普、易度等品牌在业内闻名遐迩。
+
+
+## 报名
+
+
+请填写以下报名表，我们会在 11 月 11 日发送确认信。
+[http://ow.ly/wSoy](http://ow.ly/wSoy ) （已终止报名）
+
+
+## 时间、地点和交通
+
+
+时间：2009 年 11 月 14 日（周六）下午 2:30 至 5:30
+地址：地址：广州市海珠区新港西路135号中山大学西门口中山大学国家大学科技园七楼
+公交线路：8、12、14、23、24、25、29、30、37、45、53、69、88、125、178、184、188、190、197、203、206、208、211、226、263、264（省荣校或怡乐村站）
+地铁：1号线、2号线(中大站Ｂ出口即到）
+
+
+## 
+
+
+
+
+## 致谢
+
+
+感谢 Joshua Zhu、Tim Yang、刘鑫的辛勤组织！
+
+感谢北大青鸟广州科苑中心热心提供场地！
+
+
+## 赞助
+
+
+长期奖品赞助GeekCook（[http://geekcook.taobao.com/](http://geekcook.taobao.com/)），本期赞助：3件Tee，3个抱枕，和5顶帽子。
+
+[![](http://img06.taobaocdn.com/bao/uploaded/i6/T1dV0mXXBoXXc86qk9_102357.jpg_160x160.jpg)](http://geekcook.taobao.com/) [![](http://img06.taobaocdn.com/bao/uploaded/i6/T1e0teXXlzXXcniR.9_104456.jpg_160x160.jpg)](http://geekcook.taobao.com/)

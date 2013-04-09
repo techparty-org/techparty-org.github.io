@@ -1,0 +1,53 @@
+---
+author: admin
+comments: true
+date: 2011-01-15 15:27:17
+layout: post
+slug: 2011_1_gz_min
+title: 2011年1月广州小沙龙开始报名
+wordpress_id: 192
+categories:
+- 社区
+tags:
+- gae
+- ios
+- java
+- objc
+- scala
+- 小沙龙
+---
+
+珠三角技术沙龙2011年1月广州小沙龙正式开始接受报名了。沙龙将在1月23号（星期天）下午举行。
+
+本期沙龙收集到的主题有：
+
+
+
+	
+  * 《Google App Engine Web开发》，by [殷海明](http://yinhm.appspot.com)。海明的Blog常年架设于GAE之上，本次分享定属给力的经验之谈。
+
+	
+  * 《漫谈Java客户端开发》，by [老甘](http://twitter.com/#!/cngump)。老甘有着多年的Java应用程序开发经验，本月分享关于Java的客户端开发方面的知识。
+
+	
+  * 《Xapian 全文搜索》，by [潘俊勇](http://www.czug.org/blog/panjy/)。everydo.com的全文搜索精髓分享，老潘相当给力。
+
+	
+  * 《2010我的年度技术之选》，by [赖勇浩](http://blog.csdn.net/lanphaday)。赖总的每周加星大家还记得吧，赖总的书评总会一度引发购书潮，看看他2010年的技术之选，又会对大家的选择产生多深的影响！
+
+	
+  * 《使用Scala进行并发编程》，by [Jeff kit](http://jeffkit.info)。公司里，常规的Java并发编程难以避免资源共争锁所带来的性能损耗，Jeff开始试验性地接触Scala，并希望找到解决方案，这里只是探索路上的一点心得。
+
+	
+  * 《iOS Dev Hacking之js talk to obj-c》，by [双木成林](http://linluxiang.javaeye.com/)小神童，双木同学在小沙龙的习惯是直接祭代码，相当痛快，值得期待。
+
+	
+  * 来自[伍少坤](http://twitter.com/#!/shaokun)及星神[邢兴](http://www.mikespook.com/)的Object-C经验分享两则。
+
+	
+  * 原新浪微博产品经理[谭颖华](http://t.sina.com.cn/fantasysoft)届时会分享一些微博开放平台的赢利机会。
+
+
+相当给力的主题，对吧？有兴趣参与的同学们请填写下面的报名表单，组委会届时会通过Email通知沙龙举办的详细的时间以及场地等。
+
+如本页内无法看到表单，请到[这里](http://autoforms.sandbox.jeffkit.info/fill/8/?is_popup=true)来进行报名，谢谢。

@@ -1,0 +1,92 @@
+---
+author: laiyonghao
+comments: true
+date: 2010-01-10 12:15:00
+layout: post
+slug: '%e7%8f%a0%e4%b8%89%e8%a7%92%e6%8a%80%e6%9c%af%e6%b2%99%e9%be%99%e7%ac%ac-4-%e6%9c%9f%e6%80%bb%e7%bb%93%ef%bc%88%e5%90%ab%e7%85%a7%e7%89%87%e3%80%81ppt-%e5%92%8c%e8%a7%86%e9%a2%91%ef%bc%89'
+title: 珠三角技术沙龙第 4 期总结（含照片、ppt 和视频）
+wordpress_id: 36
+categories:
+- 总结
+- 沙龙
+---
+
+号外：第 5 期活动报名即将开始，敬请留意。
+
+
+
+* * *
+
+2009 年 12 月 19 日，珠三角技术沙龙移师深圳，成功在深圳发展银行大厦由深圳众禄投资顾问有限公司（[www.jjmmw.com](http://www.jjmmw.com)）赞助的场地举行，大约来自有 70 名珠三角的技术人员参加了活动，其中东道主基金买卖网的 CTO 韦光京先生（python-cn 社区的 ID 为 vcc）作了题《Django高级应用》的报告，另一场是由腾讯广州远道前往的邝宇恒做的《大型架构介绍》，两个高质量的主题，让参会者大呼过瘾。因为此次沙龙预计的一些活动环节因故取消息（但活动总时间仍然高达 4 小时），所以有比较长的自由交流时间，相信通过沙龙也很好地促进了深圳技术人员之间的交流。
+
+![dsc0393722222222](http://blog.laiyonghao.com/wp-content/uploads/2010/01/dsc0393722222222.jpg)
+
+沙龙在下午一时三十分准时开始，我做了个简单的开场白，主要是向深圳的朋友介绍了一下沙龙的历史，举办过的活动，取得的效果，最重要的是跟大家公告了一下活动正式由广州技术沙龙更名为珠三角技术沙龙，全面升级！
+
+![http_imgloadcaoj65i9](http://blog.laiyonghao.com/wp-content/uploads/2010/01/http_imgloadcaoj65i9.jpg)
+
+在开场白过后，韦光京上场讲《Django高级应用》，他从主创的八卦讲起，而及 Django 设计思想，再及其实现，虽然演讲技巧比较缺乏，但过硬的技术素养仍然让人听起来饶有趣味。猛回头，只见大家都听得出了神（没去的朋友不用遗憾，文章后面的全场录像）。
+
+![dsc03938_22222222](http://blog.laiyonghao.com/wp-content/uploads/2010/01/dsc03938_22222222.jpg)
+
+韦光京先生不仅在商业项目中勇敢地应用了 Django 框架，更值得让人赞叹的是他组织社区的爱好者一起翻译了《Django Book》，而且正在翻译此书的第二个版本；除此之外，还积极开发了开源项目 Django-pyodbc 和 Django-multidb，对 Django 要深入理解和应用的朋友可以多去 python-cn 社区找他聊聊。
+
+在 Django 的课题之后，是大约半个小时的自由交流时间，在这期间，从广州过去的老潘、老甘、Jeff 和陆美女等人，与深圳、珠海等地的朋友们一起友好地交流了技术心得。而后是来自腾讯广州的邝宇恒开始做 topic，讲述了大型分布式架构设计和实现中可能会遇到和已经遇到的问题，以及相应的一些解决方案，连续两个小时的喷发，激发了观众的发问热情，其中又以沙龙组织人员之一 Tim Yang 提出的“这些架构有哪些技术可以方便地为国内企业所用”最具建设性，没有现场去听的朋友切切不可再错过精彩视频。
+
+![http_imgloadcap6rprc1](http://blog.laiyonghao.com/wp-content/uploads/2010/01/http_imgloadcap6rprc1.jpg)
+
+最后大家依依惜别，却忘了跟大家来个合影，人都走掉大半，才急急忙忙找了剩下的十几二十弱兵残将合了个影，聊胜于无了。眼见天色已晚，我们就很抱歉地出了大厦，留下一堆残局有待东道主收拾，真是抱歉。在门口，广州过去的十来个人计划组队回家，一起去书城背后的一个江西饭馆吃了一顿，再慢慢晃到万象城，经隧道，坐地铁，转和谐号到广州，一路上再开了个小沙龙，把言甚欢在些就不作细表了。只可惜这次沙龙之后，我和 Tim Yang 都因为到了年底，很多事情，沙龙总结迟迟不能写出来，实在是对不住大家，还请见谅，也请大家继续支持我们的第 5 期！将会回归广州举行。
+
+![http_imgloadcatsj2l3](http://blog.laiyonghao.com/wp-content/uploads/2010/01/http_imgloadcatsj2l3.jpg)
+
+最后，感谢我们的奖品赞助商 GeekCook，给我们的讲师还有积极提问的朋友送上了漂亮的抱枕、帽子和水杯。有兴趣的朋友欢迎直接到他们的网站购买（[http://geekcook.taobao.com](http://geekcook.taobao.com)）。
+
+最后感谢啃饼同学为此次总结提供图片。
+
+
+
+* * *
+
+以下是 PPT 和视频：
+
+<!-- more -->开场白-赖勇浩
+
+
+
+Django高级应用-韦光京
+
+幻灯片
+
+[http://docs.google.com/present/view?id=0AZtbfCHHRELLZGY2N3Z4Zm1fMzVocWs2ZGYyNA&hl=zh_CN
+](http://docs.google.com/present/view?id=0AZtbfCHHRELLZGY2N3Z4Zm1fMzVocWs2ZGYyNA&hl=zh_CN )
+
+
+
+
+
+
+分布式架构学习笔记-邝宇恒
+
+
+[Dreaming Infrastructure](http://www.slideshare.net/kyhpudding/dreaming-infrastructure)
+
+
+
+
+
+
+View more [documents](http://www.slideshare.net/)
+from [kyhpudding](http://www.slideshare.net/kyhpudding)
+.
+
+
+
+
+
+
+
+
+
+
+
+
