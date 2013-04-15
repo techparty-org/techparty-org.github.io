@@ -1,0 +1,82 @@
+---
+author: cngump
+comments: true
+date: 2013-04-12 10:10:22
+layout: post
+slug: gztechparty_201304_idev-2
+title: 珠三角技术沙龙广州4月iOS开发专场-报名
+wordpress_id: 2263
+categories:
+- 社区
+---
+
+活动：珠三角技术沙龙广州4月iOS开发专场
+
+时间：2013-04-21 (周日) 13:30-18:00
+
+报名方式：请使用微信关注珠三角技术沙龙公众号“techparty”或扫描下面的二维码直接关注，输入er命令进行报名，更多玩法请自行摸索 :)。
+
+[![qrcode_for_gh_4d92f5a32967_430](http://techparty.org/wp-content/uploads/2013/04/qrcode_for_gh_4d92f5a32967_430-300x300.jpg)](http://techparty.org/wp-content/uploads/2013/04/qrcode_for_gh_4d92f5a32967_430.jpg)
+
+内容介绍：
+---------------------- 暖场，自我介绍 -----------------------
+
+**1.《Mac OS APP 的沙盒和相关审核技术》**
+
+从去年八月份开始，Mac OS APP Store不再接受不使用沙盒（Sandbox）的app上架。这给App 开发者带来了新的挑战。沙盒机制下的开发与以前有何不同？如何适应这种受限的环境？可能会遇到什么问题？
+
+演讲者：刘鑫（weibo: http://weibo.com/marchliu ），从去年进入mac os app开发领域，成立了矮人工匠工作室（http://dwarf-artisan.com）。目前涉猎mac os/ios app开发。
+
+**2.《通信聊天DIY》**
+
+如何為我的應用增加一個IM功能？
+
+演讲者：吳卓強 Harry（weibo: http://weibo.com/harryng ），信+(http://xin.io/)创始人。多年的移动开发经验。
+
+**3.《Xamain 2.0 的跨平台移动开发》**
+
+当今移动平台众多(iOS,Android,Windows RT/Phone等)，对于公司或个人都是一个挑战。通过最新的Xamarin 2.0可以实现一个开发工具(Visual Studio),一种语言C#去实现跨终端的移动程序开发。
+
+演讲者：卢建晖（weibo: http://weibo.com/kinfey ,blog: http://course.gdou.com/blog/blog.kinfey/default.html ），微软MVP，华南师范大学网络教育学院程序设计总监。09年开始进入移动开发领域。主要从事多个平台的移动学习方案。
+
+**4.《Ukulele演奏》**
+
+表演者：
+
+丁丁 （weibo: http://weibo.com/dobefore )
+
+黄教授 (weibo: http://weibo.com/u/1269972493 )
+
+---------------------- 中场休息 -----------------------
+
+**5.《StartupGrind and GZTechJobs》**
+
+介绍一下创业的组织StartupGrind, 和广州Ruby社区。
+
+演讲者：Adeh （weibo: http://weibo.com/u/1943837047 ） 酷德实验室的技术总监
+
+**6.《在 iOS 应用中使用 icon font》**
+
+icon font 是指做成了字体文件格式的图标，相比图标文件优点有：矢量字体能适应不同分辨率，通过代码可以方便地调整尺寸和颜色。icon font在前端开发中相当流行，Bootstrap 框架大量使用了 icon font 来代替图标文件，本主题将介绍在 iOS 应用中如何使用 icon font 。
+
+演讲者：钟子豪（weibo: http://weibo.com/pridechung ），PHP程序员，去年开始涉足 iOS开发，目前是独立开发者。
+
+**7.《基于coretext排版的一些个人心得》**
+
+基于coretext排版的一些个人心得
+
+演讲者：陶醉 南方周末新媒体资深iOS开发工程师，对iOS下面的排版开发经验丰富。
+
+**8.《iOS开发中的MVC》**
+
+随着Xcode中的功能越来越多，开发中又有新的需求变动，和不断增加的开发人员，一个app的开发工作量也可以很强大。怎么去迅速的去应对变化，所以良好的约定，较细的分层，可以保证项目井井有条，提高效率和拥抱变化。
+
+演讲者：老甘（weibo: http://weibo.com/cngump ），技术杂，多年的前后端开发经验，2年多的iOS开发经验。红甘果科技的联合创始人，带着10人的iOS外包开发团队。
+
+---------------------- 抽奖环节 -----------------------
+
+合影
+
+饭醉
+
+
