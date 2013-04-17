@@ -68,12 +68,22 @@ type: post
 <article class="article article-first">
 <h3>最新文章</h3>
 <ul>
-	{% for post in site.posts limit: 4 %}
+	{% for post in site.posts limit: 5 %}
 	<li><a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a></li>
 	{% endfor %}
 </ul>
+<h3>文章索引</h3>
+<ul>
+	<li><a href="/archives.html" ret="bootmark">归档</a>
+		</li>
+    <li><a href="/categories.html" ret="bootmark">分类</a>
+		</li>
+    <li><a href="/tags.html" ret="bootmark">标签</a>
+		</li>
+</ul>
 </article>
 <article class="article article-last">
+        
 <h3>友情链接</h3>
 <ul>
 	<li>社区
