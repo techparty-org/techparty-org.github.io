@@ -17,7 +17,7 @@ tags:
 - 珠海
 ---
 
-[![](http://techparty.org/wp-content/uploads/2012/02/cellphone-before-now.jpg)](http://techparty.org/wp-content/uploads/2012/02/cellphone-before-now.jpg)
+[![](http://techparty-media.qiniudn.com/2012/02/cellphone-before-now.jpg)](http://techparty-media.qiniudn.com/2012/02/cellphone-before-now.jpg)
 
 
 iPhone 早已完美证明了生态链等于钱!

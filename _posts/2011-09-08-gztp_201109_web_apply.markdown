@@ -64,7 +64,7 @@ popoer
 ## 《翻译与写作技术图书那点事》
 
 
-[![](http://techparty.org/wp-content/uploads/2011/09/yukuang.jpg)](http://techparty.org/wp-content/uploads/2011/09/yukuang.jpg)
+[![](http://techparty-media.qiniudn.com/2011/09/yukuang.jpg)](http://techparty-media.qiniudn.com/2011/09/yukuang.jpg)
 余晟
 简介: 余晟，@yurii_yu，不务正业的打杂程序员，现在广州一家做进出口电商和物流的公司任职，之前主要从事Web后端的开发，对Java、Python、C++、PHP、MySQL等等都略懂，业余时间翻译和审校了一些技术书籍。
 不少IT人都渴望分享，除了小范围可见面的分享，更希望能参与到图书的翻译和写作中去，但也有不少人的翻译和写作半途而废。身为一名趟过翻译和写作这滩浑水的人，有若干经验总结供大家参考。
@@ -99,7 +99,7 @@ popoer
 ## 《Rails: Web API 开发》
 
 
-[![](http://techparty.org/wp-content/uploads/2011/09/shaokunwu.png)](http://techparty.org/wp-content/uploads/2011/09/shaokunwu.png)
+[![](http://techparty-media.qiniudn.com/2011/09/shaokunwu.png)](http://techparty-media.qiniudn.com/2011/09/shaokunwu.png)
 伍少坤
 简介: 伍少坤，广州酷德软件开发有限公司，读书时候是 GIS 专业，工作后主要从事 Web Application 与 iOS 开发。
 专注技术包括 ruby on rails，javascripts 和 Object C。最近开发了一些应用是通过 rails 为移动客户端提供 API 支持，感觉用 rails 颇能省心省事。

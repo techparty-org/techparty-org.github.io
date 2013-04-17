@@ -12,7 +12,7 @@ categories:
 - 珠海
 ---
 
-[![](http://techparty.org/wp-content/uploads/2012/02/1-120226-zhtechparty-11.jpg)](http://techparty.org/wp-content/uploads/2012/02/1-120226-zhtechparty-11.jpg)
+[![](http://techparty-media.qiniudn.com/2012/02/1-120226-zhtechparty-11.jpg)](http://techparty-media.qiniudn.com/2012/02/1-120226-zhtechparty-11.jpg)
 
 
 

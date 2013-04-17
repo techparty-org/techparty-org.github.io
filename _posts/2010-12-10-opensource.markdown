@@ -47,4 +47,4 @@ tags:
 
 地图：
 
-[![](http://techparty.org/wp-content/uploads/2010/12/xmkf.png)](http://techparty.org/wp-content/uploads/2010/12/xmkf.png)
+[![](http://techparty-media.qiniudn.com/2010/12/xmkf.png)](http://techparty-media.qiniudn.com/2010/12/xmkf.png)

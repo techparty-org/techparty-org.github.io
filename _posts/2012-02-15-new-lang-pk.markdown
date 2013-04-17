@@ -11,7 +11,7 @@ categories:
 - 报名
 ---
 
-[![](http://techparty.org/wp-content/uploads/2012/02/king_of_kings1.jpg)](http://techparty.org/wp-content/uploads/2012/02/king_of_kings1.jpg)龙年伊始，关于编程语言的纷争已起，江湖上硝烟弥漫，到底是 C++11 王者归来，还是 Google Go 霸气外露？新的一年，Mozilla 推出的 C++ 替代者 Rust 又是如何，JVM 上的 Scala 能否写就传奇，F#、C#4 能否再拓疆土，Dart 有没有潜力成为网页前端的新人王？
+[![](http://techparty-media.qiniudn.com/2012/02/king_of_kings1.jpg)](http://techparty-media.qiniudn.com/2012/02/king_of_kings1.jpg)龙年伊始，关于编程语言的纷争已起，江湖上硝烟弥漫，到底是 C++11 王者归来，还是 Google Go 霸气外露？新的一年，Mozilla 推出的 C++ 替代者 Rust 又是如何，JVM 上的 Scala 能否写就传奇，F#、C#4 能否再拓疆土，Dart 有没有潜力成为网页前端的新人王？
 
 带着这些疑问，沙龙组委为您组织了“新语言专场”，诚邀各方志士，为自己喜欢的编程语言呐喊助威，大家也可以一睹新语言风采，开拓眼界，互通有无。
 
@@ -57,5 +57,5 @@ categories:
 地点：客村地铁站旁，丽影广场附近，具体地点由邮件通知。
 报名：[http://f.jeffkit.info/techparty/techparty_gz_201202/](http://f.jeffkit.info/techparty/techparty_gz_201202/)
 
-[![](http://techparty.org/wp-content/uploads/2012/02/prog-lang-image.jpeg)](http://techparty.org/wp-content/uploads/2012/02/prog-lang-image.jpeg)
+[![](http://techparty-media.qiniudn.com/2012/02/prog-lang-image.jpeg)](http://techparty-media.qiniudn.com/2012/02/prog-lang-image.jpeg)
 

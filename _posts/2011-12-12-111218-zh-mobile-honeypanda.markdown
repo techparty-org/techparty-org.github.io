@@ -48,7 +48,7 @@ categories:
     
 
 
-  2. **罗志城(正点科技) Symbain开发体验**[![](http://techparty.org/wp-content/uploads/2011/12/Luozhch.jpeg)](http://techparty.org/wp-content/uploads/2011/12/Luozhch.jpeg)
+  2. **罗志城(正点科技) Symbain开发体验**[![](http://techparty-media.qiniudn.com/2011/12/Luozhch.jpeg)](http://techparty-media.qiniudn.com/2011/12/Luozhch.jpeg)
     
     
     * **讲师:**珠海正点科技有限公司Symbain平台产品研发负责人。
@@ -77,7 +77,7 @@ categories:
     
 
 
-  4. **白银祖(西山居) 测试开发在游戏方面的应用**[![](http://techparty.org/wp-content/uploads/2011/10/白银祖-head-232x300.jpg)](http://techparty.org/wp-content/uploads/2011/10/白银祖-head.jpg)
+  4. **白银祖(西山居) 测试开发在游戏方面的应用**[![](http://techparty-media.qiniudn.com/2011/10/白银祖-head-232x300.jpg)](http://techparty-media.qiniudn.com/2011/10/白银祖-head.jpg)
     
     
     * **讲师:**金山软件西山居高级质量经理,07年加入金山,曾就职于金山软件WPS、金山网络,长期从事自动化测试工作,参与了多套系统的设计与实现,有着丰富的自动化测试经验. 现负责西山居《月影传说》项目的自动化测试及质量中心平台建设工作. 

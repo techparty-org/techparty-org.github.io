@@ -17,7 +17,7 @@ tags:
 
 
 
-珠![](http://techparty.org/wp-content/uploads/2012/03/Screen-Shot-2012-03-26-at-9.26.34-PM.png)三角沙龙在广州刚刚结束了iOSConf的活动, 肯定也有不少深圳的同学奔赴现场参加活动吧.
+珠![](http://techparty-media.qiniudn.com/2012/03/Screen-Shot-2012-03-26-at-9.26.34-PM.png)三角沙龙在广州刚刚结束了iOSConf的活动, 肯定也有不少深圳的同学奔赴现场参加活动吧.
 
 
 
@@ -60,5 +60,5 @@ Email: cppgohan AT techparty.org
 
 我们老地方见!
 
-![老地方见](http://techparty.org/wp-content/uploads/2012/02/6ec37066gw1djeifr8d5mj.jpg)
+![老地方见](http://techparty-media.qiniudn.com/2012/02/6ec37066gw1djeifr8d5mj.jpg)
 

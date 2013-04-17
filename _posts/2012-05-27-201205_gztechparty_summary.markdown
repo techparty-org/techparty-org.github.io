@@ -17,7 +17,7 @@ tags:
 
 5月中旬，珠三角技术沙龙在广州又迎来了一个小沙龙，由于是小沙龙，人数一般控制在30人内，报名人数将近40人，由于天气原因，实到场30人，由于部分参会者，没有准备主题，所以最后只有11个主题。由于部分讲师现场演讲，没有准备幻灯片，所以只有部分幻灯片可以下载。
 
-部分幻灯片打包下载： [下载](http://techparty.org/wp-content/uploads/2012/05/gztechparty_201205.zip)
+部分幻灯片打包下载： [下载](http://techparty-media.qiniudn.com/2012/05/gztechparty_201205.zip)
 
 先来张合影：
 [![IMG_1852](http://pic.yupoo.com/techparty/BXJtMPjb/medish.jpg)](http://www.yupoo.com/photos/techparty/85477628/)

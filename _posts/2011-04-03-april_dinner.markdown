@@ -27,7 +27,7 @@ tags:
 4、**本次活动 AA 制，一刀切，并不因为不喝酒而少出钱，并不因为提前离场而少出钱，如果不喜欢这一条，请谨慎考虑。**预计人均消费在 50-70 元人民币。
 5、如果因为活动到凌晨二三点而觉得回去麻烦，在地铁员村站口，有一家佳乐商务酒店（电话：020-38255220，打过电话去前台咨询，标准单人间 160，双人间 180），可以考虑直接在这边住宿。
 地图：
-[![](http://techparty.org/wp-content/uploads/2011/04/hao-map.png)](http://techparty.org/wp-content/uploads/2011/04/hao-map.png)
+[![](http://techparty-media.qiniudn.com/2011/04/hao-map.png)](http://techparty-media.qiniudn.com/2011/04/hao-map.png)
 
 报名表如下：
 [看不到表单或提交表单出错，麻烦点击这里跳转到表单再填写提交。](http://autoforms.sandbox.jeffkit.info/fill/17/?is_popup=true)

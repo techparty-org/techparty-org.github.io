@@ -27,7 +27,7 @@ tags:
 
 本次活动的现场掠影：感谢现场摄影师 [@leondu](http://twitter.com/leondu)。点击可前往又拍查看高清无码图 ：P
 
-[![](http://techparty.org/wp-content/uploads/2010/11/techparty-201011-overview.png)](http://www.yupoo.com/photos/techparty/albums/1870083/)
+[![](http://techparty-media.qiniudn.com/2010/11/techparty-201011-overview.png)](http://www.yupoo.com/photos/techparty/albums/1870083/)
 
 
 ## 分享内容

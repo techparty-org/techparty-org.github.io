@@ -15,7 +15,7 @@ tags:
 - 自带主题
 ---
 
-## [![](http://techparty.org/wp-content/uploads/2011/11/barcamp-taipei-menu1-300x240.jpg)](http://techparty.org/wp-content/uploads/2011/11/barcamp-taipei-menu1.jpg)”沙龙我发起” 之 [老甘](http://weibo.com/cngump)
+## [![](http://techparty-media.qiniudn.com/2011/11/barcamp-taipei-menu1-300x240.jpg)](http://techparty-media.qiniudn.com/2011/11/barcamp-taipei-menu1.jpg)”沙龙我发起” 之 [老甘](http://weibo.com/cngump)
 
 
 

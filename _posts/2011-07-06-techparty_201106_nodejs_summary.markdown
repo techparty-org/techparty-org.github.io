@@ -20,7 +20,7 @@ tags:
 
 在沙龙开始前看到不少朋友已在激烈的讨论中。“什么是 nodeJS? 旨在解决什么问题？NodeJS不能做什么？它是如何工作？”他们都是带着疑问前来沙龙的。沙龙的目的在于交流与分享，有对等的高品质的听众才可能引发这种激爽的交流。参与这次沙龙的不仅只是有黄皮肤黑眼珠的，还有来自德国的Serb。尽管猜他只能听懂部分中文，但有外籍人士的到来，都颇感到意外。本次沙龙由凯平主持，简单地介绍沙龙作为暖场之后，沙龙正式开始。
 
-[![](http://techparty.org/wp-content/uploads/2011/07/techparty_201106_2.png)](http://techparty.org/wp-content/uploads/2011/07/techparty_201106_2.png)
+[![](http://techparty-media.qiniudn.com/2011/07/techparty_201106_2.png)](http://techparty-media.qiniudn.com/2011/07/techparty_201106_2.png)
 
 
 
@@ -53,7 +53,7 @@ tags:
 
 进入中场休息时间，其中还包括了最激动人心的现场招聘环节。珠三角技术沙龙除了致力打造线上线下的交流平台外，更是致力于提高大家的薪酬水平，明码标价就是最大的特点。而本次招聘中最引人注目的就是同为邮箱部门的腾讯和网易正面PK较量，作为IT大鳄招聘的薪金实在诱人的，感觉不枉此行。同时珠三角技术沙龙的官网也新增了招聘区（http://techparty.org/jobs/ ）和讨论区（http://techparty.org/board/ ），可以在上面关注与免费发布招聘信息。沙龙提供的现场交流时间得到大部分朋友的赞赏，现场 face 2 face 的沟通,能极大的激发更多的思考，寻找到更多的合作机会。
 
-[![](http://techparty.org/wp-content/uploads/2011/07/techparty_201106_1.png)](http://techparty.org/wp-content/uploads/2011/07/techparty_201106_1.png)
+[![](http://techparty-media.qiniudn.com/2011/07/techparty_201106_1.png)](http://techparty-media.qiniudn.com/2011/07/techparty_201106_1.png)
 
 
 

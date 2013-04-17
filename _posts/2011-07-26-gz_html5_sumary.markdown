@@ -19,7 +19,7 @@ tags:
 
 2011年7月24日，珠三角技术沙龙在盛暑当中迎来了小沙龙历史上最火爆的一天。据不完全统计，当天参加广州7月HTML5专场的人数不下于120，把原来只能容纳70人的寻觅咖非厅挤得水泄不通，来晚的同学除了站在后面围观，还有部份跑到前面铺上报纸便席地而坐，看来HTML5魅力的火热度已远远超过广州大暑后的晌午了！
 
-[![](http://techparty.org/wp-content/uploads/2011/07/Screen-shot-2011-07-26-at-上午12.57.51.png)](http://www.yupoo.com/photos/techparty/albums/4724885/page1/)
+[![](http://techparty-media.qiniudn.com/2011/07/Screen-shot-2011-07-26-at-上午12.57.51.png)](http://www.yupoo.com/photos/techparty/albums/4724885/page1/)
 
 本次HTML5专场是由珠三角技术沙龙、广州Google技术用户组以及InfoQ联合举办的。现场做了一些调查，从InfoQ报名过来的新朋友占有将近一半的名额。
 
@@ -36,7 +36,7 @@ tags:
 - 已经有好些成功的HTML5的移动应用。
 -有人问了，HTML5不能解决IE6的问题，那怎么办的好？后面的主题有回答哦！
 
-[slide](http://www.slideshare.net/KennyTang/html5-8681511) | [录音](http://techparty.org/wp-content/uploads/2011/07/110723_1-html5intro-192M.mp3)
+[slide](http://www.slideshare.net/KennyTang/html5-8681511) | [录音](http://techparty-media.qiniudn.com/2011/07/110723_1-html5intro-192M.mp3)
 
 
 ## 孙极：《在项目中循序渐进地使用HTML5+CSS3》
@@ -48,7 +48,7 @@ tags:
 - CSS3的动画不是十分靠谱
 - Canvas除了有强大的绘画、动画能力外，还可以做一些神奇的事！例如....令网页失色！
 
-[slide](http://classtyle.com/html5/#p0) | [录音](http://techparty.org/wp-content/uploads/2011/07/110723_2-163html5-193M.mp3)
+[slide](http://classtyle.com/html5/#p0) | [录音](http://techparty-media.qiniudn.com/2011/07/110723_2-163html5-193M.mp3)
 
 
 ## 刘袆伟 ：《make,market,monetize your app/games》
@@ -60,7 +60,7 @@ tags:
 - 在一个app里，有两个非常关键的因素，UI占43%，关系网络占37%。你的应用关注这两块了吗？
 - 真正赚钱的团队不关注下载量，更关注的是用户的活跃时间及用户反馈。
 - google admob体系很好很成熟。
-由于刘经理使用的讲稿为商务用讲稿，在此不便公开，不过可以听回[录音](http://techparty.org/wp-content/uploads/2011/07/110723_3-admob-194M.mp3)。
+由于刘经理使用的讲稿为商务用讲稿，在此不便公开，不过可以听回[录音](http://techparty-media.qiniudn.com/2011/07/110723_3-admob-194M.mp3)。
 
 
 ## 江嘉城 ：《WebGL概貌》
@@ -72,7 +72,7 @@ tags:
 - 除IE外，大部份浏览器支持WebGL，IE可以通过安装插件解决，万恶的IE！
 - Web3D还是有不少更好的解决方案，建议对WebGL持关注态度即可。
 
-[slide](http://techparty.org/wp-content/uploads/2011/07/WebGL-Overview.pdf) | [录音](http://techparty.org/wp-content/uploads/2011/07/gztp_201107_jiangjiacheng.mp3)
+[slide](http://techparty-media.qiniudn.com/2011/07/WebGL-Overview.pdf) | [录音](http://techparty-media.qiniudn.com/2011/07/gztp_201107_jiangjiacheng.mp3)
 
 
 ## 谭正谊 《HTML5在QQ邮箱移动Web应用的实践》
@@ -83,7 +83,7 @@ QQMail团队使用HTML来实现iPad/iPhone版的邮件，来自QQMail团队的Te
 - HTML5非常适宜用于搭建离线应用
 - 原生应用、HTML5应用、混搭型应用各有好坏，应视具体业务决定使用哪种方式
 
-[slide](http://www.slideshare.net/gzterrytan/html5qqweb) | [录音](http://techparty.org/wp-content/uploads/2011/07/gztp_201107_gzterry.mp3)
+[slide](http://www.slideshare.net/gzterrytan/html5qqweb) | [录音](http://techparty-media.qiniudn.com/2011/07/gztp_201107_gzterry.mp3)
 
 
 ## 张鑫 《Sencha SDK Tools简介：IE6上也可以用CSS3？》
@@ -95,7 +95,7 @@ QQMail团队使用HTML来实现iPad/iPhone版的邮件，来自QQMail团队的Te
 - 可惜的是，这些工具都绑定在sencha这个框架之上。
 - 嗯，这个主题正好回答了第一个主题有人提出的问题。
 
-[slide](http://www.slideshare.net/frank42a/snecha-sdk-css3) | [录音](http://techparty.org/wp-content/uploads/2011/07/gztp_201107_zhangxin.mp3)
+[slide](http://www.slideshare.net/frank42a/snecha-sdk-css3) | [录音](http://techparty-media.qiniudn.com/2011/07/gztp_201107_zhangxin.mp3)
 
 值得一提的是，广州GTUG的创办人[Anson](http://anson-ho.com/)发起了一个“[书漂](http://po88.com/?page_id=2)”的活动。喜欢读书和与书会友的同学千万不要错过了！
 

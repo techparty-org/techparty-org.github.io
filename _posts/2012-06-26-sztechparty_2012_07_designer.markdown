@@ -10,7 +10,7 @@ categories:
 - 社区
 ---
 
-[caption id="attachment_2013" align="aligncenter" width="600"][![深圳技术沙龙 2012 07 设计师 专题](http://techparty.org/wp-content/uploads/2012/06/designer_2012_07-300x199.png)](http://techparty.org/wp-content/uploads/2012/06/designer_2012_07.png) 深圳技术沙龙 2012 07 设计师 专题[/caption]
+[caption id="attachment_2013" align="aligncenter" width="600"][![深圳技术沙龙 2012 07 设计师 专题](http://techparty-media.qiniudn.com/2012/06/designer_2012_07-300x199.png)](http://techparty-media.qiniudn.com/2012/06/designer_2012_07.png) 深圳技术沙龙 2012 07 设计师 专题[/caption]
 
 为让更多对设计感兴趣的同学相互交流，珠三角技术沙龙深圳场以“设计师”为主题组织了本次沙龙。
 如果你想了解设计师的工作,如果你想看看设计师的想法,或者你想了解设计师们分享最近一些设计上的亮点，那么[猛击这里报名](http://f.jeffkit.info/techparty/sztechparty_201207_designer/)吧！

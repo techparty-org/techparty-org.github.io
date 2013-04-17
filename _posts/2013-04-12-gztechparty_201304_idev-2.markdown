@@ -16,7 +16,7 @@ categories:
 
 报名方式：请使用微信关注珠三角技术沙龙公众号“techparty”或扫描下面的二维码直接关注，输入er命令进行报名，更多玩法请自行摸索 :)。
 
-[![qrcode_for_gh_4d92f5a32967_430](http://techparty.org/wp-content/uploads/2013/04/qrcode_for_gh_4d92f5a32967_430-300x300.jpg)](http://techparty.org/wp-content/uploads/2013/04/qrcode_for_gh_4d92f5a32967_430.jpg)
+[![qrcode_for_gh_4d92f5a32967_430](http://techparty-media.qiniudn.com/2013/04/qrcode_for_gh_4d92f5a32967_430-300x300.jpg)](http://techparty-media.qiniudn.com/2013/04/qrcode_for_gh_4d92f5a32967_430.jpg)
 
 内容介绍：
 ---------------------- 暖场，自我介绍 -----------------------

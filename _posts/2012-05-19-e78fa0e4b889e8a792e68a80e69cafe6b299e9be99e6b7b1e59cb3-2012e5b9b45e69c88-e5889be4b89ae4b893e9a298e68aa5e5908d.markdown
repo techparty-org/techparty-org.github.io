@@ -16,7 +16,7 @@ tags:
 - 聚会
 ---
 
-[caption id="attachment_1915" align="alignnone" width="640" caption="珠三角技术沙龙 2012.05 创业专题"]![创业题图](http://techparty.org/wp-content/uploads/2012/05/startup.jpg)[/caption]
+[caption id="attachment_1915" align="alignnone" width="640" caption="珠三角技术沙龙 2012.05 创业专题"]![创业题图](http://techparty-media.qiniudn.com/2012/05/startup.jpg)[/caption]
 
 珠三角技术沙龙@深圳, 五月底的聚会分享活动. 此次活动以创业为主题, 欢迎有兴趣的朋友们报名参加.
 

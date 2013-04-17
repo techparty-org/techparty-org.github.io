@@ -12,29 +12,29 @@ categories:
 
 本期珠三角技术沙龙为了让大家了解设计师的工作,看看设计师的想法。设计师们分享最近一些设计上的亮点，我们主办了本期设计师沙龙。在这里设计师与设计师面对面交流；程序员也了解一下程序以外的世界，感受到美学的冲击和设计师们的不拘一格。
 
-[![](http://techparty.org/wp-content/uploads/2012/07/viewfile_023.jpg)](http://techparty.org/wp-content/uploads/2012/07/viewfile_023.jpg)最后感谢场地提供公司：红桃网。
+[![](http://techparty-media.qiniudn.com/2012/07/viewfile_023.jpg)](http://techparty-media.qiniudn.com/2012/07/viewfile_023.jpg)最后感谢场地提供公司：红桃网。
 
 以下是本期沙龙各个主题的总结：
 
-[![](http://techparty.org/wp-content/uploads/2012/07/IMG_1754-300x223.jpg)](http://techparty.org/wp-content/uploads/2012/07/IMG_1754.jpg)1）Chris C Zhou的《设计中的工程》  讲述了自己从工程师步入到工程师的一个过程，教导设计师如果更好地渗透到开发与设计中，让自己设计的创意更好地实现。介绍了很多原型的工具以及介绍开发的相关流程。设计师是否应该自己实现自己的设计想法？如果是，设计师应该如何在最短的时间内学习哪些开发技能，如果不是，那怎样才能更好的将设计思想传达给工程师？听一听你会有收获。前面是自我介绍可以跳过。
-[录音_Chris_设计师的工程](http://techparty.org/wp-content/uploads/2012/07/1.介绍_chris_设计师的工程.mp3)     [PPT_设计师的工程](http://techparty.org/wp-content/uploads/2012/07/设计师的工程.ppt)
+[![](http://techparty-media.qiniudn.com/2012/07/IMG_1754-300x223.jpg)](http://techparty-media.qiniudn.com/2012/07/IMG_1754.jpg)1）Chris C Zhou的《设计中的工程》  讲述了自己从工程师步入到工程师的一个过程，教导设计师如果更好地渗透到开发与设计中，让自己设计的创意更好地实现。介绍了很多原型的工具以及介绍开发的相关流程。设计师是否应该自己实现自己的设计想法？如果是，设计师应该如何在最短的时间内学习哪些开发技能，如果不是，那怎样才能更好的将设计思想传达给工程师？听一听你会有收获。前面是自我介绍可以跳过。
+[录音_Chris_设计师的工程](http://techparty-media.qiniudn.com/2012/07/1.介绍_chris_设计师的工程.mp3)     [PPT_设计师的工程](http://techparty-media.qiniudn.com/2012/07/设计师的工程.ppt)
 
 2）窦凯老师为我们奉上的《那些缝隙，设计与开发之间》
 一个很深刻的观点--“**设计尽量不带电的东西**”
-在我们印象中，说到设计都离不开PS，AI 之类的工具，好像离开电脑就什么都干不了了。[![](http://techparty.org/wp-content/uploads/2012/07/IMG_1756-300x223.jpg)](http://techparty.org/wp-content/uploads/2012/07/IMG_1756.jpg)这里窦凯前辈抛出一个观点，设计是概念形成的过程，国外的顶尖的设计公司，包括IDEO等，在设计的时候基本上都是用手绘，即时贴来进行交流的，这样有助于共同完成概念设计的过程。概念形成后，再通过带电的东西来进行开发，从而为大批量复制产品打下基础。
+在我们印象中，说到设计都离不开PS，AI 之类的工具，好像离开电脑就什么都干不了了。[![](http://techparty-media.qiniudn.com/2012/07/IMG_1756-300x223.jpg)](http://techparty-media.qiniudn.com/2012/07/IMG_1756.jpg)这里窦凯前辈抛出一个观点，设计是概念形成的过程，国外的顶尖的设计公司，包括IDEO等，在设计的时候基本上都是用手绘，即时贴来进行交流的，这样有助于共同完成概念设计的过程。概念形成后，再通过带电的东西来进行开发，从而为大批量复制产品打下基础。
 另外一个观点“**设计师与开发师各有各的苦逼**”
 两者的区别在于工具的不同，也在于面对问题的结构不同，实际上设计和开发并没有界限，之所以区别开来，根源在于工业革命，社会的大分工所导致的。窦凯老师分享了，知识本是一体的，把它分成不同的学科，只是屈从于人类的软弱而已。
 
-[录音_一只豆_那些缝隙，设计与开发之间](http://techparty.org/wp-content/uploads/2012/07/2.一只豆_那些缝隙，设计与开发之间.mp3)  [PPT_那些缝隙，设计与开发之间](http://techparty.org/wp-content/uploads/2012/07/那些缝隙，设计与开发之间1.pdf)
+[录音_一只豆_那些缝隙，设计与开发之间](http://techparty-media.qiniudn.com/2012/07/2.一只豆_那些缝隙，设计与开发之间.mp3)  [PPT_那些缝隙，设计与开发之间](http://techparty-media.qiniudn.com/2012/07/那些缝隙，设计与开发之间1.pdf)
 
-[![](http://techparty.org/wp-content/uploads/2012/07/IMG_1766-300x223.jpg)](http://techparty.org/wp-content/uploads/2012/07/IMG_1766.jpg)3）张贝为我们讲述《呆板的设计》讲述了他对一些产品设计的理解，如何让自己的产品做得有趣好玩。设计师比较忌讳别人称其为美工，产品设计中呆板的重要性在于将产品特征与其他产品区别开来，培养用户的使用习惯。里面还有一些妙趣横生地如果让开发实现设计师想要达到的效果。听听设计产品上的“和而不同”设计师与艺术家进行了区别，艺术家是否无规律可循的，艺术家真的就没有呆板的时候吗？
+[![](http://techparty-media.qiniudn.com/2012/07/IMG_1766-300x223.jpg)](http://techparty-media.qiniudn.com/2012/07/IMG_1766.jpg)3）张贝为我们讲述《呆板的设计》讲述了他对一些产品设计的理解，如何让自己的产品做得有趣好玩。设计师比较忌讳别人称其为美工，产品设计中呆板的重要性在于将产品特征与其他产品区别开来，培养用户的使用习惯。里面还有一些妙趣横生地如果让开发实现设计师想要达到的效果。听听设计产品上的“和而不同”设计师与艺术家进行了区别，艺术家是否无规律可循的，艺术家真的就没有呆板的时候吗？
 
-[录音_张贝_呆板的设计](http://techparty.org/wp-content/uploads/2012/07/3.张贝_呆板的设计.mp3)   [PPT_呆板的设计](http://techparty.org/wp-content/uploads/2012/07/呆板的设计.pptx)
+[录音_张贝_呆板的设计](http://techparty-media.qiniudn.com/2012/07/3.张贝_呆板的设计.mp3)   [PPT_呆板的设计](http://techparty-media.qiniudn.com/2012/07/呆板的设计.pptx)
 
 
 
-[![](http://techparty.org/wp-content/uploads/2012/07/IMG_1771-300x223.jpg)](http://techparty.org/wp-content/uploads/2012/07/IMG_1771.jpg)4）Harry的《look for designer》讲述自己在startup weekend 活动中想要实现的一个寻找设计师的网站。每个公司都想找到满足自己要求的设计师，那么这个网站的目标是如何为你寻找你满意的设计师，可以听听。
+[![](http://techparty-media.qiniudn.com/2012/07/IMG_1771-300x223.jpg)](http://techparty-media.qiniudn.com/2012/07/IMG_1771.jpg)4）Harry的《look for designer》讲述自己在startup weekend 活动中想要实现的一个寻找设计师的网站。每个公司都想找到满足自己要求的设计师，那么这个网站的目标是如何为你寻找你满意的设计师，可以听听。
 
-[录音_harry_lookfordesigner](http://techparty.org/wp-content/uploads/2012/07/4.harry_lookfordesigner.mp3)  [PPT_lookfordesigner](http://techparty.org/wp-content/uploads/2012/07/lookfordesigner.pptx)
+[录音_harry_lookfordesigner](http://techparty-media.qiniudn.com/2012/07/4.harry_lookfordesigner.mp3)  [PPT_lookfordesigner](http://techparty-media.qiniudn.com/2012/07/lookfordesigner.pptx)
 
 

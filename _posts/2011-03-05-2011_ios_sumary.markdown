@@ -55,7 +55,7 @@ Jeff在暖场slide[《漫游iOS开发指南》](http://www.slideshare.net/jeffki
 
 ![](http://farm6.static.flickr.com/5133/5480673903_1cbe40f9f0_z.jpg)
 
-二、Titanium开发者平台介绍（[Roy-Titanium](http://techparty.org/wp-content/uploads/2011/03/Roy-Titanium.pdf) Slid下载），由[Roy](http://roynotes.com/)分享。
+二、Titanium开发者平台介绍（[Roy-Titanium](http://techparty-media.qiniudn.com/2011/03/Roy-Titanium.pdf) Slid下载），由[Roy](http://roynotes.com/)分享。
 
 ![](http://farm6.static.flickr.com/5174/5480714649_51ea5d4a0b_z.jpg)
 
@@ -63,7 +63,7 @@ Jeff在暖场slide[《漫游iOS开发指南》](http://www.slideshare.net/jeffki
 
 ![](http://farm6.static.flickr.com/5171/5481347442_15dc88ee21_z.jpg)
 
-四、GCD介绍（ [slide下载](http://techparty.org/wp-content/uploads/2011/03/GCD_Introduction-by-benson.ppt)），由[Benson](http://t.sina.com.cn/pipipeng)提供分享。
+四、GCD介绍（ [slide下载](http://techparty-media.qiniudn.com/2011/03/GCD_Introduction-by-benson.ppt)），由[Benson](http://t.sina.com.cn/pipipeng)提供分享。
 
 ![](http://farm6.static.flickr.com/5059/5480877817_34a2d312f3_z.jpg)
 

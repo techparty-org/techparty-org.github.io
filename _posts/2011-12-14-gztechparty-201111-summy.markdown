@@ -50,7 +50,7 @@ tags:
 十三.《mac工具控之Textmate和TextExpander》-  [老甘](http://weibo.com/cngump)
 [![DSC07982](http://pic.yupoo.com/techparty/ByaaORfm/medium.jpg)](http://www.yupoo.com/photos/techparty/83675636/)
 
-幻灯片打包下载: [幻灯片](http://www.slideshare.net/popoer/ss-10349831)[其他幻灯片合集本地下载](http://techparty.org/wp-content/uploads/2011/12/gztechparty_201111_slider.zip)
+幻灯片打包下载: [幻灯片](http://www.slideshare.net/popoer/ss-10349831)[其他幻灯片合集本地下载](http://techparty-media.qiniudn.com/2011/12/gztechparty_201111_slider.zip)
 
 由于最近工作太忙，广州沙龙总结晚了一点，还是抱歉。因为这次是小沙龙，现场交流为主，所以也没有太多文字性的内容，只有部分幻灯片给大家下载观看。 
 如需更多技术交流还是到沙龙现场。 

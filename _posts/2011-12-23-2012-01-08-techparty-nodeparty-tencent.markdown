@@ -15,7 +15,7 @@ tags:
 - 深圳
 ---
 
-传统春节到来之前， [腾讯学院](http://www.tencent.com/zh-cn/cc/culture.shtml)、[CNode社区](http://cnodejs.org/)、[珠三角技术沙龙](http://www.techparty.org)联合举办NodeParty首次深圳沙龙。届时有精彩主题，和社区牛人、技术同行。 ![](http://techparty.org/wp-content/uploads/2011/12/nodepary-techparty-tencent.png)
+传统春节到来之前， [腾讯学院](http://www.tencent.com/zh-cn/cc/culture.shtml)、[CNode社区](http://cnodejs.org/)、[珠三角技术沙龙](http://www.techparty.org)联合举办NodeParty首次深圳沙龙。届时有精彩主题，和社区牛人、技术同行。 ![](http://techparty-media.qiniudn.com/2011/12/nodepary-techparty-tencent.png)
 
 聚会活动大致时间 2012.01.08, 10:00 AM - 5:00 PM
 聚会地址: **深圳腾讯大厦**

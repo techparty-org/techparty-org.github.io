@@ -10,7 +10,7 @@ categories:
 - 报名
 ---
 
-![](http://techparty.org/wp-content/uploads/2011/10/istock_000006412772xsmall-e1288389510676.jpg)互联网时代来了，作为geek的我们，准备好了吗？数据库 ，作为最最基础的技术，更是热点中的热点。MySQL和PGSQL等传统SQL数据库已经硕果累累，而Redis/MongoDB/Riak等新兴NOSQL数据库正在轰炸我们的视野。
+![](http://techparty-media.qiniudn.com/2011/10/istock_000006412772xsmall-e1288389510676.jpg)互联网时代来了，作为geek的我们，准备好了吗？数据库 ，作为最最基础的技术，更是热点中的热点。MySQL和PGSQL等传统SQL数据库已经硕果累累，而Redis/MongoDB/Riak等新兴NOSQL数据库正在轰炸我们的视野。
 
 嗯，_SQL or NoSQL, It is a question._
 

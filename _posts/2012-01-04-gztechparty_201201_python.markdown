@@ -30,7 +30,7 @@ tags:
 ## talker from HK:
 
 
-[![](http://techparty.org/wp-content/uploads/2012/01/gino-150x150.jpg)](http://techparty.org/wp-content/uploads/2012/01/gino.jpg)
+[![](http://techparty-media.qiniudn.com/2012/01/gino-150x150.jpg)](http://techparty-media.qiniudn.com/2012/01/gino.jpg)
 + Dr.Gino Yu:
 他是2010年TED 官方大会的Speaker，跟《阿凡达》导演詹姆斯卡梅隆同台演讲。同时也是TEDxHongKong的策展人。
 他是香港理工大学多媒体实验室的Director，主要负责数字娱乐以及游戏设计（Digital entertainment & Game
@@ -51,7 +51,7 @@ Gino 有极深的研究作支撑:
 - 促生国内优秀团队的游戏研发
 - 确保自身的原创游戏得以稳定发布
 
-[![](http://techparty.org/wp-content/uploads/2012/01/Photo-9-150x150.jpg)](http://techparty.org/wp-content/uploads/2012/01/Photo-9.jpg)
+[![](http://techparty-media.qiniudn.com/2012/01/Photo-9-150x150.jpg)](http://techparty-media.qiniudn.com/2012/01/Photo-9.jpg)
 + William Liang
 William spent the last 12 years in Silicon Valley and started his
 career on Wall Street. He worked for several venture backed Internet

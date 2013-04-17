@@ -11,7 +11,7 @@ categories:
 - 通知
 ---
 
-[![广州8月微软技术专​​场沙龙](http://techparty.org/wp-content/uploads/2011/08/Microsoft_231-300x199.jpg)](http://techparty.org/wp-content/uploads/2011/08/Microsoft_231.jpg)
+[![广州8月微软技术专​​场沙龙](http://techparty-media.qiniudn.com/2011/08/Microsoft_231-300x199.jpg)](http://techparty-media.qiniudn.com/2011/08/Microsoft_231.jpg)
 
 在火热的7月，我们分享了同样火热的HTML5。那在更加炎热的8月，沙龙将带来清凉的首场以微软技术和产品应用的专场！不管你们信不信，反正我是信了~
 

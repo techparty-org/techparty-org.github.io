@@ -11,7 +11,7 @@ categories:
 - 沙龙
 ---
 
-[![](http://techparty.org/wp-content/uploads/2011/12/R0029200-1024x766.jpg)](http://techparty.org/wp-content/uploads/2011/12/R0029200.jpg)
+[![](http://techparty-media.qiniudn.com/2011/12/R0029200-1024x766.jpg)](http://techparty-media.qiniudn.com/2011/12/R0029200.jpg)
 
 
 
@@ -57,7 +57,7 @@ categories:
 ## 记要
 
 
-[![](http://techparty.org/wp-content/uploads/2011/12/111218-zhtechparty-1024x768.jpg)](http://techparty.org/wp-content/uploads/2011/12/111218-zhtechparty.jpg)
+[![](http://techparty-media.qiniudn.com/2011/12/111218-zhtechparty-1024x768.jpg)](http://techparty-media.qiniudn.com/2011/12/111218-zhtechparty.jpg)
 
 
     

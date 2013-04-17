@@ -15,7 +15,7 @@ java7有什么性特性？Java 7中正式引入了动态语言的支持？
 
 
 
-7月深圳沙龙将会携手Oracle中文社区，你的疑问都将会一一被解答.[![](http://techparty.org/wp-content/uploads/2011/07/未命名-300x136.jpg)](http://techparty.org/wp-content/uploads/2011/07/未命名.jpg)
+7月深圳沙龙将会携手Oracle中文社区，你的疑问都将会一一被解答.[![](http://techparty-media.qiniudn.com/2011/07/未命名-300x136.jpg)](http://techparty-media.qiniudn.com/2011/07/未命名.jpg)
 
 
 

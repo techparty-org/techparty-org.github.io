@@ -32,7 +32,7 @@ tags:
 
 介绍了Mac和iOS的平台的相互渗入性。对于开发者怎么去设计界面和交互？iPad的界面设计更具挑战性。后又谈到 Mac App Store的发展和重要性。好的Mac应用要解决用户的需要，而不是堆砌功能。
 
-幻灯片下载(由于幻灯片太大，不能上传到SiderShare，请本地下载pdf)： [下载](http://techparty.org/wp-content/uploads/2012/03/mac_interactive.pdf) 
+幻灯片下载(由于幻灯片太大，不能上传到SiderShare，请本地下载pdf)： [下载](http://techparty-media.qiniudn.com/2012/03/mac_interactive.pdf) 
 
 
 
@@ -44,7 +44,7 @@ tags:
 
 风总做了简短自我介绍后，上了几张很直观的图，就开始介绍中文方块的特性。转而讲述中文在移动终端的问题，并以Android和iOS做了几个的比较后，声称iOS开发者太幸福了。后面再以锯齿，字体，无衬线体，视网膜屏,Webkit版本,CoreText等多个关键点一一讲述。
 
-幻灯片下载(由于幻灯片太大，不能上传到SiderShare，请本地下载pdf)： [下载](http://techparty.org/wp-content/uploads/2012/03/chinese_reading.pdf) 
+幻灯片下载(由于幻灯片太大，不能上传到SiderShare，请本地下载pdf)： [下载](http://techparty-media.qiniudn.com/2012/03/chinese_reading.pdf) 
 
 
 
