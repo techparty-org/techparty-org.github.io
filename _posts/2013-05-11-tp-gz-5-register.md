@@ -1,5 +1,14 @@
-沙龙 5 月（广州）服务器端技术专场
-=============
+---
+layout: post
+title: 沙龙 5 月（广州）服务器端技术专场
+description: ~ 预告以及报名
+author: 赖勇浩 <mail@laiyonghao.com>
+date: 2013年5月11日下午4:07
+categories: 公告 报名 沙龙 广州
+tags: web server
+---
+
+
 
 5 月，已经有点初夏的气息，又湿又闷的季节，让我们渴望有一团火，引爆这个季节！
 
