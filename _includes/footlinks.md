@@ -64,8 +64,6 @@
     </li>
     <li>友人链接
     <ul>
-        <li><a href="http://benky.czug.org/">Benky的博客</a>
-        </li>
         <li><a href="http://www.dcshi.com/">dcshi的Blog</a>
         </li>
         <li><a href="http://zhuzhaoyuan.com/">Joshua Zhu 的Blog</a>
@@ -79,8 +77,6 @@
         <li><a href="http://yinhm.appspot.com/">有微码头-海明的blog</a>
         </li>
         <li><a href="http://www.czug.org/blog/panjy/">潘俊勇的技术生活</a>
-        </li>
-        <li><a href="http://anson-ho.com/">独立策划人Anson</a>
         </li>
         <li><a href="http://www.cnblogs.com/JeffreyZhao/">老赵点滴 – 追求编程之美</a>
         </li>
