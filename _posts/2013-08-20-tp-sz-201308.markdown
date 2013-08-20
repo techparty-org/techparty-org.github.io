@@ -51,15 +51,19 @@ Michael（谢灼贤），三年android开发，搞过IM，做过播放器…目�
 ####主题简介：
 >你是否想写iOS App，但嫌Objective-C 学习曲线高，或者嫌弃Objective-C的语法又臭又长，又不能轻松复用，能否用其他语言来写iOS App？答案当然是YES。有了rubymotion，就可以用ruby来写native iOS App。
 
->1. rubymotion 介绍
-2. ruby 与 Objective-C 的写法比较
+>1. rubymotion介绍
+2. ruby与 Objective-C 的写法比较
 3. rubymotion 常用的第三方库
 4. rubymotion开发调试技巧
 5. rubymotion开发实例
 6. rubymotion相关问题
 
 ##活动报名
-加珠三角技术沙龙微信帐号为好友，帐号：techparty。然后向其发送文本信息help，根据提示操作即可。
+加珠三角技术沙龙微信帐号为好友，帐号：techparty；或者手机扫描二维码：
+
+![qrcode for Techparty](http://techparty-media.qiniudn.com/2013/04/qrcode_for_gh_4d92f5a32967_430-300x300.jpg)
+
+然后向其发送文本信息help，根据提示操作即可。
 
 ##活动费用
 沙龙免费。
