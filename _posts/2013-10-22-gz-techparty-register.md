@@ -46,7 +46,9 @@ UC优视 资深工程师 张光培
 
 加珠三角技术沙龙微信帐号为好友，帐号：techparty；或者手机扫描二维码：
 
-![](http://ww1.sinaimg.cn/large/61c18847gw1e9tzpizmjsj208c08cjs1.jpg)
+![](http://ww1.sinaimg.cn/large/61c18847gw1e9tzpizmjsj208c08cjs1.jpg)    
+
+报名请通过微信报名，加 techparty 好友，根据提示报名即可。    
 
 报名成功后，请在周四晚上或周五早上查收邮件（或微信），通过审核将会发送具体的参会地址给您。再次感谢 UC 优视倾情赞助，以及相关的 UC 同事提供的热情支持。    
 
