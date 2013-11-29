@@ -8,13 +8,13 @@ tags: 技术,广州,starupGrind, 创业磨坊
 
 [创业磨坊广州](http://startupgrind.com/guangzhou/)（startup grind guangzhou）今年压轴创业社区活动将会联合“[一起开工社区](http://www.yi-gather.com/)”“[珠江三角技术沙龙](http://techparty.org)”以及“[中国加速](http://www.chinaccelerator.com/)”一同上演！
 
-<img src="http://startupgrind.com/wp-content/uploads/2013/11/Todd-Embly1-873x1024.jpg" width=400/>
-
 我们本月嘉宾是来自中国加速团队的项目总监，Todd Embley. Todd 本身是一位经验丰富的资深企业家，在中国生活已经有5年了。Todd的专业领域主要集中于精益创业、市场营销以及客户推广方面。作为中国加速创业项目的主要评估者，Todd眼光独到，往往能发掘极具潜能的创业者以及非常有发展潜力并切实可行的创业项目。
 
 中国加速是在上海运作的一个成熟的创业孵化并提供种子基金的创业项目。中国加速的项目总监，Todd Embley以及他的团队在12月13日-16日将会亲临广州为他们第五届创业种子计划（2014年2月举行, 申请）选出最具潜力的创业团队。他们的项目主要围绕创业导师之指导、精益创业以及企业家哲学。顺利通过之申请者将开始一段为期90日之创业种子计划，最终完成示例展示。往往创业团队都会在这里得到接下来的运作投资，继续团队的梦想！ 
 
 我们这一期的活动将于12月15日在“一起开工社区”举行，与Todd Embley（中国加速项目总监）进行面对面访谈。我们将会准备好午时简餐、软饮，当然少不了一群有活力有梦想有行动力的企业家、开发者和投资者，等着你的加入！ 
+
+<img src="http://startupgrind.com/wp-content/uploads/2013/11/Todd-Embly1-873x1024.jpg" width=400/>
 
 ##活动日程
 
