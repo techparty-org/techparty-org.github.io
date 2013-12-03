@@ -2,8 +2,14 @@
 layout: post
 title: 珠三角技术沙龙-深圳场-2013.12月小沙龙召集
 description: 大家一起来参与深圳的小沙龙分享吧!
-categories: 深圳
-tags: 技术,深圳,活动,沙龙
+categories: 
+- 深圳
+- 报名
+tags: 
+- 技术
+- 深圳
+- 活动
+- 沙龙
 date: 2013-12-01
 author: Gohan
 ---
