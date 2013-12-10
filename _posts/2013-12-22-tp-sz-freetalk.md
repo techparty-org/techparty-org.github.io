@@ -35,7 +35,7 @@ Gohan自觉深圳沙龙继8月活动之后沉默太久了, 等珠海pycon完事�
 
 ### Gohan
 
-- 常来大小沙龙打酱油的Gohan, 本职windows开发, 爱好web开发, 热门技术, 爱玩桌游.
+- ![gohan_avatar](http://www.gravatar.com/avatar/8d01c8770c1bc401180156b3bbf9d3b0?s=24) 常来大小沙龙打酱油的Gohan, 本职windows开发, 爱好web开发, 热门技术, 爱玩桌游.
 - 这次带来关于同步盘 btsync 的分享介绍.
 - [往期沙龙分享](https://speakerdeck.com/gohan)
 
@@ -60,6 +60,12 @@ Gohan自觉深圳沙龙继8月活动之后沉默太久了, 等珠海pycon完事�
 - 带来的主题:
     - zenlib中的定时器介绍
 
+### 洪亮
+
+- .Net开发, 爱好服务端技术和大数据相关技术/应用
+- 带来的主题:
+    - angularjs介绍
+
 ## **[报名链接][报名表链接]**, 沙龙见!
 
 - 本次**没有费用**
@@ -68,5 +74,6 @@ Gohan自觉深圳沙龙继8月活动之后沉默太久了, 等珠海pycon完事�
 
 - 2013.12.01 初稿
 - 2013.12.09 更新参会者
+- 2013.12.10 更新参会者
 
 [报名表链接]: https://docs.google.com/forms/d/13ZptKeAWMgn_XQ6BalRFD2SQ9iX_ZWwnkdUHNhKpiXU/viewform  "点击进入报名"
