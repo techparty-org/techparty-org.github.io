@@ -8,6 +8,8 @@ tags: 无责任报道 listening learnning
 
 ## ECUG Con 2013 大妈记要
 
+![53809965jw1ec0fep4crbj217s06w0v2.jpg（JPEG 图像，1024x161 像素）](http://ww3.sinaimg.cn/mw1024/53809965jw1ec0fep4crbj217s06w0v2.jpg)
+
 [ECUG Con](http://zoomq.qiniudn.com/ZQScrapBook/ZqFLOSS/data/20131229212254/index.html) 大会宗旨是交流云计算产业的最前沿技术探索. 一年一度,围绕您所经历的技术演变和项目实践进行互动和分享. 议题包括但不局限于:
 
 - 结合某种语言的分布式领域实践,比如 Golang,Node.js,Erlang,Nginx Lua,Java,C# 等等. 
