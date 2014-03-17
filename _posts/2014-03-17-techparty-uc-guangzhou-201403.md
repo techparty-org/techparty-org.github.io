@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 珠三角技术沙龙广州（2014.3）报名
+title: 珠三角技术沙龙广州静态语言专场（2014.3）报名
 description: 珠三角技术沙龙广州201403
 categories: 广州
 tags: 珠三角 技术 广州 活动 总结 GO Golang Rust iOS Android PHP Python Ruby Rails Java MongoDB Redis PostgreSQL Linux, OSX, 静态语言, CPP, C
