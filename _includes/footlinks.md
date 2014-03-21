@@ -31,7 +31,7 @@
 
 <h3>文章索引</h3>
 <ul>
-    <li><a href="/archives.html" ret="bootmark">归档</a>
+    <li><a href="/archives" ret="bootmark">归档</a>
         </li>
     <li><a href="/categories.html" ret="bootmark">分类</a>
         </li>

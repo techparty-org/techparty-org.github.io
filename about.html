@@ -76,10 +76,14 @@ comments: yes
   </p>
 </article>
 
-<section>
-{% include comments.md %}
-</section>
+
 
 <section>
 {% include footlinks.md %}
 </section>
+
+{% if site.inc.disqus.shortname %}
+<section>
+    {% include _disqus.html %}
+</section>
+{% endif %}

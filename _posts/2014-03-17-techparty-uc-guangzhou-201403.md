@@ -4,6 +4,14 @@ title: 珠三角技术沙龙广州静态语言专场（2014.3）报名
 description: 珠三角技术沙龙广州201403
 categories: 广州
 tags: 珠三角 技术 广州 活动 总结 GO Golang Rust iOS Android PHP Python Ruby Rails Java MongoDB Redis PostgreSQL Linux, OSX, 静态语言, CPP, C
+excerpt: "盼望着，盼望着，春风来了，春天的脚步近了，沙龙的脚步也近了。虽然刚刚过了春节，但沙龙没有忘记大家，沙龙又给大家带来了新一场活动。在这个周六（22 日）下午，我们将在广州举办一场盛大的、以“静态语言”为主题的沙龙活动，给大家送上一个愉快的周末。"
+
+author:
+  name: 珠三角技术沙龙
+  twitter: techparty_org
+  bio: 打造泛珠三角技术圈线上线下交流的平台
+  image: tp.png
+
 ---
 
 盼望着，盼望着，春风来了，春天的脚步近了，沙龙的脚步也近了。虽然刚刚过了春节，但沙龙没有忘记大家，沙龙又给大家带来了新一场活动。在这个周六（22 日）下午，我们将在广州举办一场盛大的、以“静态语言”为主题的沙龙活动，给大家送上一个愉快的周末。

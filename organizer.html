@@ -139,10 +139,14 @@ I'm focusing on the mobile human computer interaction and its products</td>
 
 </article>
 
-<section>
-{% include comments.md %}
-</section>
+
 
 <section>
 {% include footlinks.md %}
 </section>
+
+        {% if site.inc.disqus.shortname %}
+        <section>
+            {% include _disqus.html %}
+        </section>
+        {% endif %}

@@ -1,179 +1,56 @@
 ---
-layout: default
-title: Home
-homepage: true
-type: post
+layout: base
 ---
+<div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
+    
+    <section>
+        <div class="container">
+            <h1>{{ site.inc.title }}</h1>
+            {% if site.inc.subtitle %}<h3>{{ site.inc.subtitle }}</h3>{% endif %}
+        
+            {% if site.inc.weibo %}
+            <a href="http://weibo.com/{{ site.inc.weibo }}" title="techparty at weibo" target="_blank"><i class="icon icon-weibo"></i></a>
+            {% endif %}
 
-
-<div class="main-index fn-clear">
-	{% for post in paginator.posts %}
-	<article class="main-excerpt fn-clear">
-
-		<h4 class="main-excerpt-title"><a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a></h4>
-
-		{{ post.content }}
-
-		<p class="date">
-		<i class="icon-calendar"></i>{{  post.date| date: "%Y-%m-%d"  }} &nbsp;
-	    <i class="icon-cogs"></i>
-	    {% for cat in post.categories %} 
-	    <a href="/categories.html#{{ cat }}-ref" title="{{ cat }}" rel="category">{{ cat }}</a>
-	    {% endfor %}
-	    &nbsp;&nbsp;
-	    <i class="icon-tags"></i>
-	    {% for tag in post.tags %}
-	    <a href="/tags.html#{{ tag }}-ref" title="{{ tag }}" rel="tag">{{ tag }} &nbsp;</a>
-	    {% endfor %}
-	    </p>
-	<!--
-	<p>{{ post.description }}</p>
-	-->
-		<p class="more">
-			<a href="{{ post.url }}" title="阅读更多" rel="nofollow"><span>&#10149;</span>阅读更多</a></p>
-
-	</article>
-	{% endfor %}
-	<nav class="pagination fn-clear">
-	{% if paginator.previous_page %}
-	{% if paginator.previous_page == 1 %}
-	<span class="page">&lt;<a href="/">前页</a></span>
-	{% else %}
-	<span class="page">&lt;<a href="/page{{paginator.previous_page}}">前页</a></span>
-	{% endif %}
-	{% else %}
-	<span class="page">&lt;前页</span>
-	{% endif %}
-	{% if paginator.page == 1 %}
-	<span class="currentitem"><a href="/">1</a></span>
-	{% else %}
-	<span class="pageitem"><a href="/">1</a></span>
-	{% endif %}
-	{% for count in (2..paginator.total_pages) %}
-	{% if count == paginator.page %}
-	<span class="currentitem"><a href="/page{{count}}">{{count}}</a></span>
-	{% else %}
-	<span class="pageitem"><a href="/page{{count}}">{{count}}</a></span>
-	{% endif %}
-	{% endfor %}
-	{% if paginator.next_page %}
-	<span class="page"><a class="next" href="/page{{paginator.next_page}}">后页</a>&gt;</span>
-	{% else %}
-	<span class="page" >后页&gt;</span>
-	{% endif %}
-	<span class="page">(共{{ paginator.total_posts }}篇)</span>
-	</nav>
+            {% if site.inc.twitter %}
+            <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
+            {% endif %}
+            
+            <a href="/feed.xml" title="RSS Feed">
+                <i class="icon icon-rss"></i>
+            </a>
+        </div>
+    </section>
 </div>
-<hr/>
-<section class="lost-double fn-clear">
-<article class="article article-first">
-<h3>文章索引</h3>
-<ul>
-	<li><a href="/archives.html" ret="bootmark">归档</a>
-		</li>
-    <li><a href="/categories.html" ret="bootmark">分类</a>
-		</li>
-    <li><a href="/tags.html" ret="bootmark">标签</a>
-		</li>
-</ul>
-<h3>最新文章</h3>
-<ul>
-	{% for post in site.posts limit: 7 %}
-	<li><a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a></li>
-	{% endfor %}
-</ul>
 
-<h3>常用链接</h3>
-<ul>
-	<li>推荐网站
-	<ul>
-		<li><a href="http://www.osxtoy.com/">OSX玩意 / OSXToy</a>
-		</li>
-		<li><a href="http://simple-is-better.com/">python.cn(新闻, 招聘, 分享)</a>
-		</li>
-		<li><a href="http://everydo.com/">易度云办公平台</a>
-		</li>
-		<li><a href="http://www.ifanr.com/">爱范儿 · Beats of Bits</a>
-		</li>
-		<li><a href="http://www.ganguo.hk/">红甘果科技</a>
-		</li>
-		<li>
-	</ul>
-	</li>
-	<li>友人链接
-	<ul>
-		<li><a href="http://benky.czug.org/">Benky的博客</a>
-		</li>
-		<li><a href="http://www.dcshi.com/">dcshi的Blog</a>
-		</li>
-		<li><a href="http://zhuzhaoyuan.com/">Joshua Zhu 的Blog</a>
-		</li>
-		<li><a href="http://weavesky.com/">Sparkle's Workshop</a>
-		</li>
-		<li><a href="http://kenbinzhang.qzone.qq.com/">啃饼随笔</a>
-		</li>
-		<li><a href="http://www.mikespook.com/">星星的Blog</a>
-		</li>
-		<li><a href="http://yinhm.appspot.com/">有微码头-海明的blog</a>
-		</li>
-		<li><a href="http://www.czug.org/blog/panjy/">潘俊勇的技术生活</a>
-		</li>
-		 
-		<li><a href="http://www.cnblogs.com/JeffreyZhao/">老赵点滴 – 追求编程之美</a>
-		</li>
-		<li><a href="http://blog.csdn.net/ccat">追寻真理之美</a>
-		</li>
-	</ul>
-	</li>
 
-	<li>大妈们:
-	<ul>
-		<li><a href="http://www.jeffkit.info/">Jeff的妙想奇境</a>
-		</li>
-		<li><a href="http://timyang.net/">Tim[后端技术]</a>
-		</li>
-		<li><a href="http://blog.linluxiang.info/">双木成林：喋喋不休</a>
-		</li>
-		<li><a href="http://www.cngump.com/">老甘 Blog</a>
-		</li>
-		<li><a href="http://blog.laiyonghao.com/">赖勇浩的编程私伙局</a>
-		</li>
-		<li><a href="https://plus.google.com/116397511848178756417/about">Zoom.Quiet</a></li>
-	</ul>
-	</li>
-</ul>
-
+<article class="container">
+{% for post in paginator.posts %}
+  {% unless post.draft %}
+    <section class="index">
+        <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
+        <div>
+            <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
+            <p>{{ post.excerpt }}</p>
+            <div class="meta">
+                组委： <address>{{ post.author.name }}</address> &mdash;
+                <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
+            </div>
+        </div>
+        <hr>
+    </section>
+    {% endunless %}
+    {% endfor %}
+    <section class="pagination" style="text-align:center">
+      {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+        <a href="/" class="btn btn-outline">‹ 上一页</a>
+        {% else %}
+        <a href="/page{{ paginator.previous_page }}" class="btn btn-outline">‹ 上一页</a>
+        {% endif %}
+      {% endif %}
+      {% if paginator.next_page %}
+        <a href="/page{{ paginator.next_page }}" class="btn btn-outline">下一页 ›</a>
+      {% endif %}
+    </section>
 </article>
-
-<article class="article article-last">
-<h3>常用信息</h3>
-<ul>
-	<li><a href="http://groups.google.com/group/guangzhou-tech-party">沙龙邮件列表</a>
-	</li>
-	<li>沙龙微信: <img src="http://techparty-media.qiniudn.com/2013/04/qrcode_for_gh_4d92f5a32967_430-300x300.jpg"/>
-	</li>
-	<li><a href="http://gztechjobs.com/">广州IT猎头</a>
-	</li>
-
-</ul>
-
-<h3>友情社区</h3>
-<ul>
-	<li><a href="http://woodpecker.org.cn/">啄木鸟社区</a>
-	</li>
-	<li><a href="http://wiki.woodpecker.org.cn/moin/CPUG">CPyUG</a>
-	</li>
-	<li><a href="http://ecug.org/">ECUG</a>
-	</li>
-	<li><a href="http://www.gzlug.org/">广州Linux用户组</a>
-	</li>
-	<li><a href="http://gplus.to/gdgzh">珠海GDG</a>
-	</li>
-	<li><a href="http://cnodejs.org/blog/">cnodejs.org</a>
-	</li>
-	<li><a href="http://www.gzruby.org/">Guangzhou Ruby</a>
-	</li>
-</ul>        
-
-</article>
-</section>
