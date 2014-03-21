@@ -59,7 +59,11 @@
         <nav>
             <a href="{{ site.inc.url }}">{{ site.inc.company }}</a> &middot;
             <a href="/">沙龙主页</a> &middot;
+            {% if site.inc.tags_link %}<a href="{{ site.inc.tags_link }}">标签</a>{% endif %}
+            {% if site.inc.categories_link %}<a href="{{ site.inc.categories_link }}">分类</a>{% endif %}
+            {% if site.inc.archives_link %}<a href="{{ site.inc.archives_link }}">归档</a>{% endif %}
             {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">关于</a>{% endif %}
+
         </nav>
         
         <nav class="social">
