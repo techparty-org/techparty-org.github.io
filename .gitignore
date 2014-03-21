@@ -37,4 +37,3 @@ _drafts/*.html
 .svn
 .cvs
 
-Gemfile.lock
