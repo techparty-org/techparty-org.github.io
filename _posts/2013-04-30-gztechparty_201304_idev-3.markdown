@@ -5,22 +5,27 @@ date: 2013-04-30 10:10:22
 layout: post
 slug: gztechparty_201304_idev-3
 title: 珠三角技术沙龙广州4月iOS开发专场-总结
-wordpress_id: 
+wordpress_id:
 categories:
 - 社区
+author:
+  name: 老甘
+  twitter: cngump
+  bio: 打杂大妈
+  image: cngump.png
 ---
 
-2013年4月21日在一个轻松的周日，珠三角沙龙迎来了iOS开发专场，届时有近80人参加活动，由广州的各种移动产品团队和移动外包团队和一些其他对移动感兴趣的个人和团队参加，算是一场比较轻松的技术聚会。   
-先上合影：    
+2013年4月21日在一个轻松的周日，珠三角沙龙迎来了iOS开发专场，届时有近80人参加活动，由广州的各种移动产品团队和移动外包团队和一些其他对移动感兴趣的个人和团队参加，算是一场比较轻松的技术聚会。
+先上合影：
 ![合影](http://pic.yupoo.com/techparty/CNTq0MCs/medish.jpg)
 
-由主持 [老甘](http://weibo.com/cngump) 主持活动先以自我介绍开始，按照沙龙的惯例，每人以3句话介绍自己开始。   
+由主持 [老甘](http://weibo.com/cngump) 主持活动先以自我介绍开始，按照沙龙的惯例，每人以3句话介绍自己开始。
 
 ![自我介绍](http://pic.yupoo.com/techparty/CNTjAgQp/medish.jpg)
 
 **1.《通信聊天DIY》**
 
-![Harry 通信聊天DIY](http://pic.yupoo.com/techparty/CNTl7pJa/medish.jpg)    
+![Harry 通信聊天DIY](http://pic.yupoo.com/techparty/CNTl7pJa/medish.jpg)
 
 由从深圳特地赶来的吳卓強 Harry（weibo: [http://weibo.com/harryng](http://weibo.com/harryng) ）介绍IM在APP中应用。
 如何為我的應用增加一個IM功能？ Harry从XMPP到socket.io介绍IM的发展和各种比较。然后现场简单写了一个socket.io的app和web进行多设备进行即时聊天的Demo，给大家现场来个交流。
@@ -91,7 +96,7 @@ icon font 是指做成了字体文件格式的图标，相比图标文件优点�
 
 ![老甘 iOS开发中的MVC](http://pic.yupoo.com/techparty/CNToTAGs/medish.jpg)
 
-由[红甘果科技(广州iOS外包团队)](http://www.ganguo.hk) 老甘 带来 iOS开发中的MVC的主题，介绍怎么在iOS中形成约定，分层，已经如果使用第三库来提高开发速度，以及怎么在快速移动开发中怎么保持快速开发，和应对需求。 
+由[红甘果科技(广州iOS外包团队)](http://www.ganguo.hk) 老甘 带来 iOS开发中的MVC的主题，介绍怎么在iOS中形成约定，分层，已经如果使用第三库来提高开发速度，以及怎么在快速移动开发中怎么保持快速开发，和应对需求。
 
 幻灯：[《iOS开发中的MVC》- 老甘](https://speakerdeck.com/cngump/ioskai-fa-zhong-de-mvc)
 
@@ -100,11 +105,6 @@ icon font 是指做成了字体文件格式的图标，相比图标文件优点�
 
 最后由 [珠海博瑞迪](http://destyle.taobao.com/index.htm?spm=a1z10.1.w5002-204327000.2.s3f0Y1) 提供的 两盏设计精美的LED台灯 [同款产品](http://t.cn/zTsIIYM)。
 
-**10.致谢 **   
+**10.致谢 **
 
 感谢各位参会者，你们是交流的源泉。 谢谢各位讲师呈现的主题。 感谢打杂的各组委(Jeff,凯平,Leon,双木成林,Rain)。
-
-
-
-
-
