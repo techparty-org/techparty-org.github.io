@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 珠三角技术沙龙广州软硬件专场（2014.4）报名
+title: 珠三角技术沙龙广州软硬结合专场（2014.4）报名
 description: 珠三角技术沙龙广州201404
 categories: guangzhou
 tags: 珠三角 技术 广州 活动 总结 GO Golang Rust iOS Android PHP Python Ruby Rails Java MongoDB Redis PostgreSQL Linux, OSX, 静态语言, CPP, C
