@@ -99,7 +99,7 @@
         </li>
         <li><a href="http://blog.laiyonghao.com/">赖勇浩的编程私伙局</a>
         </li>
-        <li><a href="https://plus.google.com/116397511848178756417/about">Zoom.Quiet</a></li>
+        <li><a href="http://blog.zoomquiet.io">Zoom.Quiet</a></li>
     </ul>
     </li>
 </ul>
