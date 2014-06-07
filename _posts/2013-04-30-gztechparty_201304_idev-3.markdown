@@ -96,7 +96,7 @@ icon font 是指做成了字体文件格式的图标，相比图标文件优点�
 
 ![老甘 iOS开发中的MVC](http://pic.yupoo.com/techparty/CNToTAGs/medish.jpg)
 
-由[红甘果科技(广州iOS外包团队)](http://www.ganguo.hk) 老甘 带来 iOS开发中的MVC的主题，介绍怎么在iOS中形成约定，分层，已经如果使用第三库来提高开发速度，以及怎么在快速移动开发中怎么保持快速开发，和应对需求。
+由[甘果移动(广州iOS外包团队)](http://ganguo.io) 老甘 带来 iOS开发中的MVC的主题，介绍怎么在iOS中形成约定，分层，已经如果使用第三库来提高开发速度，以及怎么在快速移动开发中怎么保持快速开发，和应对需求。
 
 幻灯：[《iOS开发中的MVC》- 老甘](https://speakerdeck.com/cngump/ioskai-fa-zhong-de-mvc)
 

@@ -55,7 +55,7 @@
         </li>
         <li><a href="http://www.ifanr.com/">爱范儿 · Beats of Bits</a>
         </li>
-        <li><a href="http://www.ganguo.hk/">红甘果科技</a>
+        <li><a href="http://ganguo.io/">甘果移动</a>
         </li>
         <li>
     </ul>
