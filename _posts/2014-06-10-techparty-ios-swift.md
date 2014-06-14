@@ -27,6 +27,11 @@ author:
 
 **沙龙费用 ：**免费
 
+**合办商&场地赞助：**[UC浏览器](http://www.uc.cn/)（广州），[腾讯大讲堂](http://djt.qq.com)（深圳），[GitCafe](http://www.gitcafe.com)（北京），[GitCafe](http://www.gitcafe.com)（上海），[猎豹移动](www.liebao.cn)（珠海）
+
+**合作媒体：** [爱范儿](http://www.ifanr.com)
+
+
 
 2010年乔老爷子还在的时候开启的绝密项目——为OSX和iOS平台开发下一代编程语言。历经4年光景，终于在北京时间2014年6月3日凌晨，苹果WWDC2014上面发布了他们开发的新语言Swift，彻底引爆了整个苹果生态圈所有开发者，这一次"Write The Code, Change The World"。
 
@@ -47,7 +52,7 @@ author:
 届时TechParty将联合各地组织共同在 广州(06-28)，深圳(07-05)，北京(7月初)，上海（7月初），珠海(7月初)
 五地举行TechParty技术沙龙iOS&Swift专场沙龙。
 
-合办商&场地赞助：UC（广州），腾讯大讲堂（深圳），北京（GitCafe），上海（GitCafe），珠海（猎豹移动）
+
 
 本期主题：
 ##广州（2014-06-28）(报名中)
