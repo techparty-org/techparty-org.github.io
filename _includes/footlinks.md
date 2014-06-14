@@ -47,43 +47,41 @@
 <ul>
     <li>推荐网站
     <ul>
-        <li><a href="http://www.osxtoy.com/">OSX玩意 / OSXToy</a>
+        <li><a target="_blank" href="http://www.osxtoy.com/">OSX玩意 / OSXToy</a>
         </li>
-        <li><a href="http://simple-is-better.com/">python.cn(新闻, 招聘, 分享)</a>
+        <li><a target="_blank" href="http://simple-is-better.com/">python.cn(新闻, 招聘, 分享)</a>
         </li>
-        <li><a href="http://everydo.com/">易度云办公平台</a>
+        <li><a target="_blank" href="http://everydo.com/">易度云办公平台</a>
         </li>
-        <li><a href="http://www.ifanr.com/">爱范儿 · Beats of Bits</a>
+        <li><a target="_blank"  href="http://www.ifanr.com/">爱范儿 · Beats of Bits</a>
         </li>
-        <li><a href="http://ganguo.io/">甘果移动</a>
+        <li><a target="_blank"  href="http://ganguo.io/">甘果移动</a>
         </li>
-        <li>
     </ul>
-    </li>
+   
     <li>友人链接
     <ul>
-        <li><a href="http://www.dcshi.com/">dcshi的Blog</a>
+        <li><a target="_blank"  href="http://www.dcshi.com/">dcshi的Blog</a>
         </li>
-        <li><a href="http://zhuzhaoyuan.com/">Joshua Zhu 的Blog</a>
+        <li><a target="_blank"  href="http://zhuzhaoyuan.com/">Joshua Zhu 的Blog</a>
         </li>
-        <li><a href="http://weavesky.com/">Sparkle's Workshop</a>
+        <li><a target="_blank"  href="http://weavesky.com/">Sparkle's Workshop</a>
         </li>
-        <li><a href="http://kenbinzhang.qzone.qq.com/">啃饼随笔</a>
+        <li><a target="_blank"  href="http://kenbinzhang.qzone.qq.com/">啃饼随笔</a>
         </li>
-        <li><a href="http://www.mikespook.com/">星星的Blog</a>
+        <li><a target="_blank"  href="http://www.mikespook.com/">星星的Blog</a>
         </li>
-        <li><a href="http://yinhm.appspot.com/">有微码头-海明的blog</a>
+        <li><a target="_blank" href="http://yinhm.appspot.com/">有微码头-海明的blog</a>
         </li>
-        <li><a href="http://www.czug.org/blog/panjy/">潘俊勇的技术生活</a>
+        <li><a target="_blank"  href="http://www.czug.org/blog/panjy/">潘俊勇的技术生活</a>
         </li>
-        <li><a href="http://www.cnblogs.com/JeffreyZhao/">老赵点滴 – 追求编程之美</a>
+        <li><a target="_blank"  href="http://www.cnblogs.com/JeffreyZhao/">老赵点滴 – 追求编程之美</a>
         </li>
-        <li><a href="http://blog.csdn.net/ccat">追寻真理之美</a>
+        <li><a target="_blank"  href="http://blog.csdn.net/ccat">追寻真理之美</a>
         </li>
-        <li><a href="http://marchliu.github.io">挖坑不填兽</a>
+        <li><a target="_blank"  href="http://marchliu.github.io">挖坑不填兽</a>
         </li>
 
-        
     </ul>
     </li>
 
