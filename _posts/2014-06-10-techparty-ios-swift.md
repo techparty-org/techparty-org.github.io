@@ -29,7 +29,7 @@ author:
 
 **合办方&场地支持：**[UC浏览器](http://www.uc.cn/)（广州），[腾讯大讲堂](http://djt.qq.com)（深圳），[GitCafe](http://www.gitcafe.com)（北京），[GitCafe](http://www.gitcafe.com)（上海），[猎豹移动](www.liebao.cn)（珠海）
 
-**合作媒体&社区：** [爱范儿](http://www.ifanr.com)，[开源中国](http://oschina.net)，[SwiftChina](http://swift.sh)
+**合作媒体&社区：** [爱范儿](http://www.ifanr.com)，[开源中国](http://oschina.net)，[InfoQ](http://www.infoq.com/cn/)，[SwiftChina](http://swift.sh)
 
 
 
