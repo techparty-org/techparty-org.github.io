@@ -16,7 +16,7 @@ author:
 
 ---
 
-![image](http://ww4.sinaimg.cn/large/62503f09gw1ehe0ex96yyj20go09ct92.jpg)
+![techparty-ios&swift](http://ww1.sinaimg.cn/large/62503f09gw1ehh168cx1dj20g408cdgr.jpg)
 
 
 **沙龙主题：TechParty-中国iOS&Swift沙龙** 
