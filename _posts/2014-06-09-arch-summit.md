@@ -25,7 +25,7 @@ author:
 * 主办单位：InfoQ 
 * 大会时间：7月18日～7月19日
 * 大会地点：深圳 万科国际会议中心
-* 火热报名：http://www.archsummit.com/  6月29日前报名，可享九折优惠
+* 火热报名：[http://www.archsummit.com/](http://www.archsummit.com/)  6月29日前报名，可享九折优惠
 
 ### “侧重业务场景，引领技术趋势；开放竞合，不忘初心”
 
