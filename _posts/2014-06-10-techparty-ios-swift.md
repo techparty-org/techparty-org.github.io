@@ -54,11 +54,21 @@ author:
 
 
 本期主题：
-##广州（2014-06-28）(报名中)   
-* 主题征集和整理中 （欢迎提交主题）
-* PNChart追求女神Swift的故事》- Kevin
-* 《Touch ID的应用方向》- 天楠  
-* 《从HealthKit和HomeKit看未来智能家居，医疗的发展》- 陆辉 
+##广州（2014-06-28） 
+
+![Kevin](http://ww1.sinaimg.cn/large/62503f09gw1ehqkrynmt3j203k03kjr9.jpg)  
+####《PNChart追求女神Swift的故事》- Kevin
+广州趣拼信息科技创始人，PNChart作者，游走在技术与产品之间，寻找人生的意义。
+<hr>
+#### 《Touch ID的应用方向》- 天楠 
+<hr>
+#### 《WWDC2014 WEB的发展》- 李思 
+<hr>
+![ron](http://ww4.sinaimg.cn/large/62503f09gw1ehqkrifjg2j203k03ka9x.jpg) 
+####《拥抱Auto Layout，迎接iPhone6》- 张宏鸿 
+过去，iOS开发者仅需兼容一种iPhone尺寸，直到iPhone5的出现，同时兼容两种尺寸增加了布局难度，有开发者想：没关系，代码多写个判断就行了。可如果将要来的iPhone6又多一种或以上的尺寸呢？怎办？再加判断？那你就Out了，跟着我的节奏，来拥抱Auto Layout吧～
+<hr>
+
 
 
 ##深圳（2014-07-05）(报名中)
