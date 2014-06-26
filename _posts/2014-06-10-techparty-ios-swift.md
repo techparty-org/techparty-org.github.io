@@ -70,13 +70,13 @@ author:
 <hr>
 ![田楠](http://ww2.sinaimg.cn/large/62503f09gw1ehrdsalywbj203k03k746.jpg) 
 #### 《Touch ID的应用方向》- 田楠 
-现就职于CVTE集团医疗事业部iOS开发工程师，有多年iOS开发经验，喜欢学习和研究新技术，对UI和UE有着执着的追求，致力于开发高质量软件。
+视睿电子iOS开发工程师，熟悉网络与多媒体技术方向，一个充满热情，不怎么技术的技术宅
 <hr>
 中场休息
 <hr>
 ![李思](http://ww1.sinaimg.cn/large/62503f09gw1ehrdrsj9ovj203k03k3yd.jpg) 
 #### 《WWDC2014 WEB的发展》- 李思 
-视睿电子iOS开发工程师，熟悉网络与多媒体技术方向，一个充满热情，不怎么技术的技术宅
+现就职于CVTE集团医疗事业部iOS开发工程师，有多年iOS开发经验，喜欢学习和研究新技术，对UI和UE有着执着的追求，致力于开发高质量软件。
 <hr>
 ![ron](http://ww4.sinaimg.cn/large/62503f09gw1ehqkrifjg2j203k03ka9x.jpg) 
 ####《拥抱Auto Layout，迎接iPhone6》- 张宏鸿 
