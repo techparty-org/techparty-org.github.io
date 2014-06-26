@@ -58,6 +58,11 @@ author:
 <hr>
 ###大会简介
 <hr>
+####《iOS应用开发Tips》 - 梁劲
+稳定和高效是软件开发中永恒的话题，我们总是会为良好的用户体验而精益求精。
+本次分享你带来一些iOS开发中与稳定性和运行效率相关的Tips，让大家少走弯路轻松开发出健壮而流畅的iOS应用。
+个人介绍： UC浏览器技术达人，从事过U2、U3内核开发，在symbian、android和ios平台都开发过。对iOS系统，特别是webkit framework有深入了解！代码洁癖者以及疑难问题的终结者，在性能调优上有很丰富的经验！
+<hr>
 ![Kevin](http://ww1.sinaimg.cn/large/62503f09gw1ehqkrynmt3j203k03kjr9.jpg)  
 ####《PNChart追求女神Swift的故事》- Kevin
 广州趣拼信息科技创始人，PNChart作者，游走在技术与产品之间，寻找人生的意义。
@@ -75,6 +80,10 @@ author:
 ![ron](http://ww4.sinaimg.cn/large/62503f09gw1ehqkrifjg2j203k03ka9x.jpg) 
 ####《拥抱Auto Layout，迎接iPhone6》- 张宏鸿 
 过去，iOS开发者仅需兼容一种iPhone尺寸，直到iPhone5的出现，同时兼容两种尺寸增加了布局难度，有开发者想：没关系，代码多写个判断就行了。可如果将要来的iPhone6又多一种或以上的尺寸呢？怎办？再加判断？那你就Out了，跟着我的节奏，来拥抱Auto Layout吧～
+<hr>
+####《iOS应用开发Tips》 - 张德顺
+C优视高级经理，现在负责UC浏览器iOS团队管理工作。拥有6年iOS开发经验，是国内最早的iOS应用拓荒者之一。曾经创建并带领团队持续发布UC浏览器iPhone项目，长期占据国内TOP10应用位置。
+主题介绍：在移动平台上，如何提升联网效率一直是所有联网app关心的问题。为了达到“快”，UC浏览器针对WiFi、3G以及2G网络环境做了大量的分析和优化，取得了不错的效果。本主题分享UC浏览器在网络优化方面的经验和一些心得。
 <hr>
 
 
