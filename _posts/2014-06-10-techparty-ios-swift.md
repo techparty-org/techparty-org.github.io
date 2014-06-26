@@ -55,14 +55,22 @@ author:
 
 本期主题：
 ##广州（2014-06-28） 
-
+<hr>
+###大会简介
+<hr>
 ![Kevin](http://ww1.sinaimg.cn/large/62503f09gw1ehqkrynmt3j203k03kjr9.jpg)  
 ####《PNChart追求女神Swift的故事》- Kevin
 广州趣拼信息科技创始人，PNChart作者，游走在技术与产品之间，寻找人生的意义。
 <hr>
+![天楠](http://ww1.sinaimg.cn/large/62503f09gw1ehrdrsj9ovj203k03k3yd.jpg) 
 #### 《Touch ID的应用方向》- 天楠 
+视睿电子iOS开发工程师，熟悉网络与多媒体技术方向，一个充满热情，不怎么技术的技术宅
 <hr>
+中场休息
+<hr>
+![天楠](http://ww2.sinaimg.cn/large/62503f09gw1ehrdsalywbj203k03k746.jpg) 
 #### 《WWDC2014 WEB的发展》- 李思 
+现就职于CVTE集团医疗事业部iOS开发工程师，有多年iOS开发经验，喜欢学习和研究新技术，对UI和UE有着执着的追求，致力于开发高质量软件。
 <hr>
 ![ron](http://ww4.sinaimg.cn/large/62503f09gw1ehqkrifjg2j203k03ka9x.jpg) 
 ####《拥抱Auto Layout，迎接iPhone6》- 张宏鸿 
@@ -73,7 +81,7 @@ author:
 
 ##深圳（2014-07-05）(报名中)
 * 《巧用第三方SDK，iOS开发事半功倍》- 张泽涛
-* 《paper背后的动画神器》- 时永安
+* 《Paper背后的动画神器》- 时永安
 * 《Qzone安全模式：从app crash监控到安全模式的演进》- aimengou
 * 《手机上的硬件设备及典型app》- 龙浩
 * 主题征集中（欢迎提交主题）
