@@ -27,7 +27,7 @@ author:
 
 **沙龙费用 ：**免费
 
-**合办方&场地支持：**[UC浏览器](http://www.uc.cn/)（广州），[腾讯大讲堂](http://djt.qq.com)（深圳），[GitCafe](http://www.gitcafe.com)（北京），[GitCafe](http://www.gitcafe.com)（上海），[猎豹移动](www.liebao.cn)（珠海）
+**合办方&场地支持：**[UC浏览器](http://www.uc.cn/)（广州），[腾讯大讲堂](http://djt.qq.com) && [拔丝活动(协办)](http://www.buzz.cn/)（深圳），[GitCafe](http://www.gitcafe.com)（北京），[GitCafe](http://www.gitcafe.com)（上海），[猎豹移动](www.liebao.cn)（珠海）
 
 **合作媒体&社区：** [爱范儿](http://www.ifanr.com)，[开源中国](http://oschina.net)，[InfoQ](http://www.infoq.com/cn/)，[SwiftChina](http://swift.sh)
 
@@ -65,6 +65,7 @@ author:
 * 《巧用第三方SDK，iOS开发事半功倍》- 张泽涛
 * 《paper背后的动画神器》- 时永安
 * 《Qzone安全模式：从app crash监控到安全模式的演进》- aimengou
+* 《手机上的硬件设备及典型app》- 龙浩
 * 主题征集中（欢迎提交主题）
 
 ##北京（7月初）
