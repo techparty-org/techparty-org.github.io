@@ -68,7 +68,7 @@ author:
 广州趣拼信息科技创始人，PNChart作者，游走在技术与产品之间，寻找人生的意义。
 <hr>
 ![天楠](http://ww2.sinaimg.cn/large/62503f09gw1ehrdsalywbj203k03k746.jpg) 
-#### 《Touch ID的应用方向》- 天楠 
+#### 《Touch ID的应用方向》- 田楠 
 视睿电子iOS开发工程师，熟悉网络与多媒体技术方向，一个充满热情，不怎么技术的技术宅
 <hr>
 中场休息
