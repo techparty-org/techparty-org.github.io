@@ -31,7 +31,9 @@ author:
 
 **合作媒体&社区：** [爱范儿](http://www.ifanr.com)，[开源中国](http://oschina.net)，[InfoQ](http://www.infoq.com/cn/)，[SwiftChina](http://swift.sh)
 
+**合作媒体&社区：** 编写高质量代码：改善Python程序的91个建议 张颖,赖勇浩
 
+**礼品赞助：** [《编写高质量代码：改善Python程序的91个建议 张颖,赖勇浩》](http://item.jd.com/1186508315.html)
 
 2010年乔老爷子还在的时候开启的绝密项目——为OSX和iOS平台开发下一代编程语言。历经4年光景，终于在北京时间2014年6月3日凌晨，苹果WWDC2014上面发布了他们开发的新语言Swift，彻底引爆了整个苹果生态圈所有开发者，这一次"Write The Code, Change The World"。
 
@@ -54,10 +56,11 @@ author:
 
 
 本期主题：
-##广州（2014-06-28） 
+##广州（2014-06-28）[UC浏览器](http://www.uc.cn/) 合办
 <hr>
 ###大会简介
 <hr>
+![梁劲](http://ww3.sinaimg.cn/large/62503f09gw1ehrjju7ef6j203k03kwec.jpg)
 ####《iOS应用开发Tips》 - 梁劲
 稳定和高效是软件开发中永恒的话题，我们总是会为良好的用户体验而精益求精。
 本次分享你带来一些iOS开发中与稳定性和运行效率相关的Tips，让大家少走弯路轻松开发出健壮而流畅的iOS应用。
@@ -81,6 +84,7 @@ author:
 ####《拥抱Auto Layout，迎接iPhone6》- 张宏鸿 
 过去，iOS开发者仅需兼容一种iPhone尺寸，直到iPhone5的出现，同时兼容两种尺寸增加了布局难度，有开发者想：没关系，代码多写个判断就行了。可如果将要来的iPhone6又多一种或以上的尺寸呢？怎办？再加判断？那你就Out了，跟着我的节奏，来拥抱Auto Layout吧～
 <hr>
+![梁劲](http://ww3.sinaimg.cn/large/62503f09gw1ehrjn1ofo9j203k03kq2s.jpg)
 ####《iOS应用开发Tips》 - 张德顺
 C优视高级经理，现在负责UC浏览器iOS团队管理工作。拥有6年iOS开发经验，是国内最早的iOS应用拓荒者之一。曾经创建并带领团队持续发布UC浏览器iPhone项目，长期占据国内TOP10应用位置。
 主题介绍：在移动平台上，如何提升联网效率一直是所有联网app关心的问题。为了达到“快”，UC浏览器针对WiFi、3G以及2G网络环境做了大量的分析和优化，取得了不错的效果。本主题分享UC浏览器在网络优化方面的经验和一些心得。
