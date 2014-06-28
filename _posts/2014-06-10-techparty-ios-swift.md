@@ -31,7 +31,11 @@ author:
 
 **合作媒体&社区：** [爱范儿](http://www.ifanr.com)，[开源中国](http://oschina.net)，[InfoQ](http://www.infoq.com/cn/)，[SwiftChina](http://swift.sh)
 
-**礼品赞助：** [《编写高质量代码：改善Python程序的91个建议 张颖,赖勇浩》](http://item.jd.com/1186508315.html)
+**礼品赞助：** 
+[《编写高质量代码：改善Python程序的91个建议 张颖,赖勇浩》](http://item.jd.com/1186508315.html)
+[CODING](https://coding.net/)
+
+
 
 2010年乔老爷子还在的时候开启的绝密项目——为OSX和iOS平台开发下一代编程语言。历经4年光景，终于在北京时间2014年6月3日凌晨，苹果WWDC2014上面发布了他们开发的新语言Swift，彻底引爆了整个苹果生态圈所有开发者，这一次"Write The Code, Change The World"。
 
