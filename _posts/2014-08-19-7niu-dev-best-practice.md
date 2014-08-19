@@ -62,8 +62,7 @@ author:
 
 ![](http://eventdove.com/resource/20140819/371991_20140819103332656.jpg)
 
-<img src="http://eventdove.com/resource/20140819/371991_20140819103344275.png"
-    width="120"/>
+![](http://eventdove.com/resource/20140819/371991_20140819103344275.png)
 
 <img src="http://eventdove.com/resource/20140819/371991_20140819103412077.jpg"
     width="120"/>
