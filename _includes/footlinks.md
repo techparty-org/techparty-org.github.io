@@ -45,7 +45,7 @@
 
     <li><a href="https://coding.net"><img 
         src="https://coding.net/static/5ee8025c9dc63a6ff53153705d0e7ce8.png"
-        height="32"/>
+        height="42"/>
 </a>
     </li>
 
