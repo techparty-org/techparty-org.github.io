@@ -77,6 +77,6 @@ author:
     height="90"/>
 <a href="http://fequan.com/">
 <img src="http://fequan.com/public/img/logo.png"
-    height="90"/>
+    height="32"/>
 </a>
 
