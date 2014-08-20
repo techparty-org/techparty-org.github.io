@@ -74,9 +74,9 @@ author:
 - 合作社区: 
 
 <img src="http://techparty.org/images/tp.png"
-    width="120"/>
+    height="90"/>
 <a href="http://fequan.com/">
 <img src="http://fequan.com/public/img/logo.png"
-    width="120"/>
+    height="90"/>
 </a>
 
