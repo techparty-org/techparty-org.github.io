@@ -38,6 +38,15 @@
     <img src="https://avatars1.githubusercontent.com/u/1563636?s=24"/>七牛云存储
 </a>
     </li>
+
+    <li>
+<a href="http://fequan.com/">
+<img src="http://fequan.com/public/img/logo.png"
+    height="24"/>
+</a>
+    </li>
+
+
 </ul>        
 
 <h3>文章索引</h3>
