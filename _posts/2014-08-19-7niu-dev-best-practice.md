@@ -71,5 +71,12 @@ author:
 <img src="http://eventdove.com/resource/20140819/371991_20140819103412077.jpg"
     width="120"/>
 
-- 合作社区: ![](http://techparty.org/images/tp.png)
+- 合作社区: 
+
+<img src="http://techparty.org/images/tp.png"
+    width="120"/>
+<a href="http://fequan.com/">
+<img src="http://fequan.com/public/img/logo.png"
+    width="120"/>
+</a>
 
