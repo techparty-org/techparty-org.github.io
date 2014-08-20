@@ -34,14 +34,11 @@
     <li><a href="http://www.gzruby.org/">Guangzhou Ruby</a>
     </li>
 
-    <li><a href="http://developer.qiniu.com/">
-    <img src="https://avatars1.githubusercontent.com/u/1563636?s=24"/>七牛云存储
+    <li><a href="http://developer.qiniu.com/"><img src="https://avatars1.githubusercontent.com/u/1563636?s=24"/>七牛云存储
 </a>
     </li>
 
-    <li>
-<a href="http://fequan.com/">
-<img src="http://fequan.com/public/img/logo.png"
+    <li><a href="http://fequan.com/"><img src="http://fequan.com/public/img/logo.png"
     height="24"/>
 </a>
     </li>
