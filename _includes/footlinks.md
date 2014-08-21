@@ -15,18 +15,41 @@
 <ul>
     <li><a href="http://woodpecker.org.cn/">啄木鸟社区</a>
     </li>
+
     <li><a href="http://wiki.woodpecker.org.cn/moin/CPUG">CPyUG</a>
     </li>
+
     <li><a href="http://ecug.org/">ECUG</a>
     </li>
+
     <li><a href="http://www.gzlug.org/">广州Linux用户组</a>
     </li>
+
     <li><a href="http://gplus.to/gdgzh">珠海GDG</a>
     </li>
+
     <li><a href="http://cnodejs.org/blog/">cnodejs.org</a>
     </li>
+
     <li><a href="http://www.gzruby.org/">Guangzhou Ruby</a>
     </li>
+
+    <li><a href="http://developer.qiniu.com/"><img src="https://avatars1.githubusercontent.com/u/1563636?s=24"/>七牛云存储
+</a>
+    </li>
+
+    <li><a href="http://fequan.com/"><img src="http://fequan.com/public/img/logo.png"
+    height="24"/>
+</a>
+    </li>
+
+    <li><a href="https://coding.net"><img 
+        src="https://coding.net/static/5ee8025c9dc63a6ff53153705d0e7ce8.png"
+        height="42"/>
+</a>
+    </li>
+
+
 </ul>        
 
 <h3>文章索引</h3>
