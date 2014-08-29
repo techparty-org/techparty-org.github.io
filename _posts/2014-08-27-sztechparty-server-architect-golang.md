@@ -48,7 +48,7 @@ author:
 
 主题2. ledisdb介绍. (待定)
 
-唐刘, 金山网络, ledisdb作者, http://ledisdb.com/.
+唐刘, 金山办公软件, ledisdb作者, http://ledisdb.com/.
 
 #本期活动地点
 
