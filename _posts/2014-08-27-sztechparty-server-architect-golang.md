@@ -53,13 +53,17 @@ author:
 
 翁伟, <strike>不折腾</strike><strong>不断折腾</strong>的创业者, 目前团队使用纯Go开发, Go项目源码(包括生成代码)规模超50万行.
 
-### 主题2. ledisdb介绍. (待定)
+### 主题2. ledisdb介绍.
 
 唐刘, 金山办公软件, ledisdb作者, http://ledisdb.com/.
 
 ### 主题3. golang 在基于git 的代码托管中的应用
 
 王振威, coding.net技术架构主要负责人之一. coding.net中的代码托管基于 git 和 golang 实现, 并自行开发了 go-git-server 来服务用户通过 ssh, http, git 三种协议访问 git 仓库, 这里分享一些心得和体会.
+
+### 主题4. 实战openstack
+
+何志敏, 创业中, 之前在腾讯从事内部云研发. 本次分享openstack使用中遇到的问题和解决办法.
 
 #本期活动地点
 
