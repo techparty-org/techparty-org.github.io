@@ -51,7 +51,7 @@ author:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（休息时间）怎么样？前面的主题是不是越看越兴奋呢？先别急哦，接下来还有好多干货呢！Let's GO!
 
-<h3>主题三：《实战openstack》</h3>
+<h3>主题三：《openstack实战》</h3>
 **讲师：何志敏**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前面都是讲的Go编程语言相关的内容，现在来上个运维大菜了，第三个主题是由何志敏给大家带来的[openstack](http://www.openstack.org/)实战经验的分享。
@@ -61,6 +61,8 @@ author:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在接下来的内容中，何志敏简要介绍了openstack的系统架构以及强调了部分人对于openstack的误解，并且跟大家分享了他选择openstack的一些理由：快速获取计算资源，加快开发进度以及降低运维成本等等。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在openstack的实战讲解部分，何志敏主要从部署、网络、磁盘性能、数据交互、错误处理等方面介绍了他在openstack实践过程中遇到的问题以及解决方案。
+
+**讲稿：**[《openstack实战》](http://vdisk.weibo.com/s/apkBF-Z7M-3uP)
 
 <h3>主题四：《分布式系统设计 -- 密钥管理系统》</h3>
 **讲师：袁清**
