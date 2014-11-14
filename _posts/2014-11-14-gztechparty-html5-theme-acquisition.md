@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "广州 11 月 HTML5 专场主题征集"
+title: "TechParty-广州 2014年11月HTML5专场主题征集 "
 excerpt: "15 年磨一剑，我们翘首以盼才迎来了 HTML 的变革性版本——HTML5。和以前的版本不同，HTML5 被赋予了新的时代使命，它并非仅仅用来表示 Web 内容，它的新使命是将 Web 带入一个成熟的应用平台，在 HTML5 平台上，视频，音频，图象，动画，以及同电脑的交互都被标准化。"
 description: "广州 11 月 HTML5 专场"
 categories: techparty
