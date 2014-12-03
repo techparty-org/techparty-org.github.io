@@ -48,7 +48,7 @@ PPT：[在线](http://www.jianggaowang.com/slides/33) 、[下载](http://jiangga
   
   
 ####主题四：AngularJS 在 Coding 中的实践
-分享讲师：Coding 前端工程师,彭博  
+分享讲师：Coding 前端工程师, 彭博  
 内容简介：  
         彭博在演讲中介绍到，AngularJS 几乎在 Coding 所有系统的前端都有使用。Angular 以双向的数据绑定立名，其特点包括模块化的设计、依赖注入、良好的文档等。Angular 相比 jQuery 减少了很多 DOM 操作，相比 jQuery 直接操作 DOM， AngularJS 则采用 Directive 的方式实现文档结构的维护。不过AngularJs 的View和 Controller 过于复杂， Watcher 过多。
         在整个演讲过程中，我们能够看到 Coding 在从最初懵懂的摸索到如今能够熟练地驾驭 Angular 的过程中，积累了大量挖坑、爬坑和优化等 AngularJS 应用中的相关经验，最后彭博总结：AngularJS 你值得拥有。
@@ -57,7 +57,7 @@ PPT：[在线](http://www.jianggaowang.com/slides/39) 、[下载](http://jiangga
   
   
 ####主题五：HTML5 安全问题
-分享讲师：刘甘露，指点传媒研发总监  
+分享讲师：指点传媒研发总监, 刘甘露  
 内容简介：  
         在大家都忙于为 HTML5 标准的释出而欢呼的时候，刘甘露提出了 HTML5 技术在安全问题方面的顾虑。刘甘露从跨站脚本攻击、Canvas 等新标签的攻击、WebSQL 的攻击、CORS 跨站攻击、以及 ClickJacking（点击劫持）等新型的攻击手法以及案例入手，演示了 HTML5 目前存在的安全隐患问题，并且为大家介绍了一些好用的攻击工具，比如 Attack API、Shell of the Future 等，各位开发者可以在开发过程中借助这些工具自行测试产品的安全性。
 
