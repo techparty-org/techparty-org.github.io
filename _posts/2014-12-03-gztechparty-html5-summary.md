@@ -67,7 +67,7 @@ PPT：[在线](http://www.jianggaowang.com/slides/37) 、[下载](http://jiangga
 ####主题六：边学边玩 D3 数据图像化
 分享讲师：香港创业周末负责人，Ben Crox  
 内容简介：  
-        Ben 在演讲中简要介绍了 D3.js 的主要功能，接着通过有趣的实例展示了 D3.js 支持的数据格式，比如 JSON 以及 CSV 等。Ben 同时也演示了如何使用D3.js：首先在HTML文档头部中通过 \<script\> 标签引入 D3.js 库，最后在文档中直接调用到 D3.js 提供的 API 初始化图表。
+        Ben 在演讲中简要介绍了 D3.js 的主要功能，接着通过有趣的实例展示了 D3.js 支持的数据格式，比如 JSON 以及 CSV 等。Ben 同时也演示了如何使用D3.js：首先在HTML文档头部中通过 <script\> 标签引入 D3.js 库，最后在文档中直接调用到 D3.js 提供的 API 初始化图表。
         最后，Ben 也提到，在数据转变为图的过程中，实时的数据才是最宝贵的，而且数据需要实时呈现。他最后还推荐了大家可以在类似项目中采用 InfluxDb数据库。
 
 PPT：[在线](http://www.jianggaowang.com/slides/34) 、[下载](http://jianggaowang.qiniudn.com/slides/1kZmSR0Jn0abg6jIR3qct9IvcMkqaG.pdf)
