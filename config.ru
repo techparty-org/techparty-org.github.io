@@ -9,6 +9,7 @@ app = Proc.new do |env|
   path_info = request.path_info
 
   if request.content_type =~ /application\/json/
+    STDOUT.puts "#{params}"
     params = JSON.parse(request.body.read)
   else
     params = request.params
@@ -19,7 +20,6 @@ app = Proc.new do |env|
     if repo_url
       archive_url = "#{repo_url}/archive/coding-pages"
       puts "--> updating to #{params['ref']}.."
-      puts `jekyll build`
       `rm -rf $HOME/_posts; curl -s -L -o $TMPDIR/archive.zip #{archive_url}; unzip -qo -d $HOME $TMPDIR/archive.zip; cd $HOME; jekyll build`
       puts "--> done."
     else
