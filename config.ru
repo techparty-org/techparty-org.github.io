@@ -9,8 +9,8 @@ app = Proc.new do |env|
   path_info = request.path_info
 
   if request.content_type =~ /application\/json/
-    STDOUT.puts "#{params}"
     params = JSON.parse(request.body.read)
+    STDOUT.puts "#{params}"
   else
     params = request.params
   end
