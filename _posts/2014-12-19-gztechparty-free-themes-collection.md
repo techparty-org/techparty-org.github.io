@@ -23,13 +23,16 @@ author:
 **活动时间：**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014年12月28日下午
 
+**活动报名链接：**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[活动行：TechParty-广州 2014年12月年末自由主题趴 主题征集](http://t.cn/Rz114il)
+
 **活动地点：**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;广州（具体参会地点会在报名成功后，通过邮件的方式进行通知）
 
 **活动日程：**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.** 请先准备好你的演讲主题以及PPT，建议内容加现场问答控制在30分钟以内。友情提示：主题越简炼，被选中的机会越大。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.** 请在TechParty微信公众号上进行报名并提交自己的主题，然后将您的演讲PPT发送到邮箱 tp@techparty.org ，报名截止时间为12月27日，我们将在现场为你提供电脑进行PPT展示，您可无需携带自己的电脑。邮件格式如下：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.** 请到**[活动行](http://t.cn/Rz114il)**上进行报名并提交自己的主题，然后将您的演讲PPT发送到邮箱 tp@techparty.org ，报名截止时间为12月27日，我们将在现场为你提供电脑进行PPT展示，您可无需携带自己的电脑。邮件格式如下：
 
     姓名：
     微信号：
@@ -41,6 +44,6 @@ author:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大牛小牛们,我们在等你哦~~赶紧参与进来吧!让我们一起来引爆年度自由趴盛宴的高潮。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现在就添加公众号“珠三角技术沙龙”微信公众号输入er进行报名吧！报名时请附上你的主题，会被优先邀请哦！
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现在就关注公众号“珠三角技术沙龙”微信公众号随时随地获取我们的最新动态吧！
 
 **注：本贴不是报名贴，观众报名将在稍后开放，敬请留意珠三角技术沙龙的最新动态。谢谢。**
