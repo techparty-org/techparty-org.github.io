@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TechParty 深圳2014年12月 'DevOps：开发、运维、业务一体化敏捷应用’ 总结"
+title: "TechParty 深圳2014年12月 'DevOps：开发、运维、业务一体化敏捷应用' 总结"
 excerpt: "2014年12 月的深圳珠三角技术沙龙已经过去两周了,好多同学在问演讲稿的下载地址，可见同学们对Devops的热情。没到场的同学们也许错过了与期待已久的"技术大牛"见面的机会。下面让我们重温一下当天现场的一些情况以及大家最关心5个主题的内容分享，欢迎大家在线预览/下载。"
 description: "深圳 12 月 Devops 专场"
 categories: techparty
