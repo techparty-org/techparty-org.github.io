@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TechParty 迷你趴 试行"
-excerpt: ""
+excerpt: "技术沙龙以往那种紧致/随性/自在/散漫的范儿好象弱了...所以,大妈上花都来,发动老鲜肉们,重新营造起来,并升级小沙龙为 迷你趴, 详细的,可能下周才可知, 明天,先试行一次."
 description: "花都 15年 处女趴"
 categories: techparty
 tags: 珠三角, 迷你趴, 广州, 沙龙
