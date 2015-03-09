@@ -1,20 +1,23 @@
-techparty.org
-====================================
+# techparty.org
 
 - 当前查阅: http://techparty.gitcafe.com/
 - 计划发布: http://techparty.org
 
-依赖
-------------------------------------
+## 依赖
 
 - [Git](http://git-scm.com/)
 - M$下推荐安装: [Msysgit](http://www.starming.com/index.php?action=plugin&v=wave&tpl=union&ac=viewgrouppost&gid=32767&tid=1000002148)
 - 然后,通过管理员部署 Public Key,方便也安全
 
 
+## in coding.net
 
-建议配置
-------------------------------------
+参考: [在 coding.net 上部署 Jekyll 博客 - Martin](http://martin91.github.io/blog/2014/12/20/zai-coding-dot-netshang-bu-shu-jekyllbo-ke/)
+
+以下是基于 `gitcafe-pages` 的维护流程,
+已经过期!
+
+## 建议配置
 
 - 首先应该注册 gitcafe
 - 然后在 [您的 SSH 公钥 - GitCafe](https://gitcafe.com/account/public_keys) 上传公匙,以便使用 SSH 协议进行加密无口令提交!
@@ -45,8 +48,7 @@ techparty.org
 - 以后就可以使用 `cafe` 来替代 `origin` 来指代当前仓库名了!
 
 
-日常使用@Windows
-------------------------------------
+## 日常使用@Windows
 
 ###使用 msysgit 准备环境
 
@@ -401,8 +403,7 @@ Jekll 虽然简单,但是依赖相关的文本格式,非常精确,常见[jekyll�
 - [Mort | 像黑客一样写博客——Jekyll入门](http://www.soimort.org/posts/101/)
 
 
-Changelog
-------------------------------------
+# Changelog
 
 - 121219 以 zhouqi 角度描述使用 SourceTree 的过程
 - 121214 以 Zoom.Quiet 角度描述创建过程
