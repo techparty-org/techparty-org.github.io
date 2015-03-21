@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "广州2015年3月互联网安全趴主题征集"
+title: "TechParty-广州2015年3月-互联网安全趴主题征集"
 excerpt: "这期将围绕互联网安全，我们开展一次与安全相关的沙龙。比如大家耳熟能详的“XSS跨站脚本攻击”、“sql注入”、“中间人劫持”"
 description: "本期开展与互联网安全有关的话题探讨"
 categories: techparty
