@@ -73,6 +73,7 @@ author:
   - 20:00~21:00 闪电演讲,无幻灯,到点 cut,群体 hackpad 记要
   - 21:00~21:05 WC
   - 21:05~~ 自由交流,实时记要
+- 直播: [150324-Mini.1](https://techparty.hackpad.com/150324-Mini.1-0z6ZZBDNHKN)
 - 地点: 私下发送...
 
 是也乎,(￣▽￣)
