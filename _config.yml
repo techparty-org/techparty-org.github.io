@@ -59,8 +59,10 @@ root: /
 url:         http://www.techparty.org
 source:      .
 destination: ./_site
-plugins:     ./_plugins
-layouts:     ./_layouts
+#plugins:     ./_plugins
+plugins: [jekyll-paginate]
+#layouts:     ./_layouts
+layouts_dir:     ./_layouts
 include:     ['.htaccess']
 exclude:     ['vendor']
 timezone:    nil
@@ -71,13 +73,13 @@ show_drafts: nil
 limit_posts: 0
 highlighter: pygments
 
-relative_permalinks: true
+#relative_permalinks: true
 
 permalink:     pretty
 paginate_path: 'page:num'
 paginate: 5
 
-markdown:      rdiscount
+#markdown:      rdiscount
 markdown_ext:  markdown,mkd,mkdn,md
 textile_ext:   textile
 
@@ -108,7 +110,9 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  use_coderay: false
+  #use_coderay: false
+  enable_coderay: false
+
 
   coderay:
     coderay_wrap: div

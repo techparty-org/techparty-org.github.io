@@ -1,6 +1,8 @@
 # techparty.org
+> 官网运维指北
 
 - 当前查阅: http://techparty.gitcafe.com/
+    + 测试查阅: https://techparty-org.github.io/
 - 计划发布: http://techparty.org
 
 ## 依赖
@@ -8,6 +10,56 @@
 - [Git](http://git-scm.com/)
 - M$下推荐安装: [Msysgit](http://www.starming.com/index.php?action=plugin&v=wave&tpl=union&ac=viewgrouppost&gid=32767&tid=1000002148)
 - 然后,通过管理员部署 Public Key,方便也安全
+
+## back gh-pages
+> 190320 重新回到 github
+
+- 用本地历史仓库, 分别导入 gitcafe/coding 时代不同分支所有历史版本
+- master 恢复 gh-pages 版本 Jekyll 自动编译
+- 临时用 `https://mirrors.tuna.tsinghua.edu.cn/rubygems/`
+    + [Rubygems . 镜像站使用帮助 . 清华大学开源软件镜像站 . Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/help/rubygems/)
+    + 在本地检验 Jykell 编译问题
+    + [Setting up your GitHub Pages site locally with Jekyll - GitHub Help](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll)
+
+
+> ༄  bundle exec jekyll serve
+
+    Configuration file: /opt/data/Sites/com.techparty.org/techparty-org.github.io/_config.yml
+    Configuration Error: You specified the `plugins` config in your configuration file as a string, please use an array instead. If you wanted to set the directory of your plugins, use the config key `plugins_dir` instead.
+    jekyll 3.7.4 | Error:  'plugins' should not be a string, but was: "./_plugins". Use 'plugins_dir' instead.
+
+> ༄  bundle install 引发
+
+
+    ...
+
+    Bundle complete! 8 Gemfile dependencies, 94 gems now installed.
+    Use `bundle info [gemname]` to see where a bundled gem is installed.
+    Post-install message from dnsruby:
+    Installing dnsruby...
+      For issues and source code: https://github.com/alexdalitz/dnsruby
+      For general discussion (please tell us how you use dnsruby): https://groups.google.com/forum/#!forum/dnsruby
+    Post-install message from sass:
+
+    Ruby Sass is deprecated and will be unmaintained as of 26 March 2019.
+
+    * If you use Sass as a command-line tool, we recommend using Dart Sass, the new
+      primary implementation: https://sass-lang.com/install
+
+    * If you use Sass as a plug-in for a Ruby web framework, we recommend using the
+      sassc gem: https://github.com/sass/sassc-ruby#readme
+
+    * For more details, please refer to the Sass blog:
+      http://sass.logdown.com/posts/7081811
+
+    Post-install message from html-pipeline:
+    -------------------------------------------------
+    Thank you for installing html-pipeline!
+    You must bundle Filter gem dependencies.
+    See html-pipeline README.md for more details.
+    https://github.com/jch/html-pipeline#dependencies
+    -------------------------------------------------
+
 
 
 ## in coding.net
@@ -83,7 +135,7 @@
 ![04-cafe-team.png](https://gitcafe.com/Liebao/Liebao/blob/gitcafe-pages/img/sourcetree/04-cafe-team.png?raw=true)
 
 
-###使用 git 命令初始化本地工作仓库
+### 使用 git 命令初始化本地工作仓库
 
 从仓库首页可以获得有写入权限的 `URI`:
 
@@ -152,7 +204,7 @@
 ![2-cloned.png](https://gitcafe.com/Liebao/Liebao/blob/gitcafe-pages/img/msysgit/2-cloned.png?raw=true)
 
 
-###使用 markdownpad 进行文章编辑
+### 使用 markdownpad 进行文章编辑
 
 - 免费好编辑器! [http://www.markdownpad.com/](http://www.markdownpad.com/)
 - 下载,安装,没什么好说的
@@ -213,7 +265,7 @@
 
 
 
-####技巧: 图形化版本树!
+#### 技巧: 图形化版本树!
 
 `$ git log --graph --pretty=oneline --abbrev-commit`
 
@@ -405,6 +457,7 @@ Jekll 虽然简单,但是依赖相关的文本格式,非常精确,常见[jekyll�
 
 # Changelog
 
+- 190320 ZQ 恢复为 gh-pages
 - 121219 以 zhouqi 角度描述使用 SourceTree 的过程
 - 121214 以 Zoom.Quiet 角度描述创建过程
 
