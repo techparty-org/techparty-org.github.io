@@ -1,0 +1,141 @@
+---
+author: admin
+comments: true
+date: 2010-12-26 23:48:00
+layout: post
+slug: 2010-12-mini-salon
+title: 寻觅之乐--12月小沙龙后记
+wordpress_id: 173
+categories:
+- 社区
+---
+
+为了举办更好的沙龙，组委最近都在寻找更好的场地，功夫不负有心人，最后让我们发现在寻觅咖啡。而寻觅咖啡的老板林先生，也非常支持我们的沙龙活动，多次打电话过来沟通，在他的大力支持下，12月19号，我们在天河体育西路寻觅咖啡又见面了。这一次沙龙的主题是--独乐乐不如众乐乐，关于开源的主题分享聚会。
+
+![](http://pic.yupoo.com/techparty/AI9SHYr0/medium.jpg)
+
+本次的场地非常舒服，咖啡店的老板林先生为我们专门把半个咖啡店改造了一番，变得很有聚会的温暖气氛：
+
+[![DSC00883](http://pic.yupoo.com/techparty/AI9Sr8EE/medium.jpg)](http://www.yupoo.com/photos/techparty/79143085/)
+
+当天现场与会人数在30人左右，共有关于开源的Topic 9个，其中包括一位从新加坡远道而来的朋友贡献的精彩Topic（幻灯片地址附后）：
+
+
+
+	
+  1. autoforms - 开源Django自定义表单引擎，主讲者jeff kit
+
+	
+  2. python message - 面向消息编程的程序库，主讲者赖勇浩
+
+	
+  3. easyXDM - 轻松跨域，打造类Facebook Connect服务,主讲者 wilson
+
+	
+  4. FRS - 开源python文件库系统,主讲者潘俊勇
+
+	
+  5. MustBe - ruby runtime assertion,主讲者伍少坤
+
+	
+  6. zeromq - 轻量级的message-queue，主讲者汤泽江
+
+	
+  7. google-closure-editor-image - Google Closure Editor插件开发 ，主讲者yinhm
+
+	
+  8. web2py简介 ，主讲者罗睿君
+
+	
+  9. AngelBot - 魔橙互联的监控应用，主讲者，新加坡工程师翁伟
+
+
+
+
+### Autoforms
+
+
+幻灯：[http://www.slideshare.net/jeffkit/autoforms](http://www.slideshare.net/jeffkit/autoforms)
+
+autoforms是一个开源的Django自定义表单引擎，分享者jeff kit同时是该项目的作者，本次沙龙的报名表单即是由autoforms提供技术支持。
+
+[![DSC00872](http://pic.yupoo.com/techparty/AI9S2jm2/medium.jpg)](http://www.yupoo.com/photos/techparty/79143080/)
+
+
+### python message
+
+
+幻灯：[http://www.slideshare.net/laiyonghao/pythonmessage010](http://www.slideshare.net/laiyonghao/pythonmessage010)
+
+由赖勇浩倾力奉献的python基于发布、订阅模式的面向消息编程程序库，解耦利器！讲稿当天被twitter疯传最后荣登slideshare首页，十分给力。
+
+[![DSC00877](http://pic.yupoo.com/techparty/AI9Shu8Z/medium.jpg)](http://www.yupoo.com/photos/techparty/79143083/)
+
+
+### easyXDM
+
+
+幻灯：暂缺
+
+来自36氪的wilson给大家分享的是easyXDM，通过全新的方式轻松进行跨域。
+
+[![DSC00875](http://pic.yupoo.com/techparty/AI9SczPK/medium.jpg)](http://www.yupoo.com/photos/techparty/79143082/)
+
+
+### FRS
+
+
+幻灯：[http://www.slideshare.net/panjunyong/frs](http://www.slideshare.net/panjunyong/frs)
+
+易度的老潘奉献的是一个重量级的开源工具，易度FRS，他们在久经plone的不堪之后，终于磨出一把锋利的刀！目前易度的主打产品文档管理系统、其众多官方网站等均基于FRS打造！几天之后，沙龙的另一个参与者 @kasicass 受到 FRS 的启发，开发了 lvfs（lua virtual file system），计划将之作为轻量级的美术资源版本管理工具，项目地址：[https://github.com/kasicass/kasicass/tree/master/lua/lvfs](https://github.com/kasicass/kasicass/tree/master/lua/lvfs) 。
+
+[![DSC00880](http://pic.yupoo.com/techparty/AI9SlOqr/medium.jpg)](http://www.yupoo.com/photos/techparty/79143084/)
+
+
+### MustBe
+
+
+幻灯：暂缺
+
+来自酷德实验室的少坤同学依然是分享ruby的工具，这次是来自其公司的一个开源项目，MustBe，一个ruby的断言框架，又是一款充分体现ruby的强大DSL级表现能力的工具：
+
+[![DSC00899](http://pic.yupoo.com/techparty/AI9T7Y5A/medium.jpg)](http://www.yupoo.com/photos/techparty/79143099/)
+
+
+### zeroMQ
+
+
+幻灯：暂缺
+
+网易的汤泽江（@kasicass）共享的是zeroMQ的使用心得，zeroMQ是一个建立在 socket 之上的 light-weight message queue。不再需要自己管理 tcp 分包。简单、实用。
+
+[![DSC00902](http://pic.yupoo.com/techparty/AI9TckaW/medium.jpg)](http://www.yupoo.com/photos/techparty/79143100/)
+
+
+### google-closure-editor-image
+
+
+幻灯：[http://www.slideshare.net/yinhm/plugin-6345064](http://www.slideshare.net/yinhm/plugin-6345064)
+
+海明为大家分享的是Google Closure Editor插件开发的经验。closure是google一个开源的javascript库，许多google知名的软件都有closure的影子，如Gmail。
+
+[![DSC00895](http://pic.yupoo.com/techparty/AI9SSkoh/medium.jpg)](http://www.yupoo.com/photos/techparty/79143090/)
+
+
+### AngelBot
+
+
+幻灯：暂缺
+
+来自新加坡的翁伟现场制作了讲稿并即兴分享他自己的作品，angelBot -- 用于魔橙互联的主机监控和及时响应的软件，使用django + twisted + rrdtools实现快速开发。（下图右1为翁伟）
+
+[![DSC00896](http://pic.yupoo.com/techparty/AI9SXzFb/medium.jpg)](http://www.yupoo.com/photos/techparty/79143091/)
+
+
+### web2py简介
+
+
+幻灯：暂缺
+
+web2py非web.py，它是一个可通过Web在线开发和部署应用的开发套件，也是唯一一个不需要经过修改，可直接运行于GAE的python web 框架。使用官方的PPT，iceberg同学重新演译一遍，（下图背包者是iceberg）。
+[![DSC00863](http://pic.yupoo.com/techparty/AI9Rsx5l/medium.jpg)](http://www.yupoo.com/photos/techparty/79143073/)

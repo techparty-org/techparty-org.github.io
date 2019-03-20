@@ -1,0 +1,161 @@
+---
+author: dcshi
+comments: true
+date: 2012-03-04 23:06:40
+layout: post
+slug: '%e7%8f%a0%e4%b8%89%e8%a7%92%e6%8a%80%e6%9c%af%e6%b2%99%e9%be%99%e6%b7%b1%e5%9c%b3%e5%9c%ba2012%e5%b9%b42%e6%9c%88%e5%b0%8f%e7%bb%93'
+title: 珠三角技术沙龙深圳场2012年2月小结
+wordpress_id: 1653
+categories:
+- 总结
+- 深圳
+- 社区
+---
+
+1.dcshi《redis replication》
+[![nEO_IMG_100_2786](http://pic.yupoo.com/techparty/BMsSmcHZ/medium.jpg)](http://www.yupoo.com/photos/techparty/84605657/)
+redis是一个高性能kv存储系统，支持丰富的内存结构(strings, hashes, lists,sets ,sorted sets).redis也支持replication.redis的replication机制坚持KISS原则，但在实际的生产环境中会带来一些问题。只要slave与master之间出现短暂的断开重连，master需要重新生成内存快照，并发送给slave.每次full resync会给master带来额外的负载.分享中介绍了sina和redis作者给出的优化方案.详细请参看PPT和录音.
+
+
+
+
+**[Redis replication ](http://www.slideshare.net/dcshi/redis-replication-dcshi)**
+
+
+View more [presentations](http://www.slideshare.net/) from [dcshi](http://www.slideshare.net/dcshi).
+
+
+
+
+
+录音:[http://vdisk.weibo.com/s/2S3_Z](http://vdisk.weibo.com/s/2S3_Z)
+
+
+
+2.cppgohan《Introduction to hubot》
+[![IMG_0327](http://pic.yupoo.com/techparty/BMt12A4Z/medium.jpg)](http://www.yupoo.com/photos/techparty/84605987/)
+hubot是源自于github内部工作流程的聊天机器人, 完成许多有用的有趣的任务, 从操作办公室的大门, 播放音乐, 到构建部署github的应用. 这么一个东东在11年底开源出来, 供大家把玩, 它运行于node.js的环境, 使用coffeescript语言来编写, 机器人的记忆(存储)则依赖了redis server. 我的分享介绍了定制hubot两部分, adapter部分是机器人接入方式, 从campfire到irc, 可以做一个sina weibo的adapter, hubot会比饮水机娘灵活的多, 做一个qq群的adapter也不是不可能(参考雨中飞燕机器人). hubot-script部分是机器人针对命令的工作方式, 这块定义机器人的响应行为. 用两个简单示例介绍了编写hubot-script的基本模式. hubot可以运行在任意一台机器, 也可以把它跑在vps, 当然也有免费的nodejs host, heroku也是可以hold一个hubot滴.
+
+
+
+
+**[Introduction to hubot](http://www.slideshare.net/dcshi/introduction-to-hubot-11799598)**
+
+
+View more [presentations](http://www.slideshare.net/) from [dcshi](http://www.slideshare.net/dcshi).
+
+
+
+
+
+录音:[http://vdisk.weibo.com/s/2S347](http://vdisk.weibo.com/s/2S347)
+
+
+
+3.龙浩《java并发编程》
+[![nEO_IMG_100_2792](http://pic.yupoo.com/techparty/BMsS6Vlt/medium.jpg)](http://www.yupoo.com/photos/techparty/84605650/)
+
+在多核CPU处理时代，尽量把计算跑到不同CPU上会更好的利用系统硬件，目前能够支持多核的语言有Java ， elang ， lua ， go。从应用的层次上讲，Java的concurrent包API更加直观的面向程序员，提供了更丰富的功能。同时，对性能的追求几乎是BUG的唯一来源，大家积极学习的同时也注意总结，让系统能够更加稳定的运行。
+
+
+**[Java并发编程](http://www.slideshare.net/dcshi/java-11799565)**
+
+
+View more [presentations](http://www.slideshare.net/) from [dcshi](http://www.slideshare.net/dcshi).
+
+
+
+
+
+录音:[http://vdisk.weibo.com/s/2S3xs](http://vdisk.weibo.com/s/2S3xs)
+
+
+
+4.michael《android Graphics浅析》
+[![IMG_0324](http://pic.yupoo.com/techparty/BMsXRboH/medium.jpg)](http://www.yupoo.com/photos/techparty/84605885/)
+主要介绍了android下graphics的上层的图形绘制机制，同时针对遇到的一个问题--在graphics下的ontouch时间灵敏度太过的问题进行分析和最后确定使用android下手势方式来解决。
+
+
+
+
+**[Android graphics](http://www.slideshare.net/dcshi/android-graphics-11799571)**
+
+
+View more [presentations](http://www.slideshare.net/) from [dcshi](http://www.slideshare.net/dcshi).
+
+
+
+
+
+录音:[http://vdisk.weibo.com/s/2S2NK](http://vdisk.weibo.com/s/2S2NK)
+
+
+
+5.许路平《Introduction to SCons》
+[![nEO_IMG_100_2780](http://pic.yupoo.com/techparty/BMtp48Hz/medium.jpg)](http://www.yupoo.com/photos/techparty/84605734/)
+SCons 是一个开放源代码、以 Python 语言编写的下一代的程序建造工具。它最初的名字是 ScCons, 基于由 perl语言编写的 Cons 软件开发而成，它在 2000 年 8 月获得了由 Software Carpentry 举办的 SC 建造比赛的大奖。现在ScCons 已经被改名为 SCons，目的是为了表示不再与 Software Carpentry有联系，当然，还有一个目的，就是为了更方便的输入。
+作为下一代的软件建造工具，SCons 的设计目标就是让开发人员更容易、更可靠和更快速的建造软件。
+
+
+
+
+**[Introduction to s cons](http://www.slideshare.net/dcshi/introduction-to-s-cons)**
+
+
+View more [presentations](http://www.slideshare.net/) from [dcshi](http://www.slideshare.net/dcshi).
+
+
+
+
+
+录音:[http://vdisk.weibo.com/s/2S5IU](http://vdisk.weibo.com/s/2S5IU)
+
+
+
+6.Tony.He《SQL Server优化之路》
+[![nEO_IMG_100_2779](http://pic.yupoo.com/techparty/BMsT1CVm/medium.jpg)](http://www.yupoo.com/photos/techparty/84605678/)
+相对于mysql，在实际生产环境中应用SQL Server的公司估计不多，但是性能优化的套路大同小异.Tony.He分别从系统，内存，磁盘，处理器，SQL等方面全面介绍优化过程.详细请参看PPT和录音.
+
+
+
+
+**[Sql Server优化之路](http://www.slideshare.net/dcshi/sql-11799570)**
+
+
+View more [presentations](http://www.slideshare.net/) from [dcshi](http://www.slideshare.net/dcshi).
+
+
+
+
+
+录音:[http://vdisk.weibo.com/s/2S5IU](http://vdisk.weibo.com/s/2S5IU)
+
+
+
+7.小路《享受的奥义》
+[![nEO_IMG_100_2801](http://pic.yupoo.com/techparty/BMsTDQsA/medium.jpg)](http://www.yupoo.com/photos/techparty/84605714/)
+神之吐槽，路神的fans们，你们懂的.详细请参看PPT和录音.
+
+
+
+
+
+**[享受的奥义](http://www.slideshare.net/dcshi/ss-11799566)**
+
+
+
+
+
+
+
+View more [presentations](http://www.slideshare.net/) from [dcshi](http://www.slideshare.net/dcshi).
+
+
+
+
+
+录音:[http://vdisk.weibo.com/s/2S4NP](http://vdisk.weibo.com/s/2S4NP)
+
+
+
+所有照片：[http://www.yupoo.com/photos/techparty/albums/4826454/](http://www.yupoo.com/photos/techparty/albums/4826454/)

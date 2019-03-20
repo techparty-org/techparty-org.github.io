@@ -1,0 +1,30 @@
+---
+author: flydream
+comments: true
+date: 2011-09-05 16:15:42
+layout: post
+slug: 201109_shenzhen_recuit
+title: 珠三角技术沙龙深圳9月沙龙主题征集贴
+wordpress_id: 929
+categories:
+- 小沙龙
+tags:
+- 小沙龙
+- 深圳
+- 游戏
+---
+
+![](http://pcdownload.asia/halo-3-video-game.jpg)金风送爽，丹桂飘香，珠三角技术沙龙深圳9月场迎来了游戏专场。
+
+游戏一直都是一个需要思想碰撞和创意的行业，随着移动游戏的崛起、网页游戏的兴盛，又重新引领起一股游戏开发的狂潮，相信有很多同仁正在这个领域默默耕耘和奋斗，欢迎大家来交流自己的心得和体会。
+
+不管您是从事移动游戏、客户端游戏还是网页游戏，不管您是开发还是运维，是前台还是后台，不管您是来讲述自己游戏制作过程中的心得还是想分享自己的疑问。。。。。，请尽快和我们联系。
+
+报名请联系:
+flydream
+QQ: 10711767
+Gtalk & Email: flydreamgy@gmail.com
+
+关键字： game, 游戏, android, ios, c++, flex,iphone
+
+www.techparty.org

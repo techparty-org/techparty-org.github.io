@@ -1,0 +1,52 @@
+---
+author: admin
+comments: true
+date: 2011-01-24 23:41:18
+layout: post
+slug: 2011_jan_mini
+title: 2011年1月小沙龙总结
+wordpress_id: 223
+categories:
+- 社区
+---
+
+## 绪
+
+
+2011年1月23日，珠三角技术沙龙的广州小沙龙在寻觅咖啡厅迎来了小沙龙史上规模最大的一次技术交流盛宴！原报名人数35个，实际到场人数远远超过40人，这一次，还吸引来华南区最大的ruby on rails团队的技术总监[阿德同学](http://twitter.com/#!/adevadeh)，阿德是位老外，当然他已经是沙龙的熟客了。
+
+值得一提的是，沙龙现场的每一位朋友都有幸尝到一位沙龙的好朋友（是非常一位美丽的MM）托人送来的美味蛋糕。该MM在几周前的新浪微博开发者大会上与技术沙龙认识并表示以后要常捧沙龙的场，23号当天MM正好没空，于是托人送来蛋糕当作丽人缺席的补偿。
+
+咳，Geek宅们，咱们小沙龙现在有三位单身美女常客了，她们分别是焦爷（女Geek，曾在某有名技术群几秒间祭出百余行代码，秒杀所有在线及潜水的大牛），充电器姐以及时光MM。所以，你们应该更积极的来参与沙龙，积极分享你的主题，原因你懂的。
+
+[![](http://techparty-media.qiniudn.com/2011/01/mini_gz.jpg)](http://www.yupoo.com/photos/leondu/albums/1997660/)
+
+
+## 演
+
+
+来自金山的ZoomQuiet大妈当天首次掺和了广州的技术小沙龙，不遗余力地给沙龙做了[暖场](http://zoomquiet.org/res/m/r/110123-techparty-gz/110123_168M_init.MP3)并第一个献上主题《Kavass用HG》。在此俺仅代表沙龙感谢大妈对我们的强力支持，和无微不至的关怀！（附上[slide](http://zoomquiet.org/res/s5/110110-YY-DVCS/) 和 [录音](http://zoomquiet.org/res/m/r/110123-techparty-gz/110123_169M_kavass.MP3)）
+
+接着，赖总送上Topic《2010，我的技术之选》,介绍了他自个在2010年度推荐的年度两本图书《代码整洁之道》、《重来》，两张幻灯《Python编程艺术》以及《python于web2.0网站的应用》，还有更多的年度概念、年度程序库、年度编程语言、年度小工具、年度网站等等等等，更多的请大家移步至slideshare观摩。（附上[slide](http://www.slideshare.net/laiyonghao/2010-6668864)和[录音](http://zoomquiet.org/res/m/r/110123-techparty-gz/110123_171M_lai2010.MP3)）
+
+两位的宣讲完毕后，马上迎来的是编码时间，人称星神的星星先送上iOS开发专题《KVO》，即Key Value Observe，关于object-c的KVC、KVO的应用以及原理探讨，现场祭代码演示，中间出现了一些不得不抛弃Xcode页使用vim和命令行来演示代码的小插曲，让linux党们威风了一把。（附上[slide+源码](http://www.mikespook.com/wp-content/uploads/2011/01/KVO.zip)和[录音](http://zoomquiet.org/res/m/r/110123-techparty-gz/110123_172M_xx_obj-c_kv.MP3)）
+
+星星祭完代码还不爽，那就让双木小神童再给大家带来一些iOS开发方面的奇技淫巧吧（好吧，双木自已习惯说那是淫荡的技巧），他这次带来的是如何通过js来调用object-c的代码，绕过苹果做的重重限制，小神童终于通过RPC的方式使得问题得到解决，恭喜。（附上[slide](http://www.slideshare.net/linllx/javascript-call-objc)和[录音](http://zoomquiet.org/res/m/r/110123-techparty-gz/110123_173M_llx-js4obj-c.MP3)，还有[源码](https://github.com/linluxiang/JavascriptCallObjCExample)）
+
+中场休息时过后，由独立策划Geeker Anson Ho 先给大家谈谈风月，把大家的注意力从场下重新吸引到讲台上面来。anson带来的topic是《品牌就是Tag》，并于产品品牌的打造以及推广，风趣的anson加上《东莞不相信眼泪》和杜蕾丝的隐晦广告等佐料，让这个topic成为本场沙龙最具亮点并且是笑点最多、最招人喜爱的Topic，掌声给Anson！（附上[slide](http://www.slideshare.net/gz.anson/tag-6673626)和[录音](http://zoomquiet.org/res/m/r/110123-techparty-gz/110123_174M_anson-tag-howto.MP3)）
+
+风月谈完，回到正事，jeff“老师”开始给大家讲一堂Scala的课，标题党Jeff号称让大家《learn scala in half an hour》，用一系列的故事，通过现场coding的方式把故事完成并逐一引入Scala这门语言的各种特性。现场coding的形式让大家耳目一新，也颇有Geek感。而让jeff感到欣慰的莫过于是非技术Geek的Anson同学说他听懂了，真让jeff同学内牛满面。。此时，咱们的大妈也静静离场，往珠海赶，此后的topic就录音欠奉了。（附上[slide](http://www.slideshare.net/jeffkit/scala-jeff)和[录音](http://zoomquiet.org/res/m/r/110123-techparty-gz/110123_175M_jeff-scala.MP3)，[代码](https://github.com/jeffkit/learnScala/blob/master/src/info/jeffkit/learnScala/HelloScala.scala)）
+
+一轮紧张的coding下来，又该是换口味了的时候，来自百才招聘的产品总监，大郎给大家分享他的《产品笔记：产品需求传递，员工学习与绩效管理》，内容涉及产品部门与研发部门的需求沟通遇到的问题及解决方式，还包括管理人员如何对员工进行激励与考核。（附上[slide](http://www.slideshare.net/qichangxing/ss-6677269)）
+
+来自网易的冯博现场带来了自己关于iOS方面的经验分享《self and super in objc》，五分钟的快速演讲，在这里就不好说得太细，有兴趣的请直接看slide。（附上[slide](http://www.slideshare.net/beijixuexiong/self-and-super-in-objc)）
+
+时间已逼近下午的5：30分，此时，传说中的[充电器姐](http://www.douban.com/event/12601169/discussion/28523892/)小幸首次在沙龙的舞台正式亮相，带来《激励与绩效》，小幸在上次大沙龙发生充电器事件后，一直积极参与随后的几次小沙龙并虚向老Geek宅们请教，这一次是小幸的处女之作，虽说有一定不足，但其背后的努力以及敢于进行尝试的勇气可嘉，在此必须表扬，充电器姐好样儿的。（附上[slide](http://www.slideshare.net/liqiaoxing/ss-6678534)）
+
+最终是由老甘带来的快速演讲《Java桌面应用开发》，Java其实是沙龙创办至今谈论得相对少的领域，老甘今天算是开了个先河，给力！更多的内容，还是请直接看slide。（附上[slide](http://www.slideshare.net/cngump/java-6671941)）
+
+
+## 谢
+
+
+由于现场来了许多新朋友，有些朋友也带来了自己的topic，所以沙龙里一些相对老的朋友们，放弃了原定的分享机会，把机会让给新朋友们。他们分别是老潘，海明以及少坤，谢谢。

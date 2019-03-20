@@ -1,0 +1,53 @@
+---
+author: admin
+comments: true
+date: 2011-02-16 21:52:46
+layout: post
+slug: 2011_ios_register
+title: 2011年2月广州iOS专场开始报名
+wordpress_id: 241
+categories:
+- 公告
+tags:
+- '2011'
+- apple
+- ios
+- register
+---
+
+2011年2月27日，珠三角技术沙龙广州分场将迎来第一个苹果iOS专场，现在正式接受报名。
+
+关于iOS专场的号召可参考[此博文](http://techparty.org/2011/02/11/ios_call/)，本次小沙龙以iOS为主要话题，谈论关于iOS应用程序的开发、iOS好软件的分享、iOS的创业畅想等，当然也会有一些OT的话题，例如《给Geek们的音乐课》，所以，如果你有iOS开发方面的经验希望与大伙儿分享，如果你要为自己的项目寻找合作伙伴或招聘人才，如果你也想Show一下自己的iOS作品，请一定要参加本次小沙龙。
+
+本期沙龙前期收集到的主题有：
+
+
+
+	
+  * 老甘 ：Three20UI框架的介绍	
+
+	
+  * 伍少坤 ：                 iOS图片浏览器DIY
+
+	
+  * Benson Peng :  iOS GCD的介绍——iOS上来自火星的并行编程技术
+
+	
+  * 冲浪： 深入浅出Object-C内存管理
+
+
+
+外加一OT的主题：
+
+	
+  * jeff ： 给Geek们的音乐课 -- 基础乐理与iOS开发混搭
+
+
+
+沙龙除了讲师宣讲Topic，还预留充分的时间供大家现场自由交流、招聘、结识同好等。
+
+参加沙龙是免费的，但可能需要你在沙龙举办现场（通常是某咖啡厅）支付小额的酒水费用，特此声明。有意参加本次小沙龙的朋友请认真填写下面的报名表单，稍后将会有邮件通知相关的时间以及地点。
+
+
+
+如果本页不能显示报名表单，请点击[这里](http://autoforms.sandbox.jeffkit.info/fill/10/?is_popup=true)进行报名。

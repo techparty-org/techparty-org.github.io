@@ -1,0 +1,64 @@
+---
+author: gohan
+comments: true
+date: 2012-03-26 21:34:28
+layout: post
+slug: '%e7%8f%a0%e4%b8%89%e8%a7%92%e6%8a%80%e6%9c%af%e6%b2%99%e9%be%99%e6%b7%b1%e5%9c%b32012%e5%b9%b44%e6%9c%88%e5%b0%8f%e6%b2%99%e9%be%99%e6%8a%a5%e5%90%8d'
+title: 珠三角技术沙龙深圳2012年4月小沙龙报名
+wordpress_id: 1788
+categories:
+- 报名
+tags:
+- 报名
+- 沙龙
+- 深圳
+---
+
+
+
+
+珠![](http://techparty-media.qiniudn.com/2012/03/Screen-Shot-2012-03-26-at-9.26.34-PM.png)三角沙龙在广州刚刚结束了iOSConf的活动, 肯定也有不少深圳的同学奔赴现场参加活动吧.
+
+
+
+深圳又将继续举办线下的小沙龙活动, 因为即将进入清明调休, 跨过这个7天长班, 时间定在4月15号星期日(同4.6~4.8深圳startup weekend活动错开), 本次活动继续是小沙龙形式的聚会:
+
+活动地点暂定于南山雅舍:
+
+时间：2012-04-15（周日）下午二点
+地点：南山区创业西路现代城华庭3栋13E (崇尚百货背后小区内)
+场地费用AA，每人收费30元左右。现场提供wifi，茶点和无限量供应茶水。
+
+参加者自带主题前来分享讨论, 计算机技术相关, 领域不限, 时长不超过30分钟. 欢迎报名参加:
+
+[=======》马上报名《=======](http://f.jeffkit.info/techparty/techparty_sz_201204/)
+
+参与人   topic(更新中)
+
+
+
+龙浩 开发中遇到的硬件问题
+Gohan        twitter bootstrap小试
+harry         移动商店
+周灵杰       高并发lamp性能优化过程
+李瑞彬       QT基础
+张泽涛       rails快速开发
+龙泰勒       rails自动化测试驱动开发
+王飞           python相关, LFS相关
+
+
+
+
+沙龙线下聚会等你来参与! Techparty@深圳 qq群创建: 173905855.
+
+
+有疑问联系Gohan:
+
+QQ:8531243
+Email: cppgohan AT techparty.org
+
+
+我们老地方见!
+
+![老地方见](http://techparty-media.qiniudn.com/2012/02/6ec37066gw1djeifr8d5mj.jpg)
+

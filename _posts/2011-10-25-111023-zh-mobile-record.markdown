@@ -1,0 +1,172 @@
+---
+author: Zoom.Quiet
+comments: true
+date: 2011-10-25 14:00:17
+layout: post
+slug: 111023-zh-mobile-record
+title: 金山网络.珠三角技术沙龙珠海场111023移动专题小结
+wordpress_id: 1197
+categories:
+- 总结
+- 沙龙
+tags:
+- 沙龙
+- 珠海
+---
+
+[![](http://techparty-media.qiniudn.com/2011/10/R0028545.jpg)](http://techparty-media.qiniudn.com/2011/10/R0028545.jpg)
+
+参考: [首次珠三角移动技术沙龙~正点聚会之无责任报道](http://techparty.org/2011/09/26/mobileparty-zd11092/)//[金山网络.珠三角技术沙龙珠海场-报名贴](http://techparty.org/2011/10/13/111023-zh-mobile-honeypanda/)
+
+
+## 报道
+
+
+[![](http://techparty-media.qiniudn.com/2011/10/111123-zhtechparty-1024x768.jpg)](http://techparty-media.qiniudn.com/2011/10/111123-zhtechparty.jpg)
+更多照片见...[標籤為 techparty111023zh 的foto](http://www.flickr.com/photos/zoomq/tags/techparty111023zh/)
+
+111023 13:30~18:00 珠海潘达咖啡,珠海移动技术专题沙龙,欢乐完成;
+因为场地建筑结构原因,这次进行了人数限定,最终到场31人次,几乎到达承重上限,好在没有出问题 ;-)
+
+
+### WPS移动征程
+
+
+ZQ大妈简短[暖场](http://code.ijinshan.com/res/r/111023-techparty-ZH-mobile/111023_zhmobileparty-0-intro.MP3)
+后,WPS三哥~王晖,分享了 ["成长之路"](http://www.slideshare.net/Zoom.Quiet/kingsoft-office2011-10) 的主题:
+- 录音: [111023_zhmobileparty-1-wps.MP3](http://code.ijinshan.com/res/r/111023-techparty-ZH-mobile/111023_zhmobileparty-1-wps.MP3)
+- 录像: [金山网络.珠三角技术沙龙珠海场111023移动专题-1-wps](http://v.youku.com/v_playlist/f5647241o1p2.html)
+
+坦言了WPS 从桌面进入移动领域后遇到的方方面面的挑战,以及应对经验,其中很有触动的:
++　统计从一开始就明确的分解为“多少人用”/“在怎么用”两大方向,并使用 友盟 服务,用最低成本先跑起来
++　开发放弃了以往习惯的大平台/框架式的先基础组件,再应用的模式,恢复 quickly & derty 的小组突击协同,让应用先诞生在行进中持续改进!
++ 各种 app store 中的技巧:真诚至上,经常升級,可以保持首页露脸的几率
++ 一组很有意味的数字:"Google Android Store"下载量在中国仅占20%的,而在全球整体市场则是80%
++ 以及各种有中国特色的无奈引发了在场从业人士们的深切共鸣...
+
+
+### 手机测试
+
+
+紧接着是金山西山居的阿武带来的分享:
+- 幻灯: ["手机软件测试"](http://www.slideshare.net/Zoom.Quiet/110929-kn)
+- 录音: [111023_zhmobileparty-2-test.MP3](http://code.ijinshan.com/res/r/111023-techparty-ZH-mobile/111023_zhmobileparty-2-test.MP3)
+- 录像: [金山网络.珠三角技术沙龙珠海场111023移动专题-2-test](http://v.youku.com/v_playlist/f5647241o1p1.html)
+
+其实是当月,到小米进行的内部培训课程:
++ 着重阐述了手机测试和传统软件测试的不同
++ 提出了易用性/中断性测试的概念,并指出这是手机软件测试最有价值的方面
++ 只是杯具的是,目前手机软件测试的工具链并不完备,无法对多数测试进行自动化
+
+
+
+### HR时间
+
+
+间歇时,金山网络的卢大师,申请了时间,介绍了一下目前金山网络进行的移动产品线,ZQ代为补充了招聘信息
+- 录音: [111023_zhmobileparty-3-hr.MP3](http://code.ijinshan.com/res/r/111023-techparty-ZH-mobile/111023_zhmobileparty-3-hr.MP3)
+- [长年招聘 C++/Python 人才哪!](http://code.google.com/p/cpyug/wiki/KingsoftPythoner)
+    + 有任何意向请随时向 zoomquiet+hr # gmail.com 吼 ;-)
+    + 注意,我们喜欢有开源工程的程序猿,因为有代码可以直接查阅检验能力...
+
+
+
+### "小样儿"
+
+
+由于 Jeff 的夫人紧急产检出胎儿臀位,已经入院观察,作为全好老公,Jeff 就无法分身来分享,
+只能由 ZQ大妈,紧急顶替,分享了内部一个真实的产品故事:
+- 幻灯: [~记一个移动产品的胎死腹中](http://code.ijinshan.com/res/s5/111023-demo-story/)
+- 录音: [111023_zhmobileparty-4-demo-story.MP3](http://code.ijinshan.com/res/r/111023-techparty-ZH-mobile/111023_zhmobileparty-4-demo-story.MP3)
+- 录像: 嗯嗯嗯,怀疑是听得太专注义务DV 忘记了...
+
+故事很简单,也很有戏剧性:
++ 结论是所有人严重同意的:
+
+    
+        1个想法
+        至少100个人也在想
+        至少10个人已在开发
+        1个产品可能已发布
+
+
++ 所以呢,不论是否有技术能力,只要有自认好的创意,立即实现出来才是王道!
+
+
+
+### Anson 的非技术吐糟
+
+
+
+- 录音:  [111023_zhmobileparty-5-anson.MP3](http://code.ijinshan.com/res/r/111023-techparty-ZH-mobile/111023_zhmobileparty-5-Anson.MP3)
+
+- 录像: [金山网络.珠三角技术沙龙珠海场111023移动专题-5-ason](http://v.youku.com/v_playlist/f5647241o1p3.html)
+
+原先请 Anson 来讲,是因为他是 广州 beta cafe 的联合创始人,想来给 潘达咖啡 分享一些如何开好一个面向技术宅的咖啡馆的经验...
+没想到,作为纯正产品动物的 Anson ,分享了很有技术含量的创业经验:
++ 勇敢的直接向 Google 邮件阐述,获得了 Google Tech User Group 管理员的角色
++ 互联网咖啡馆,其实,只是提供个场所,和开放的氛围,真正互联网气质,是经常来分享的大家促成的!
++ 还倡议以后可以通过 google+ 的服务,通过视频,进行多城市间沙龙的在线交流...
++ ZQ没 Hold 住,激情乱入狂吐了一把知识管理的老糟:
++ 分享时,输出也是种输入,逼着你整理,进一步学习了想分享的目标知识
++ 分享时,也是种社会资本的积累,建立你的技术形象/声誉,吸引更多的资源自发聚集过来
++ 分享的,也不一定非要技术的,生活中知识也N多,任何一个方面,要是能玩儿到全球第一,那也能养家了
++ 分享了,也就建立起多样化的社会角色,增强了心理抗压能力,更加从容的面对技术官兵不
++ 分享好,也是要有技巧的,表述(mind hacking)能力,给程序猿带话语权,激励团队的能力!
++ 多分享,也就形成了复杂社会关系/知识技能/复合任务的管理能力...
++ ......
+所以,给所有现场的同学们,留了个作业:**"你能够分享什么?!"**
+尽情向ZQ吼过来吧( zoomquiet+mobile # gmail.com)
+
++ 最后Anson 配合了个命题:"程序猿,应该有耳钉!"
++ 程序猿,应该是名生活家,理解什么是奢侈品
++ 程序猿,如果没有生活品味的话,是无法创造出有人性的作品的!
++ 具体到"广州公交查询"这一移动作品...
++ 现场跳出了位"新良"同学,正好也开发过同类作品,就地进行了交流(准备下次发布更加震憾的产品)
++ 引发出数种 LBS 的公交类产品设计的创想
++ Anson 点出,丈母娘是最靠谱的易用性测试专员:5分钟之内会用,2分钟之内可以很好的推荐其它人,就证明成功!
++ 中国的公交市场,价值>20亿,但是出于多种原因,是必须国家垄断的,所以,直接和相关部门合作,购买数据比私下进行收集,要安定的多...
+
+
+### PS:
+
+
+- 请参会的大家,及时向沙龙反馈体验,以便增补到这一小结中来;-)
++ 直向大妈: zoomquiet+techparty # gmail.com
++ 或沙龙列表: guangzhou-tech-party@googlegroups.com
+要向此列表发言,请先订阅:发送空白邮件到 guangzhou-tech-party+subscribe@googlegroups.com
+要取消订阅此列表的订阅: 发送空白邮件到 guangzhou-tech-party+unsubscribe@googlegroups.com
+若有更多问题，请访问 http://techparty.org/about/
+
+
+#### 插曲
+
+
+- 本期也有MM出没: [![MM出现,生人勿近!](http://techparty-media.qiniudn.com/2011/10/R0028530-300x225.jpg)](http://techparty-media.qiniudn.com/2011/10/R0028530.jpg) 当然,更加给力的是金山网络赞助下,潘达提供的丰富轻食...
+- Anson 的山寨T裇很XOOL: [![](http://techparty-media.qiniudn.com/2011/10/R0028528-300x225.jpg)](http://techparty-media.qiniudn.com/2011/10/R0028528.jpg)
+- 超MAN 的3防手机: [![](http://techparty-media.qiniudn.com/2011/10/R0028559-300x237.jpg)](http://techparty-media.qiniudn.com/2011/10/R0028559.jpg)
+- [![](http://techparty-media.qiniudn.com/2011/10/R0028582-300x246.jpg)](http://techparty-media.qiniudn.com/2011/10/R0028582.jpg)原订作为礼物的 WPS移动收费专业版的邀请码,因发布推迟,所以,没有出来,代替以一批,WPS限定版纪念章:
+[![](http://techparty-media.qiniudn.com/2011/10/R0028584-300x238.jpg)](http://techparty-media.qiniudn.com/2011/10/R0028584.jpg) 俺抢了个 163 号.
+
+
+## 生活的移动互联!
+
+
+上次的[正点聚会](http://techparty.org/2011/09/26/mobileparty-zd11092/)还不明显,
+虽然 段总,指出了一些移动互联的技术和产品特征;
+但是,没有这次的沙龙,如此鲜明的提出了口号:
+
+**人性的生活作品**才是移动互联网中最容易成功的!
+
++ 只有不苦逼/淡定/优雅的程序猿,才可能拿出好用易用的 app.
++ 但是,毕竟,程序猿长年没有体验过产品设计的思维,**珠三角技术沙龙珠海场**将长期专注**移动技术**主题,期望大家常来吐糟,分享创意,就地风暴,聚集团队,招揽资金...
+
+之于 ZQ,准备设立 **"程序猿的爱情技术"** 系列:
++ 细数不婚主义的本质
++ 怎么理解女性
++ 如何进行拍拖
++ 等等,实用的个人问题解决技术...
+作为沙龙每期的非技术主题; 不知道是否受欢迎; 而且也期望不是大妈一人吐糟,任何有失败/成功体验的程序猿们,都应该站出来为所有程序猿的幸福而分享!
+
+对于大家,也倡议报名,分享非技术之外的"生活类技术",帮助珠三角的程序猿们,尽快进化成优雅的生活家,为地球人贡献更加多的改进生活品质的**移动妙品!**
+

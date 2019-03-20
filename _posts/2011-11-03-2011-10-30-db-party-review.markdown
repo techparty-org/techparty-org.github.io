@@ -1,0 +1,45 @@
+---
+author: panjunyong
+comments: true
+date: 2011-11-03 16:02:01
+layout: post
+slug: 2011-10-30-db-party-review
+title: 2011.10.30 广州数据库专场报告
+wordpress_id: 1231
+categories:
+- 广州
+- 总结
+---
+
+时间是2011.10.30，秋高气爽。广州beta咖啡，素雅依然。数据库专场，如期进行。
+
+[![](http://ww4.sinaimg.cn/bmiddle/62503f09jw1dmmhn1x6kvj.jpg)](http://techparty.yupoo.com/)
+
+张洁同学首先给大家分析了memcached, redis, handlersocket的内存分配细节，以及可能存在的一些陷阱。严谨精神让若干年不读C代码的我汗颜。
+
+[幻灯片](http://vdisk.weibo.com/s/_QGJ/1320299465) [录音](http://techparty-media.qiniudn.com/2011/11/Gz20111030_01_ZhangJie_Memcached.mp3)
+
+翁伟同学结合自己的创业的项目，和大家深入分享了redis的各种巧妙用途。redis实乃人见人爱一利器。同时翁同学给大家诠释了很潮的一个互联网应用架构。
+
+[幻灯片](http://www.slideshare.net/Wuvist/redis-9949201) [录音](http://techparty-media.qiniudn.com/2011/11/Gz20111030_02_WengWei_Redis.mp3)
+
+
+路神的演出，不负众望。从MySQL的参数配置、流派、索引、sharding/replication，无所不包，直至超时近20分钟。路神的意见是，和MySQL比较，MongoDB都不算啥数据库。
+
+[幻灯片](http://www.slideshare.net/Zoom.Quiet/111030-gztechpartymysql) [录音](http://techparty-media.qiniudn.com/2011/11/Gz20111030_03_LuShen_MySQL.mp3)
+
+黄坚同学介绍了PostgreSQL的历史、案例、一些高级特性、和MySQL比较等。PostgreSQL不仅在企业中成为oracle的替代品，而且已经包括了互联网上推崇的一些nosql特性(如支持key-value的hstore).PostgreSQL近些年发展迅猛，在阿里巴巴内部也有很多使用。
+
+[幻灯片](http://vdisk.weibo.com/s/_QDv/1320299508) [录音](http://techparty-media.qiniudn.com/2011/11/Gz20111030_04_WangJian_PostgreSQL.mp3)
+
+吴达同学的MongoDB介绍，结合在百才中的实际应用，让我们领略了shemaless的一些好处。当然，MongoDB内存大户的问题，也引起大家一些争议。在内存如白菜的年代，或许很多应用场景可以忽略这点。
+
+[幻灯片](http://www.slideshare.net/wuda0112/mongo-db-9953962) [录音](http://techparty-media.qiniudn.com/2011/11/Gz20111030_05_WuDa_MongoDB.mp3)
+
+路神的再次演出，把我们带入另外一个人文的世界。只是时间有限，让路神不能说到爽，而我正是掐表限时的那个恶人。
+
+[幻灯片](http://www.slideshare.net/Zoom.Quiet/111030-gztechpartysophia) [录音](http://techparty-media.qiniudn.com/2011/11/Gz20111030_06_LuShen_Rujia.mp3)
+
+最后我的那个xapian介绍，就被kill了，时间有限。其实xapian性能、scale、省内存方面都不错。我用了很多年，值得推荐的。
+
+本次沙龙主要的打杂人员包括 jeff、老甘、树胜、凯平、ken、潘俊勇，感谢你们的辛苦工作！

@@ -1,0 +1,63 @@
+---
+author: laiyonghao
+comments: true
+date: 2009-11-24 22:11:38
+layout: post
+slug: '%e5%b9%bf%e5%b7%9e%e6%8a%80%e6%9c%af%e6%b2%99%e9%be%99%e7%ac%ac-3-%e6%9c%9f%e6%b4%bb%e5%8a%a8%e6%80%bb%e7%bb%93'
+title: 广州技术沙龙第 3 期活动总结
+wordpress_id: 30
+categories:
+- 总结
+- 沙龙
+---
+
+## 总述
+
+
+2009 年 11 月 14 日，广州技术沙龙第 3 期在中山大学西门的国家大学科技园七楼北大青鸟科苑校区成功举办！来自珠三角多个城市的技术人员齐集一堂，完成了一次思想的成功交流和碰撞，在沙龙之后，余热不绝，我们的论坛也相当热烈地讨论了相关的话题，如：
+[http://groups.google.com/group/guangzhou-tech-party/browse_thread/thread/732cda0719f2a6ee?hl=zh-CN](http://groups.google.com/group/guangzhou-tech-party/browse_thread/thread/732cda0719f2a6ee?hl=zh-CN)
+[http://groups.google.com/group/guangzhou-tech-party/browse_thread/thread/8559cd33864cb1d2?hl=zh-CN](http://groups.google.com/group/guangzhou-tech-party/browse_thread/thread/8559cd33864cb1d2?hl=zh-CN)
+[http://groups.google.com/group/guangzhou-tech-party/browse_thread/thread/2f6aa3c6a51a8fb1?hl=zh-CN](http://groups.google.com/group/guangzhou-tech-party/browse_thread/thread/2f6aa3c6a51a8fb1?hl=zh-CN)
+[http://groups.google.com/group/guangzhou-tech-party/browse_thread/thread/f03dcad8d2baa29d?hl=zh-CN](http://groups.google.com/group/guangzhou-tech-party/browse_thread/thread/f03dcad8d2baa29d?hl=zh-CN)
+在沙龙上，来自金山的刘鑫和来自易度的潘俊勇跟大家分享了相当精彩的 topic，其中刘老师的题目是《PostgreSQL数据库及相关设计》，而老潘则分享了《云时代的软件》。他们的演讲得到了参会者的认同，比如 jeff 形容老潘的演讲“听出耳油”（出处：http://www.jeffkit.info/），lidaobing 刚直接用了“眼前一亮”这个词来形容老潘的精彩分享（出处：[http://blog.csdn.net/lidaobing/archive/2009/11/15/4812192.aspx](http://blog.csdn.net/lidaobing/archive/2009/11/15/4812192.aspx)）；刘鑫老师的演讲也不多让，现场提问非常热烈，因为时间关系，只讲了一半内容，吊得人家胃口十足，后来在论坛有很多人喊着让刘老师快点出来讲讲。
+
+本次沙龙的另一个出彩之处是来自深圳的基金买卖网（[http://www.jjmmw.com](http://www.jjmmw.com)）的王小姐分享了她们在创业之时，python 如何搭救了一个使用 java 开发的频繁当机的网站的精彩事实，虽然王小姐不是技术人员，但讲来也是惊心动魄，可惜这一段不知道什么原因遗漏了视频录像，实在太可惜了。他们现在提供一些 Python 开发的工作机会，有兴趣的朋友可以尝试跟他们联系一下。
+
+这次沙龙活动，除北大青鸟科苑校区赞助了沙龙场地这外，还得到了 GeekCook 极客精品网店（[http://geekcook.taobao.com/](http://geekcook.taobao.com/)）的赞助，其中极具特色的的帽子、抱枕和T恤让现场朋友心动不已，每送出一份都是哇哇声一片一片，甚至在论坛还出现了询问到哪里买帽子的问题，真够意外的。另外，ZoomQuiet 个人名义送出了一本书《solaris 内核结构》，送给了社区里的活跃分子老甘，哲思手册、贴纸和胸章则送给了提问的朋友。感谢大家赞助。
+
+再次声明一下，参加了这几次沙龙的朋友可能会有些误会，认为我们是一个激进的开源推进组织，其实并非如此，我们只关注编程技术，这个技术是开源系、微软系还是 java 系并不重要，重要的是你的 Topic 的确有借鉴和启发意义，只要符合这一点，我们非常欢迎你上台分享你的心得。
+
+本次活动的视频由 Joshua Zhu 辛苦拍摄，他马上就要离开广州到另一个城市去追求自己的梦想了，让我们一起感谢他发起和组织了广州技术沙龙，祝福他事业顺利，健康幸福。本期视频由劳永超同学友情编辑，非常感谢他，编辑近 10GB 的视频是一件非常辛苦的事情，鼓掌
+下面是活动的视频和幻灯片分享：
+
+
+## <!-- more -->活动热身
+
+
+
+
+
+## 参会同学介绍
+
+
+
+
+
+## 云时代的软件
+
+
+PPT：[http://czug.org/blog/panjy/2009/software-in-cloud.rst](http://czug.org/blog/panjy/2009/software-in-cloud.rst)
+
+
+
+
+
+
+## Postgres Stories
+
+
+PPT：[http://docs.google.com/present/view?id=0Aa0y1_2sgwwPZGR3dHprN18xMDg5MmR6ZjZxdGZ0&hl=zh_CN](http://docs.google.com/present/view?id=0Aa0y1_2sgwwPZGR3dHprN18xMDg5MmR6ZjZxdGZ0&hl=zh_CN)
+
+
+
+

@@ -1,0 +1,48 @@
+---
+author: dcshi
+comments: true
+date: 2012-02-15 22:10:04
+layout: post
+slug: '%e6%b7%b1%e5%9c%b3%e5%be%ae%e6%b2%99%e9%be%99%e5%bc%80%e5%a7%8b%e6%8a%a5%e5%90%8d'
+title: 深圳“微”沙龙开始报名
+wordpress_id: 1531
+categories:
+- 小沙龙
+- 报名
+- 深圳
+---
+
+2012年2月，“深圳”沙龙一周岁啦！！在此感谢各位的支持，期待未来的一年我们依然相伴。
+回顾深圳沙龙先后在万兴，华强北在线，腾讯等公司举行，每期都有值得回味的亮点。
+
+龙年我们亮点继续：
+我们首次尝试“微”沙龙: 沙龙主题不限，凡参加者必须自带Topic，每Topic尽量在15分钟内表述完毕+讨论完毕（现场有投影和白板，可带ppt）。
+"微"沙龙重在互动和交流讨论，参会者可准备好名片，多交朋友。
+本期[报名](http://f.jeffkit.info/techparty/techparty_sz_201202/)人数有限（约20人），期待你的参与。
+
+时间：2012-02-26（周日）下午二点
+地点：创业西路现代城华庭3栋13E
+场地费用AA，每人收费30元左右。现场提供wifi，茶点和无限量供应茶水。
+
+[**=======》马上报名**《=======](http://f.jeffkit.info/techparty/techparty_sz_201202/)
+
+
+参与人           topic（持续更新中）
+龙浩             《JAVA下的并发编程》
+刘志军        《JAVA IO》
+dcshi           《谈redis replication机制》
+lenky           《linux内核进程介绍》
+黄灿宏         《游戏服务器框架，脚本与C++应用》
+罗洪             《自动化测试》
+仲超             《hubot小介绍》
+Michael       《android下Graphics浅析》
+感染源        《我的转型之路：从Coder到运营》
+贺铁旗       《Sql Server 优化》
+郅波          《安全相关，如强制访问控制》
+小路         《web技术人员的失败之路和享受的奥义》
+
+
+还有几个比较内敛的同学还没有自报topic
+
+雅舍现场图片：
+[![](http://techparty-media.qiniudn.com/2012/02/6ec37066gw1djeifr8d5mj.jpg)](http://techparty-media.qiniudn.com/2012/02/6ec37066gw1djeifr8d5mj.jpg)

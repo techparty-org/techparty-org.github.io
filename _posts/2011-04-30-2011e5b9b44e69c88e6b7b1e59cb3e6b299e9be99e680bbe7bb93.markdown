@@ -1,0 +1,45 @@
+---
+author: andy.shi
+comments: false
+date: 2011-04-30 00:05:01
+layout: post
+slug: 2011%e5%b9%b44%e6%9c%88%e6%b7%b1%e5%9c%b3%e6%b2%99%e9%be%99%e6%80%bb%e7%bb%93
+title: 2011年4月深圳沙龙总结
+wordpress_id: 449
+categories:
+- 总结
+- 沙龙
+- 深圳
+---
+
+深圳沙龙4月23日迎来了第3次活动，这次签到的有37人，加上快播的朋友，总共有超过40人参加。和上次一样，深圳快播公司（QVod)提供了场地，同时还有饮料和食品，另外他们公司的几位美女还负责照相，摄影，录音工作。快播真是一家很棒的公司，他们开放的文化以及对技术交流的支持态度值得深圳很多公司学习。
+
+第一个做分享的是来自腾讯的dcshi，他的主题是《十分钟构建高性能微信后台》（[录音](http://techparty-media.qiniudn.com/2011/04/dcshi.mp3)，[slide](http://www.slideshare.net/dcshi/ss-7464346)）
+<!-- more -->
+他介绍了如何使用Redis这一key-value store来快速构建一个时下热门的微信服务后台。
+
+[![DSC_0861](http://techparty-media.qiniudn.com/2011/04/DSC_0861_thumb.jpg)](http://techparty-media.qiniudn.com/2011/04/DSC_0861.jpg)
+
+接下来是小路分享的《MySql配置优化》（[录音](http://techparty-media.qiniudn.com/2011/04/xiaolu.mp3)，[slide](http://www.slideshare.net/yashi88/mysql-7772894)）。
+
+做为一个有多年经验的开发者，小路分享了他对当前热门的NO-SQL数据库和传统的数据库的看法，以及如何对MySql数据库进行调优，他的分享引起了激烈的讨论（或者说争论）。
+
+[![DSC_0869](http://techparty-media.qiniudn.com/2011/04/DSC_0869_thumb.jpg)](http://techparty-media.qiniudn.com/2011/04/DSC_0869.jpg)
+
+第三个做分享的是感染源，他的主题是《Linux服务器集群方案》（[录音](http://techparty-media.qiniudn.com/2011/04/tan.mp3)，[slide](http://www.slideshare.net/caleng/linux-7733559)）。
+
+做为深圳组委之一的感染源，本来当天还在加班，中途赶过来做分享,然后还要赶回去，也算是很辛苦了，不过，因为他是组委，所以这里就不对他进行表扬了。
+
+[![DSC_0873](http://techparty-media.qiniudn.com/2011/04/DSC_0873_thumb.jpg)](http://techparty-media.qiniudn.com/2011/04/DSC_0873.jpg)
+
+最后一个分享的是专程从广州赶过来Jeff,他的主题是《rabbitmq测评》（[录音](http://techparty-media.qiniudn.com/2011/04/Jeff.mp3)，[slide](http://www.slideshare.net/jeffkit/taste-rabbitmq)）
+
+Jeff为了准备好这个主题，在来深圳的和谐号上还在跑测试，他的严谨态度很让人钦佩。
+
+[![IMG_9498](http://techparty-media.qiniudn.com/2011/04/IMG_9498_thumb.jpg)](http://techparty-media.qiniudn.com/2011/04/IMG_9498.jpg)
+
+另外值得一提的是，除了Jeff，另一名珠三角沙龙组委老甘，以及Sparkle和另一位朋友（抱歉，忘记这位朋友的名字了）也都从广州赶过来参加了这次活动。
+
+[![DSC_0878](http://techparty-media.qiniudn.com/2011/04/DSC_0878_thumb.jpg)](http://techparty-media.qiniudn.com/2011/04/DSC_0878.jpg)
+
+最后，再次感谢快播以及快播的各位朋友的提供的无私帮助，谢谢！

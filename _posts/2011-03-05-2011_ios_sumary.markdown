@@ -1,0 +1,82 @@
+---
+author: admin
+comments: true
+date: 2011-03-05 21:15:48
+layout: post
+slug: 2011_ios_sumary
+title: 苹果的味道──2011年2月广州iOS专场后记
+wordpress_id: 287
+categories:
+- 小沙龙
+- 总结
+tags:
+- ios
+---
+
+2月27日，广州iOS专场很火爆很好玩！以下是本次沙龙的快镜头。
+
+
+### 火爆的iOS
+
+
+本专场在1月份沙龙还没开始前已在预热，正式预告后更是热得发烫，是苹果太诱人了，短短一周内报名人数直线上升至70人左右，刷新往届小沙龙的纪录。而由于举办场地的面积有限，组委不得不做出一个艰难的决定：第一次给部份的报名者发送拒绝函。沙龙最终一共邀请50人，实到44人。在此再次感谢大家对沙龙的关注、支持和谅解！
+
+
+### 白花花的苹果
+
+
+是的，出现在现场的基本上都是“果粉”，苹果电脑的占有率基本上在80%以上，放眼过去，白花花、银光闪闪的一片，清一色的MacBook （Pro）。但是比起“充电器姐”现场送来的四袋苹果，MacBook的光芒突然变得黯然失色了。感谢充电器姐小幸MM如此应景和幽默的厚礼！
+
+![](http://farm6.static.flickr.com/5172/5480653853_4f19facf9b_z.jpg)
+
+
+### 沙龙越来越好玩了
+
+
+嗯，继autoforms后，专为沙龙而捣鼓的小玩意接踵而来，这一次就出现了两个新玩意儿：[iPad签到应用](http://www.jeffkit.info/2011/03/918/)和[liveSlideShare](http://www.liveslideshare.net/)。
+
+[iPad签到应用](http://www.jeffkit.info/2011/03/918/)是由[jeff](http://jeffkit.info)和[双木成林](http://linluxiang.info)临时组成的技术小分队快速开发出来的iPad应用程序，到场的同学在iPad上签到并同步到大屏幕，看起来非常拉风和应景（iOS专场嘛）。目前作品仍处于原型阶段，期待后续的改进！
+
+而liveSlideShare则是由[Leon](http://twitter.com/leondu)和[Rain](http://rainchen.javaeye.com/)（某公司的CEO和CTO）联手出品的，为slideShare提供第三方的直播和讨论功能。老甘现场演讲时，liveSlideShare全程提供技术支持。
+
+技术沙龙把大家凝聚在一起，就是希望大家可以踫出火花，沙龙就应该这样才好玩。
+
+
+### Topic一览
+
+
+本专场一共收集到5个相关主题及一个OT主题：
+
+![](http://farm6.static.flickr.com/5258/5481266498_56e29b813b_z.jpg)
+
+Jeff在暖场slide[《漫游iOS开发指南》](http://www.slideshare.net/jeffkit/jeff-ios-dev-intro)中介绍当天的主题。
+
+一、深入浅出iOS内存管理 （[slide](http://www.slideshare.net/jeffkit/objectc)），由[冲浪](http://www.surf-boy.com/)分享。
+
+![](http://farm6.static.flickr.com/5133/5480673903_1cbe40f9f0_z.jpg)
+
+二、Titanium开发者平台介绍（[Roy-Titanium](http://techparty-media.qiniudn.com/2011/03/Roy-Titanium.pdf) Slid下载），由[Roy](http://roynotes.com/)分享。
+
+![](http://farm6.static.flickr.com/5174/5480714649_51ea5d4a0b_z.jpg)
+
+三、iOS图片浏览器DIY（[slide](http://www.slideshare.net/shaokun/ios-diy)），由[伍少坤](http://t.sina.com.cn/shaokunwu)分享。
+
+![](http://farm6.static.flickr.com/5171/5481347442_15dc88ee21_z.jpg)
+
+四、GCD介绍（ [slide下载](http://techparty-media.qiniudn.com/2011/03/GCD_Introduction-by-benson.ppt)），由[Benson](http://t.sina.com.cn/pipipeng)提供分享。
+
+![](http://farm6.static.flickr.com/5059/5480877817_34a2d312f3_z.jpg)
+
+五、Three20UI（[slide](http://www.slideshare.net/cngump/three20-7075932)），由[老甘](http://cngump.com)分享。
+
+![](http://farm6.static.flickr.com/5056/5480938805_e5c92d0cfb_z.jpg)
+
+六、给Geek们的音乐课（[slide](http://www.slideshare.net/jeffkit/music-7078214)），由[Jeff](http://jeffkit.info)分享。
+
+![](http://farm6.static.flickr.com/5178/5481569208_02221b97b5_z.jpg)
+
+更多现场图片见[这里](http://www.flickr.com/photos/leondu/sets/72157626151294242/with/5481266498/)。
+
+=========更新=========
+
+更新实到人数为44人，经林路翔检查实际签到名单查证。

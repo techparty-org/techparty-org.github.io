@@ -1,0 +1,53 @@
+---
+author: andy.shi
+comments: true
+date: 2011-04-04 15:45:17
+layout: post
+slug: 201103-techparty-sz
+title: 2011年3月深圳小沙龙总结
+wordpress_id: 388
+categories:
+- 报名
+- 沙龙
+- 深圳
+---
+
+3月26日，因故推迟了一周的深圳小沙龙在位于中国科技开发院的[快播公司(就是著名的 Qvod)](http://www.qvod.com/)会议室成功举行。这是深圳分场的第二次活动，比起第一次活动来，这次有了几个进步：1.参加人数比第一次有增加（签到25人，加上快播公司参加的人，总数在40人左右）；2. 沙龙迎来了第一位MM（该美女还是一位程序员，赞！）；3.分享的主题数量也比上次增加了一倍。
+
+[![DSC_0664](http://techparty-media.qiniudn.com/2011/04/DSC_0664_thumb.jpg)](http://techparty-media.qiniudn.com/2011/04/DSC_0664.jpg)
+
+图：会场
+
+第一个做分享的是朱兴林，他的主题是《移动互联网2010》（[slide](http://www.slideshare.net/yashi88/2010-7505942)，[音频](http://laiyonghao.com/20110326-techparty-sz/20110326-techparty-sz-01.mp3)）。
+
+[![DSC_0675](http://techparty-media.qiniudn.com/2011/04/DSC_0675_thumb.jpg)](http://techparty-media.qiniudn.com/2011/04/DSC_0675.jpg)
+
+接着是沙龙的老朋友韦光京分享《Go语言Web开发》（[slide](http://www.slideshare.net/yashi88/goweb-7506006)，[音频](http://laiyonghao.com/20110326-techparty-sz/20110326-techparty-sz-02.mp3))
+
+[![DSC_0703](http://techparty-media.qiniudn.com/2011/04/DSC_0703_thumb.jpg)](http://techparty-media.qiniudn.com/2011/04/DSC_0703.jpg)
+
+珠三角技术沙龙的发起人之一，现任宣传外联组委[赖总](http://laiyonghao.com)也从广州远道赶来支持深圳的活动，给大家讲述《珠三角技术沙龙的故事》（[slide](http://www.slideshare.net/laiyonghao/techparty-story),[ 音频](http://laiyonghao.com/20110326-techparty-sz/20110326-techparty-sz-03.mp3)）
+
+[![DSC_0716](http://techparty-media.qiniudn.com/2011/04/DSC_0716_thumb.jpg)](http://techparty-media.qiniudn.com/2011/04/DSC_0716.jpg)
+
+中场休息，快播提供的场地很赞，有一个很大的阳台，方便大家聊天交流，他们还提供了茶点水果。在此感谢快播公司的所有工作人员，您们辛苦了！
+
+[![DSC_0724](http://techparty-media.qiniudn.com/2011/04/DSC_0724_thumb.jpg)](http://techparty-media.qiniudn.com/2011/04/DSC_0724.jpg)
+
+接下来，是黄毅带来的《Haskell介绍》([slide](http://www.yi-programmer.com/slide/haskell-intro/)，[音频](http://laiyonghao.com/20110326-techparty-sz/20110326-techparty-sz-04.mp3))
+
+[![DSC_0747](http://techparty-media.qiniudn.com/2011/04/DSC_0747_thumb.jpg)](http://techparty-media.qiniudn.com/2011/04/DSC_0747.jpg)
+
+最后，是彭宁的《分布式文件系统》([slide](http://www.slideshare.net/yashi88/dfs-ning)，[音频](http://laiyonghao.com/20110326-techparty-sz/20110326-techparty-sz-05.mp3))，虽然此时已是晚饭时间，但他精彩的演讲还是让大家听的津津有味。
+
+[![DSC_0756](http://techparty-media.qiniudn.com/2011/04/DSC_0756_thumb.jpg)](http://techparty-media.qiniudn.com/2011/04/DSC_0756.jpg)
+
+这次活动还有一个收获就是深圳沙龙增加了2名组织者：阿朱（畅销书《走出软件作坊》作者，[博客](http://blog.csdn.net/david_lv/)）和谭程明（[博客](http://blog.csdn.net/caleng/)），这将为沙龙以后的发展打下基础。
+
+[![DSC_0768](http://techparty-media.qiniudn.com/2011/04/DSC_0768_thumb.jpg)](http://techparty-media.qiniudn.com/2011/04/DSC_0768.jpg)
+
+图：参加者合影
+
+这次活动的成功要特别感谢快播公司，和快播的3位美女，他们提供了场地，饮料，食品，小礼品，还有摄影摄像服务。
+
+让我们期待以后的活动越来越精彩，越来越成功。

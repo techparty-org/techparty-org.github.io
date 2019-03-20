@@ -1,0 +1,41 @@
+---
+author: andy.shi
+comments: true
+date: 2011-03-04 22:09:13
+layout: post
+slug: '280'
+title: 2011年2月份深圳小沙龙总结
+wordpress_id: 280
+categories:
+- 广州
+- 总结
+- 沙龙
+---
+
+2月27日下午2点30分，珠三角技术沙龙深圳分会场的第一次活动在深圳科技大厦准时开始。总共有17人参加了这次活动，正是因为这些朋友的积极参与，让深圳小沙龙有了一个好的开始。（插播：这17个全部是男士，略显单调，各位深圳的技术宅女们，赶快出来走动走动，加入我们吧。）
+
+活动一开始，组织者Andy Shi首先介绍了深圳小沙龙的来由，以及自己对后续活动的一些思路，同时也请大家把沙龙当做自己的活动，不要把自己只是当个听众，要积极参加，积极贡献主题。随后，每个人都做了个简短的自我介绍。
+
+[![合影](http://www.andyshi.me/wp-content/uploads/2011/03/thumb.jpg)](http://www.andyshi.me/wp-content/uploads/2011/03/0d68fd121a7b.jpg)
+
+参加者合影
+
+紧接着，就是韦光京先生分享的关于GoLang的给力主题，做为Go语言的贡献者，韦总对Go语言十分熟悉，他讲述了Go语言的发展状况，语言特点，社区资源等相关内容([PPT](http://www.slideshare.net/yashi88/go-7148661))。
+
+[![韦总](http://www.andyshi.me/wp-content/uploads/2011/03/thumb1.jpg)](http://www.andyshi.me/wp-content/uploads/2011/03/9a0f0ba08474.jpg)
+
+韦总（左）在做讲解
+
+接下来还是关于Go的主题，柴树杉讲述“Go语言中C/C++代码调用”，他对Go语言有丰富的实践经验，内容同样十分精彩([PPT](http://www.slideshare.net/yashi88/gocc))。
+
+[![柴](http://www.andyshi.me/wp-content/uploads/2011/03/thumb2.jpg)](http://www.andyshi.me/wp-content/uploads/2011/03/d453d74d6c11.jpg)
+
+
+
+柴树杉在做讲解
+
+连续2个Go语言的主题，让大家回味无穷。接下来，Andy Shi带来了一个关于Windows Phone7的主题，介绍了它的发展情况以及开发的基础知识。
+
+随后，大家一起做了交流，讨论。一致的看法是，这样的活动很好，很有收获，深圳这样的机会比较少，希望这个小沙龙能象广州的沙龙一样，一直坚持下去。大家还憧憬了下次的活动。最后，所有参加者一起合影留念，结束了这3个小时的快乐交流。
+
+

@@ -1,0 +1,25 @@
+<div class="ads">
+  <div class="content">
+    <img src="/images/ads/ucloud-third-year.jpg" alt="UCloud 三周年">
+  </div>
+</div>
+
+<style>
+  .ads > .content {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9;
+    display: none;
+  }
+</style>
+
+<script type="text/javascript" src="/static/js/detectmobilebrowser.js"></script>
+<script type='text/javascript'>
+  if(!isMobileBrowser()){
+    var adContents = document.querySelectorAll('.ads > .content');
+    for(var i = 0; i < adContents.length; i++) {
+      adContents[i].style.display = 'block';
+    }
+  }
+</script>

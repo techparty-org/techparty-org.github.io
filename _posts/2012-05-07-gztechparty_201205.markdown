@@ -1,0 +1,52 @@
+---
+author: cngump
+comments: true
+date: 2012-05-07 09:28:13
+layout: post
+slug: gztechparty_201205
+title: 珠三角技术沙龙广州2012年5月小沙龙报名
+wordpress_id: 1901
+categories:
+- 小沙龙
+- 广州
+tags:
+- 小沙龙
+- 广州
+---
+
+![](http://pic.yupoo.com/techparty/Bya2pf9i/small.jpg)广州5月小沙龙来了！！！ 广州的技术朋友们动起来了， 广州这次沙龙是以小沙龙的形式举办。
+
+时间： 2012-05-13 13:30
+主题： 不限主题，以5-10分钟小主题为主，交流和分享为主，参会者每人都要带个主题。
+地点： 广州某咖啡厅
+费用： AA制 （人均40左右）
+报名： [电击我 ](http://f.jeffkit.info/techparty/gztechparty_201205/)
+礼品： 神秘礼品，某个性IT T-Shirt 4件，到时我们也现场抽奖
+
+-------------------------- 华丽分割线 --------------------------
+
+预报名的主题：
+
+iOS的开发中常用到第三库 （ConciseKit，NSLogger等） - 老甘
+
+Location Based AR Engine - Winkey
+
+产品设计中的商业思维  -  Anson
+
+Rails初探      -  望帆
+
+greenlet实现原理  - Jeff
+
+yii framework  -  李小培
+
+web3.0社交网络的特性    -  曾凡
+
+wp7相关主题 - cdz
+
+基于 apache ab 的快速 web 性能验证  - Jackei
+
+本体  - 梁诗雨
+
+Go语言入门 - Sparkle
+
+-------------------------- 华丽结束线 --------------------------

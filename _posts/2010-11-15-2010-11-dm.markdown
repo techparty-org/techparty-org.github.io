@@ -1,0 +1,49 @@
+---
+author: admin
+comments: true
+date: 2010-11-15 14:18:29
+layout: post
+slug: 2010-11-dm
+title: 2010月11月小沙龙--数据挖掘专题
+wordpress_id: 145
+categories:
+- 公告
+---
+
+嗯哪，[去丹霞山](http://groups.google.com/group/guangzhou-tech-party/browse_thread/thread/10b9764df81224e3?hl=zh-CN_US)之前，先喝杯热咖啡暖暖身，提提神吧。
+
+11月份小沙龙将在2010-11-20（周六）号下午一点开始举行，地点还是老地方，[员村红专厂黑店](http://ditu.google.cn/maps?f=q&source=s_q&hl=zh-CN&geocode=&q=%E5%91%98%E6%9D%91%E7%BA%A2%E4%B8%93%E5%8E%82&sll=23.111421,113.371004&sspn=0.002516,0.004823&brcurrent=3,0x3402ffccd5aa6c71:0xdb6f94e01562c6a4,0,0x340301fe46c655a3:0xc549ef142225757a%3B5,0,0&ie=UTF8&hq=%E5%91%98%E6%9D%91%E7%BA%A2%E4%B8%93%E5%8E%82&hnear=&ll=23.112112,113.369883&spn=0.004786,0.009645&z=17&iwloc=A)（黑胶碟咖啡店-Short for 黑店）喝咖啡。
+
+本次小沙龙的专题是数据挖掘方向，欢迎各路文本挖掘达人，R神仙，AI精，自然语言帝们贡献Topic，不才先献上一个关于商业智能（BI）的扫盲Topic。虽然，Topic以数据挖掘为中心，但不限于数据挖掘，如这次赖总的Topic就是《客家建筑赏析——兴宁围龙屋》，很值得期待。
+
+重申一次小沙龙的规矩：凡参与者必须自带Topic，每Topic尽量在15分钟内表述完毕，场地费用AA（黑店新规矩：每人50，续杯三次）。
+
+报名贴已提前一周在[Google邮件组](http://groups.google.com/group/guangzhou-tech-party?hl=zh-CN_US)发出，截止到发稿日期为止，已有13人报名，确认10个已知Topic：
+
+**参与人      Topic**
+
+Jeff         《商业智能简述》-- 面向技术/非技术从业人员的扫盲课
+
+老甘        《R语言简介》
+
+赖总        《客家建筑赏析——兴宁围龙屋》
+
+benky      《HTML5学习》
+
+jason       《Ruby与ERP》
+
+潘俊勇     《Box.net 以及最新的企业云存储技术》
+
+Leon        《Oauth2》
+
+双木成林  《Hacking UIWebView》 关于iphone开发的小tips
+
+啃饼          中文处理相关Topic
+
+phay         《我写游戏任务逻辑的心得》
+
+wilson       Topic待定
+
+Yinhm       Topic待定
+
+Michael     Topic待定

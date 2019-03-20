@@ -1,0 +1,110 @@
+---
+author: cngump
+comments: true
+date: 2013-04-30 10:10:22
+layout: post
+slug: gztechparty_201304_idev-3
+title: 珠三角技术沙龙广州4月iOS开发专场-总结
+wordpress_id:
+categories:
+- 社区
+author:
+  name: 老甘
+  twitter: cngump
+  bio: 打杂大妈
+  image: cngump.png
+---
+
+2013年4月21日在一个轻松的周日，珠三角沙龙迎来了iOS开发专场，届时有近80人参加活动，由广州的各种移动产品团队和移动外包团队和一些其他对移动感兴趣的个人和团队参加，算是一场比较轻松的技术聚会。
+先上合影：
+![合影](http://pic.yupoo.com/techparty/CNTq0MCs/medish.jpg)
+
+由主持 [老甘](http://weibo.com/cngump) 主持活动先以自我介绍开始，按照沙龙的惯例，每人以3句话介绍自己开始。
+
+![自我介绍](http://pic.yupoo.com/techparty/CNTjAgQp/medish.jpg)
+
+**1.《通信聊天DIY》**
+
+![Harry 通信聊天DIY](http://pic.yupoo.com/techparty/CNTl7pJa/medish.jpg)
+
+由从深圳特地赶来的吳卓強 Harry（weibo: [http://weibo.com/harryng](http://weibo.com/harryng) ）介绍IM在APP中应用。
+如何為我的應用增加一個IM功能？ Harry从XMPP到socket.io介绍IM的发展和各种比较。然后现场简单写了一个socket.io的app和web进行多设备进行即时聊天的Demo，给大家现场来个交流。
+
+幻灯：[《通信聊天DIY》- Harry](https://speakerdeck.com/cngump/im-diy)
+
+
+
+**2.《Mac OS APP 的沙盒和相关审核技术》**
+
+![刘鑫 Mac OS APP 的沙盒和相关审核技术](http://pic.yupoo.com/techparty/CNTlW8m9/medish.jpg)
+
+由从珠海的矮人工匠工作室（[http://dwarf-artisan.com](http://dwarf-artisan.com)）的刘鑫刘老师，带了一个Mac App开发的一些心得，以及介绍国内的Mac开发者的机遇和危机，以及怎么带来盈利，在主题中都有所涉及。
+
+幻灯：[《Mac OS APP 的沙盒和相关审核技术》- 刘鑫](https://speakerdeck.com/cngump/mac-os-app-de-sha-he-he-xiang-guan-shen-he-ji-zhu)
+
+
+
+
+**3.《Xarmain 2.0 的跨平台移动开发》**
+
+![卢建晖 Xarmain 2.0 的跨平台移动开发](http://pic.yupoo.com/techparty/CNTmycyP/medish.jpg)
+
+当今移动平台众多(iOS,Android,Windows RT/Phone等)，对于公司或个人都是一个挑战。通过最新的Xamarin 2.0可以实现一个开发工具(Visual Studio),一种语言C#去实现跨终端的移动程序开发。由卢建晖（weibo: [http://weibo.com/kinfey](http://weibo.com/kinfey)  ）带来了Xarmain进行跨平台的移动开发的解决方案，和优缺点的分析。
+
+幻灯：[《Mac OS APP 的沙盒和相关审核技术》- 卢建晖](https://speakerdeck.com/cngump/ji-yu-xamarin-2-dot-0de-kua-ping-tai-yi-dong-kai-fa
+)
+
+
+**4.《Ukulele演奏》**
+
+![ukulele](http://pic.yupoo.com/techparty/CNTnKKoj/medish.jpg)
+
+表演者：
+
+由 丁丁 [http://weibo.com/dobefore](http://weibo.com/dobefore) 和  伟钊，伟斌带来现场的吉他和ukulele的演奏。 3位表演者带来了《思念是一种病》和《卡农》两首曲子。
+
+
+---------------------- 中场休息 -----------------------
+
+**5.《StartupGrind and GZTechJobs》**
+
+![Adeh](http://pic.yupoo.com/techparty/CNTncGIe/medish.jpg)
+
+在简短的休息以后由Adeh [http://weibo.com/u/1943837047](http://weibo.com/u/1943837047) 介绍广州的一些创业和技术组织，主要介绍一下创业的组织StartupGrind, 和广州Ruby社区 , Gztechjobs.com 。
+
+
+
+**6.《在 iOS 应用中使用 icon font》**
+
+![钟子豪 - 在 iOS 应用中使用 icon font](http://pic.yupoo.com/techparty/CNTopA0A/medish.jpg)
+
+由钟子豪 [http://weibo.com/pridechung](http://weibo.com/pridechung) 带来了矢量图片来做为字体在iOS开发中的使用。
+icon font 是指做成了字体文件格式的图标，相比图标文件优点有：矢量字体能适应不同分辨率，通过代码可以方便地调整尺寸和颜色。icon font在前端开发中相当流行，Bootstrap 框架大量使用了 icon font 来代替图标文件，本主题将介绍在 iOS 应用中如何使用 icon font 。
+
+幻灯：[《在 iOS 应用中使用 icon font》](https://speakerdeck.com/pridechung/using-icon-font-in-ios)
+
+**7.《基于coretext排版的一些个人心得》**
+
+![陶醉 基于coretext排版的一些个人心得](http://pic.yupoo.com/techparty/CQarJwUM/medish.jpg)
+
+由南方新媒体资深iOS开发工程师 陶醉 [http://weibo.com/taozui1984](http://weibo.com/taozui1984) 带来CoreText的开发心得，已经Html标签的转换和CSS的格式在CoreText里面的支持，并提到国外的优秀项目DTCoreText，并建议参会者对DTCoreText多了解。
+
+幻灯：[《基于coretext排版的一些个人心得》- 陶醉](https://speakerdeck.com/cngump/gou-zao-ji-yu-coretextde-pai-ban-yin-qing)
+
+
+**8.《iOS开发中的MVC》**
+
+![老甘 iOS开发中的MVC](http://pic.yupoo.com/techparty/CNToTAGs/medish.jpg)
+
+由[甘果移动(广州iOS外包团队)](http://ganguo.io) 老甘 带来 iOS开发中的MVC的主题，介绍怎么在iOS中形成约定，分层，已经如果使用第三库来提高开发速度，以及怎么在快速移动开发中怎么保持快速开发，和应对需求。
+
+幻灯：[《iOS开发中的MVC》- 老甘](https://speakerdeck.com/cngump/ioskai-fa-zhong-de-mvc)
+
+
+**9.抽奖环节 **
+
+最后由 [珠海博瑞迪](http://destyle.taobao.com/index.htm?spm=a1z10.1.w5002-204327000.2.s3f0Y1) 提供的 两盏设计精美的LED台灯 [同款产品](http://t.cn/zTsIIYM)。
+
+**10.致谢 **
+
+感谢各位参会者，你们是交流的源泉。 谢谢各位讲师呈现的主题。 感谢打杂的各组委(Jeff,凯平,Leon,双木成林,Rain)。

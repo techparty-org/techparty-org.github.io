@@ -1,0 +1,43 @@
+---
+author: dcshi
+comments: true
+date: 2013-01-07 16:54:52
+layout: post
+slug: '%e7%8f%a0%e4%b8%89%e8%a7%92%e6%8a%80%e6%9c%af%e6%b2%99%e9%be%99%e6%b7%b1%e5%9c%b32013-01'
+title: 珠三角技术沙龙深圳2013-01
+wordpress_id: 2098
+categories:
+- 小沙龙
+- 技术活动
+- 深圳
+---
+
+末日没来，沙龙继续，本周日，深圳，不见不散
+
+2013-01-13 (本周日)下午2点-5点，珠三角技术沙龙深圳场，新年第一场哦。
+
+地点：腾讯大厦（具体会议室稍后另外邀请帖通知）.请你温柔点击[报名](http://f.jeffkit.info/techparty/techparty_sz_201207/)
+
+主题列表:
+
+**《 一周一语言》-** ZQ大妈
+
+(或者 5分钟到50小时的小故事，大妈还没确认)
+
+**《ngx_lua介绍&入门》-** dcshi
+
+将Lua嵌入Nginx，Lua内建协程机制使得ngx_lua会在进行阻塞的IO操作时中断，保存上下文，在IO操作完成后，恢复上下文并继续执行。与nodejs相同，支持高并发、非阻塞处理请求；与nodejs不同，用同步语法写异步代码。
+
+**《nodejs web长连接开发实践》-** 龙浩
+
+介绍一下node.js的web开发框架，测试框架，template的选择，以及在前面的内容基础上谈谈web消息开发以及socket.io的实践。
+
+**《Flask with Server-Sent Events》-** Gohan
+
+用Flask这个轻量web framework来体验下HTML5的Server Push特性.
+
+**《GHC微线程实现》 **- 黄毅
+
+Haskell的主要实现GHC从一开始就提供了一个完善的微线程机制，在多核支持、负载均衡、ffi上的处理、异步异常的处理等方面都做了很多工作。可以借这个实现探讨一下微线程实现中的一些权衡。
+
+=======================[马上报名](http://f.jeffkit.info/techparty/techparty_sz_201207/)========================

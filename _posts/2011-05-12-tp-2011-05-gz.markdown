@@ -1,0 +1,47 @@
+---
+author: laiyonghao
+comments: true
+date: 2011-05-12 12:24:00
+layout: post
+slug: tp-2011-05-gz
+title: 5 月珠三角技术沙龙(广州)网游技术专场报名开始
+wordpress_id: 495
+categories:
+- 广州
+- 报名
+tags:
+- 广州
+- 沙龙
+- 游戏
+---
+
+![](http://gamefocus.ca/UserFiles/Image/CCP/EvE%20Online/eve002.jpg)诸君，夏阳高挂，由沙龙组委筹划半年之久的网络游戏技术专场终于在小满时节上演，来自网易、金山、4399、网游数码和深红网络等华南网游研发大厂的一线高手齐集沙龙，为大家献上一台色香味俱全的技术盛宴。
+<!-- more -->
+本次活动议题见下，欢迎各方人士前来参加。[猛击此处报名参加！](http://f.jeffkit.info/techparty/register_gz_1105_game_dev/)
+==============================
+**敏捷网游架构与性能的新玩法**
+大宝（谢廷宝），前网易（新飞飞项目），现 4399，现在做某未公开项目，[http://weibo.com/sodme](http://weibo.com/sodme)
+
+**先用再学——借助 XNA 快速开发游戏原型**
+钱锋，广州网游数码（勇者传说项目）
+
+**当webgame邂逅erlang**
+庆亮，明朝网络(明朝传奇项目)，[http://www.qingliangcn.com/](http://www.qingliangcn.com/)
+
+**bigworld 引擎经验谈**
+杨铭，前网易，现深红网络（猎国项目）
+
+**基于 behavior-tree 的 game ai 开发**
+Akara（陈江），网易，泡泡游戏，疯狂石头，精灵传说，iTown 等，[http://blog.csdn.net/akara](http://blog.csdn.net/akara)
+
+**自创 Stekin 编程语言**
+neuron（林喆），金山（WPS项目），[http://bitfoc.us/](http://bitfoc.us/)
+==============================
+
+时间：2011年5月22日（星期天）13:30-18:30
+报名：请猛击 [报名](http://f.jeffkit.info/techparty/register_gz_1105_game_dev/)
+地点：广州市天河区科韵路16号信息港E栋网易大厦一楼博学堂 (地铁可以座到5号线科韵路站下车)
+
+天河软件园交通发达，附近的公交站有学院站、科韵路站、员村四横路口站、程介村站，其中后面两个下车后走到网易大厦的路径比较曲折，敬请先查看地图或向路人问路。以下图片仅供参考：
+![](http://hx.okvi.com/wp-content/uploads/2008/11/netease_map.jpg)
+![](http://farm4.static.flickr.com/3009/3808018192_1a198f1e22.jpg)

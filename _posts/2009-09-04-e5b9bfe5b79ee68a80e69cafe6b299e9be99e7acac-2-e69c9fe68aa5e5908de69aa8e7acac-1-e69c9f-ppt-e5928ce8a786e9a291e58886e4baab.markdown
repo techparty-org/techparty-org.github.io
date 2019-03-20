@@ -1,0 +1,136 @@
+---
+author: laiyonghao
+comments: true
+date: 2009-09-04 21:01:16
+layout: post
+slug: '%e5%b9%bf%e5%b7%9e%e6%8a%80%e6%9c%af%e6%b2%99%e9%be%99%e7%ac%ac-2-%e6%9c%9f%e6%8a%a5%e5%90%8d%e6%9a%a8%e7%ac%ac-1-%e6%9c%9f-ppt-%e5%92%8c%e8%a7%86%e9%a2%91%e5%88%86%e4%ba%ab'
+title: 广州技术沙龙第 2 期报名暨第 1 期 ppt 和视频分享
+wordpress_id: 18
+categories:
+- 公告
+- 总结
+- 沙龙
+---
+
+## 简介
+
+
+
+
+广州技术沙龙，是由珠三角地区的 web、游戏开发人员自发组织的线下交流活动，计划每月举办一期，以主题演讲和松散交流为形式；在 8 月份，我们在位于天河城粤海大厦的新浪广州办公室举办了第一期沙龙，来自广州、珠海、深圳等珠三角城市的 50 多位技术人员参加了活动，其中不乏来自网易、金山、腾讯、中国移动等公司的开发人员，活动举办后，大家通过 twitter、python-cn maillist 和 blog 持续交流，取得了比较好的线下交流效果。现在，我们也申请了自己的论坛：[http://groups.google.com/group/guangzhou-tech-party?hl=zh-CN](http://groups.google.com/group/guangzhou-tech-party?hl=zh-CN)
+
+
+
+
+9 月份这一期沙龙，已经邀请了广州梦境网络（www.1001m.com）资深开发工程师 Zhu Zhaoyuan 作题为《深入 nginx 源码》的 topic，和网易游戏部的资深开发主管林伟做《 MMOrpg 副本自动地图生成》的报告。这两个高质量的 topic 可以预计将吸引大量网络和游戏开发人员参会，大家勿失良机，快快报名吧。参加沙龙完全免费，交通费用自理。
+
+
+
+
+时间：2009 年 9 月 19 日（周六）下午 2:30 至 5:30
+
+
+
+
+地址：广州市天河区科韵路16号广州信息港E栋网易大厦一楼博学堂
+
+
+
+
+报名与交通指南见本文，往下拉……
+
+
+
+
+
+
+
+[caption id="" align="alignnone" width="500" caption="这次沙龙的会议室，大吧？哈哈！"]![这次沙龙的会议室，大吧？哈哈！](http://farm3.static.flickr.com/2626/3808020112_3564b48fd8.jpg)[/caption]
+
+
+## Topic
+
+
+
+
+《深入 nginx 源码》，主讲 Joshua Zhu，博客[http://blog.zhuzhaoyuan.com](http://blog.zhuzhaoyuan.com/)，他将讲述自己阅读 nginx 源码之后梳理出来的技术心得，将深入讲到这个日益流行的 web server 的架构和实现，实为今日网络开发人员不可不尝的技术大餐。更详细的内容介绍，请见[http://blog.zhuzhaoyuan.com/2009/08/nginx-internals-talk-guangzhou/](http://blog.zhuzhaoyuan.com/2009/08/nginx-internals-talk-guangzhou/)
+
+
+
+
+《 MMOrpg 副本自动地图生成》，主讲林伟，博客[http://www.joynb.net/blog/](http://www.joynb.net/blog/)，他的工作以研究游戏相关技术主，Python 界名人沈崴对其赞不绝口（请自行搜索网络或 twitter），2009 年在 China GDC 上作过同题演讲，经过交流归来，对地图自动生成更有新的心得，在此分享给珠三角地区的网游同行，相信一定能会让大家不虚此行。地图自动生成在线体验[http://twitzap.com/u/IXI](http://twitzap.com/u/IXI)
+
+
+
+
+
+## 需要你的帮助
+
+
+
+
+因为我本人没有视频摄像设备，请有 DV 的朋友报名提供设备并担任本期沙龙的摄像任务，谢谢。乐于助人的同学请给我发邮件（[lanphaday@gmail.com](mailto:lanphaday@gmail.com)）。
+
+
+
+
+同时也请带了照相机的同学把拍下来的照片多多地分享到网络，谢谢。
+
+
+
+
+
+## 第 1 期
+
+
+
+
+在着急地报名之前，先给大家提供一下第 1 期的 PPT 和视频记录：
+
+
+
+
+Topic 1: 选好业务与技术，单枪匹马做游戏 (赖勇浩) slide: [http://www.slideshare.net/laiyonghao/ss-1834209](http://www.slideshare.net/laiyonghao/ss-1834209) 视频 [http://you.video.sina.com.cn/b/23547097-1542244154.html](http://you.video.sina.com.cn/b/23547097-1542244154.html)
+
+
+
+
+Topic 2: 分布式 Key Value Store 漫谈 (Tim Yang) slide: [http://www.slideshare.net/iso1600/key-value-store](http://www.slideshare.net/iso1600/key-value-store) 视频 [http://you.video.sina.com.cn/b/23557520-1542244154.html](http://you.video.sina.com.cn/b/23557520-1542244154.html) [http://you.video.sina.com.cn/b/23557672-1542244154.html](http://you.video.sina.com.cn/b/23557672-1542244154.html)
+
+
+
+
+
+## 报名
+
+
+
+
+请填写以下报名表格：
+
+
+
+
+[https://spreadsheets.google.com/viewform?formkey=dEdVZWVRTEFsSXVrbWR4aEt4V0IzNWc6MA](https://spreadsheets.google.com/viewform?formkey=dEdVZWVRTEFsSXVrbWR4aEt4V0IzNWc6MA)
+
+
+
+
+
+## 交通
+
+
+
+
+天河软件园交通发达，附近的公交站有学院站、科韵路站、员村四横路口站、程介村站，其中后面两个下车后走到网易大厦的路径比较曲折，敬请先查看地图或向路人问路。以下图片仅供参考：
+
+
+
+
+
+
+
+[caption id="" align="alignnone" width="500" caption="地图"]![地图](http://hx.okvi.com/wp-content/uploads/2008/11/netease_map.jpg)[/caption]
+
+[caption id="" align="alignnone" width="427" caption="网易那楼"]![网易那楼](http://farm4.static.flickr.com/3009/3808018192_1a198f1e22.jpg)[/caption]
+

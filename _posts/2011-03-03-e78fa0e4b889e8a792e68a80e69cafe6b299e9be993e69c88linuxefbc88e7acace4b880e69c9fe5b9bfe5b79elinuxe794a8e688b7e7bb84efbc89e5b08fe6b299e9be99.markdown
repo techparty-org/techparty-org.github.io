@@ -1,0 +1,63 @@
+---
+author: yinhm
+comments: true
+date: 2011-03-03 22:06:50
+layout: post
+slug: '%e7%8f%a0%e4%b8%89%e8%a7%92%e6%8a%80%e6%9c%af%e6%b2%99%e9%be%993%e6%9c%88linux%ef%bc%88%e7%ac%ac%e4%b8%80%e6%9c%9f%e5%b9%bf%e5%b7%9elinux%e7%94%a8%e6%88%b7%e7%bb%84%ef%bc%89%e5%b0%8f%e6%b2%99%e9%be%99'
+title: '珠三角技术沙龙3月linux（第一期广州linux用户组）小沙龙预告 '
+wordpress_id: 270
+categories:
+- 小沙龙
+- 社区
+tags:
+- gzlug
+- linux
+---
+
+本次小沙龙由广州技术沙龙和广州linux用户组联合举办，内容为GNU/Linux、Open Source等。
+
+广州linux用户组（gzlug）由一群Linux爱好者用户发起并参与，旨在聚合本地linux用户，推广linux，支持并培养linux用户。
+
+
+### 主题
+
+
+目前已经收集的主题：
+
+
+
+	
+  * Tiger（歌词秀作者）： 《DBus》
+
+	
+  * hiphen：《aptitude小贴士》
+
+	
+  * 海明：《Emacs》
+
+	
+  * 老甘：《我的linux心路历程》
+
+
+欢迎有意分享的同学提供更多主题！
+
+
+### 时间
+
+
+3月20日13点30分
+
+
+### 地点
+
+
+报名后等待邮件通知，报名大约下周开始。
+
+
+### 费用
+
+
+场地费用大约平均每人40元，活动本身不收取任何费用，特此申明。
+
+Gzlug网址：[http://gzlug.org](http://gzlug.org)
+订阅Gzlug邮件列表： https://groups.google.com/group/gzlug

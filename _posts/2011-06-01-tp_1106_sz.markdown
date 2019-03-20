@@ -1,0 +1,44 @@
+---
+author: caleng
+comments: true
+date: 2011-06-01 10:29:08
+layout: post
+slug: tp_1106_sz
+title: 珠三角技术沙龙2011年6月深圳场报名开始
+wordpress_id: 556
+categories:
+- 小沙龙
+tags:
+- '2011'
+- 小沙龙
+- 沙龙
+- 深圳
+---
+
+[caption id="" align="alignright" width="400" caption="5 月珠三角技术沙龙（深圳）活动合影PP"]![5 月博文视点Openparty（深圳站）暨珠三角技术沙龙活动合影PP](http://pic.yupoo.com/techparty/B4zU2Orp/medium.jpg)[/caption]
+
+各路大神、童鞋们，珠三角技术沙龙6月深圳场如约而至，本次沙龙采用开放式主题探讨，将有5位高人分享各自压箱秘笈，有技术有吐槽，倾力为大家呈上更高更深更强的技术沙龙。
+欢迎各方GGMM与会交流，[猛击此处报名参加！](http://f.jeffkit.info/techparty/tp_1106_sz/)本次沙龙收集到主题如下：
+<!-- more -->
+==================
+Ruby on Rails敏捷开发实践
+Jesse（蔡望勤），博客：[caiwangqin.com](http://caiwangqin.com)，易皆能科技云服务研发总监，China on Rails（chinaonrails.com）的创始人。
+
+
+
+Core Animation 和 Quartz 的使用
+Jelly（颜赳），2010年开始从事iOS开发,目前就职于博雅互动,主持开发了德州扑克等多款游戏应用。
+
+别以为你穿上马甲,我就不认得你了
+小路（廖磊），博客：[www.mikale.org](http://www.mikale.org)，神一样的男纸。
+
+Grails敏捷项目开发
+Rainboyan（严小雨），博客：[rainboyan.com](http://rainboyan.com)，来自于中国·武汉，Java&Web程序员，主要从事移动和互联网方面，对Grails&Groovy技术非常感兴趣，业余常写些小应用，以此为乐。
+
+吐糟三体（非技术）
+zoomquiet（周琦），博客：[zoomquiet.org](http://zoomquiet.org)，金山过程改进经理，pythonCN,哲思等多个知名社区的主要维护者,人称ZQ大妈。
+==============================
+
+时间：2011年6月12日13:30-18:30（周日）
+地点：深圳南山科技园（感谢深圳万兴提供场地赞助），具体由邀请函通知。[我要报名！](http://f.jeffkit.info/techparty/tp_1106_sz/)
+

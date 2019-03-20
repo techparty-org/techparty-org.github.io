@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta property="wb:webmaster" content="e6de5d363557ee72" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} &mdash; {{ site.inc.title }}{% else %}{{ site.inc.title }} &mdash; {{ site.inc.subtitle }}{% endif %}</title>
+    <!-- {% if site.inc.google_font %}<link href="https://fonts.googleapis.com/css?family={{ site.inc.google_font }}" rel="stylesheet" type="text/css">{% endif %} -->
+    <link href="/static/css/font.css" rel="stylesheet" type="text/css"> 
+    <link rel="stylesheet" href="/static/css/main.css">
+    
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/images/{{ site.inc.logo }}"/>
+    <link href="{{ site_url }}/feed.xml" rel="alternate" type="application/rss+xml" title="{{ site.inc.title }}" />
+    <meta name="title" content="{% if page.title %}{{ page.title }} {% else %}{{ site.inc.title }}{% endif %}">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    {% if page.site.gplus %}<link rel="publisher" href="https://plus.google.com/{{ site.inc.gplus }}">{% endif %} 
+    {% if page.author.gplus %}<link rel="author" href="https://plus.google.com/{{ page.author.gplus }}">{% endif %}       
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} {% else %}{{ site.inc.title }}{% endif %}"/>
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
+    {% if page.cover_image %}
+    <meta property="og:image" content="{{ site.url }}/images/{{ page.cover_image }}"/>
+    {% if page.main_image %}
+    <meta property="og:image" content="{{ site.url }}/images/{{ page.main_image }}"/>  
+    {% endif %}
+    <meta property="og:image" content="{{ site.url }}/images/{{ site.inc.logo }}"/>   
+    {% endif %}
+    {% if page.excerpt %}
+  
+    {% endif %}
+    <meta property="og:site_name" content="{{ site.inc.title }}">     
+</head>
+<body>
+    
+<section class="site-nav">
+    <header>
+        <nav id="navigation">
+            <a class="brand" href="/">
+                <img src="/images/{{ site.inc.logo }}" alt="Inc">
+            </a>
+            <a href="/" class="home">主页</a>
+            {% if site.inc.organizer_link %}<a href="{{ site.inc.organizer_link }}">组委</a>{% endif %}
+            {% if site.inc.speaker_link %}<a href="{{ site.inc.speaker_link}}">讲师</a>{% endif %}
+            {% if site.inc.finance_link %}<a href="{{ site.inc.finance_link}}">财务</a>{% endif %}
+            {% if site.inc.about_link %}<a href="{{ site.inc.about_link}}">关于</a>{% endif %}
+            {% if site.inc.jobs_link %}<a target="_blank" href="{{ site.inc.jobs_link}}">招聘区</a>{% endif %}
+
+        </nav>
+        <nav class="tagline">
+            <a href="http://techparty-media.qiniudn.com/2013/04/qrcode_for_gh_4d92f5a32967_430-300x300.jpg">微信公众帐号</a>
+            <a href="http://techparty-media.qiniudn.com/2013/04/qrcode_for_gh_4d92f5a32967_430-300x300.jpg"><img src="http://techparty-media.qiniudn.com/2013/04/qrcode_for_gh_4d92f5a32967_430-300x300.jpg" alt="" height="60" width="60"> </a>
+        </nav>
+    </header>
+</section>
+
+{{ content }}
+
+<footer class="site-footer">
+    <div class="container">
+        &copy; {{ site.time | date: "%Y" }} 
+        
+        <nav>
+            <a href="{{ site.inc.url }}">{{ site.inc.company }}</a> &middot;
+            <a href="/">沙龙主页</a> &middot;
+            {% if site.inc.tags_link %}<a href="{{ site.inc.tags_link }}">标签</a>{% endif %}
+            {% if site.inc.categories_link %}<a href="{{ site.inc.categories_link }}">分类</a>{% endif %}
+            {% if site.inc.archives_link %}<a href="{{ site.inc.archives_link }}">归档</a>{% endif %}
+            {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">关于</a>{% endif %}
+
+        </nav>
+        
+        <nav class="social">
+            {% if site.inc.twitter %}
+            <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter black"></i></a>
+            {% endif %}
+            {% if site.inc.facebook %}
+            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Follow on Facebook" target="_blank"><i class="icon icon-facebook black"></i></a>
+            {% endif %}    
+            <a href="/feed.xml" title="RSS Feed">
+                <i class="icon icon-rss black"></i>
+            </a>
+        </nav>
+        <p>Incorporated theme by <a href="https://sendtoinc.com">Inc</a></p>
+    </div>
+
+    {% include _ads.html %}
+</footer>
+
+{% include _scripts.html %}
+
+</body>
+</html>

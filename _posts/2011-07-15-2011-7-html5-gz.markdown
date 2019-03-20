@@ -1,0 +1,74 @@
+---
+author: admin
+comments: true
+date: 2011-07-15 11:26:33
+layout: post
+slug: 2011-7-html5-gz
+title: 2011年广州7月HTML5沙龙预告
+wordpress_id: 720
+categories:
+- 公告
+- 广州
+- 沙龙
+---
+
+![](http://www.w3.org/html/logo/downloads/HTML5_Logo_512.png)
+
+HTML5是下一代的HTML！
+
+
+
+	
+  * 通过HTML5，你可以在Web中做出你以前从未敢想像的事，如抛开Flash做动画、逼真的3D效果、旋转字体、离线存储、天然的视频音频支持等等等等。
+
+	
+  * 后Web2.0时代，在移动互联网滚滚大流的轰鸣声中，HTML5越来越显得耀眼夺目。
+
+	
+  * 尽管HTML5的标准还没完全成熟，但业界给力的支持使得它在客观上已趋于成熟，HTML5已经全面全平台地绽放了。
+
+	
+  * 你还在等待吗？赶紧来参加珠三角技术沙龙广州7月的HTML5专场吧！这里除了有网易邮箱及QQ邮箱两大对手的正面PK外，还有从Google带来的不少小道消息。
+
+
+
+
+### 活动时间地点
+
+
+珠三角技术沙龙与广州google用户组（GTUG）、InfoQ联合举办的广州7月HTML5专场沙龙将于**2011年7月24日星期天**，下午1：30 至6：00在体育西路[寻觅咖啡厅](http://www.dianping.com/shop/4509740)举行，现正邀请广大技术爱好者前往。
+本次沙龙是开放式的，无需报名即可参与，参与活动的同学均有可能获得由Google、InfoQ提供的文化衫或图书，欢迎大家准时到来。
+
+感谢Google对本次活动提供场地赞助。
+
+
+### 本期沙龙的主题
+
+
+上半场 1:30 - 3:30
+
+**《探索HTML5 》**
+讲师：三桥 ，前端开发工程师，热爱前端职业，关注HTML5、sencha touch、jQuery、IOS
+博客：http://www.imsankyu.com/
+
+**《源来自有方——Mobile of Adsense》**
+讲师 ：Anson ，独立策划人。涉猎网络、电台、公关、品牌、汽车等领域，是广州Google用户组的创办人之一。
+博客：http://anson-ho.com/
+
+**《在项目中循序渐进地使用HTML5+CSS3》**
+讲师：孙极，网易邮箱工程师
+微博：http://weibo.com/sunji614
+
+中场休息30分钟，自由交流时间 3:30 - 4:00
+
+下半场 4:00 - 6:00
+**《WebGL概貌》**
+讲师：江嘉诚，华南理工大学生，主修Silverlight，HTML5，Direct2D，OpenGL等图形相关前端技术。
+
+**《HTML5在QQ邮箱移动Web应用的实践》**
+讲师：谭正谊， QQ邮箱高级前端工程师
+博客：http://gzterrytan.cnblogs.com/
+
+**《Sencha SDK Tools简介：IE6上也可以用CSS3？》**
+讲师：extjs中国站长张鑫
+博客：http://blog.csdn.net/zhangxin09

@@ -1,0 +1,40 @@
+---
+author: admin
+comments: true
+date: 2011-04-28 10:47:59
+layout: post
+slug: gz_1104_mobile
+title: 2011年4月广州移动终端应用开发专场小结
+wordpress_id: 405
+categories:
+- 广州
+- 总结
+- 沙龙
+---
+
+得益于五位热心分享的讲师以及组委赖勇浩，50多位沙龙的朋友在4月24号的下午共同享用了一顿关于移动终端开发的技术盛宴。本月的沙龙首次迎来了第一位外籍讲师，并带来重磅的讲题《android3.0》，以下对本次沙龙各主题作个简要的回顾：
+
+[![](http://techparty-media.qiniudn.com/2011/04/Screen-shot-2011-04-28-at-上午12.14.03.png)](http://www.yupoo.com/photos/techparty/albums/2027108/)
+
+黎展波 ：《PhoneGap -- 跨平台移动客户端中间件技术》 [录音](http://techparty-media.qiniudn.com/2011/04/phoneGap.mp3) [slide 下载](http://techparty-media.qiniudn.com/2011/04/PhoneGap.ppt)
+PhoneGap作为一个跨平台的移动客户端开发平台，支持着主流的手机应用平台，允许开发者使用HTML + CSS + JS来开发出原生的应用程序，且被各app store和market接受，对熟悉Web开发，而又对手机应用开发感兴趣的朋友可以关注之。
+
+sebastian 《android3.0》 [录音](http://techparty-media.qiniudn.com/2011/04/android3.0.mp3) （slide暂欠奉，待稍后更新）
+Android3.0是Google首个应用于（仅应用于）平板电脑的操作系统，为了更好的给大家介绍android3.0，seb先是推掉24日他在香港的客户邀请的活动，再是费尽心思买回一台xoom（国内香港均无现货）来做研究，可谓用心良苦，jeff可是相当的感激+感动，此外，这还是一个非常受欢迎的主题，中场的休息，大家对此的讨论非常热烈，尤其是xoom非常的抢手。
+
+benson 《移动应用相关的平台工具介绍》 [录音](http://techparty-media.qiniudn.com/2011/04/iad+adMob.mp3) [slide下载](http://techparty-media.qiniudn.com/2011/04/AdMob_Flurry_Intro_PA1.ppt)
+benson这次与我们分享的是教大家如何从appstore上面赚钱，嘿。在分享中，他详尽介绍了iad及adMob两个主流的移动广告平台的异同及使用的建议，如果你现在已热情満腔地写移动应用了，那么下一步，你也许需要这些知识哦。
+
+stuart 《一个IT人的文艺创业历程》 [录音](http://techparty-media.qiniudn.com/2011/04/stuart.mp3)
+stuart在中场休息的时候才从工作中赶过来，略显匆忙地与我们分享了一些创业往事，我听过4，5小时的版本，可能因为有啤酒佐料，很有滋味与感触,这次20分钟的版本，我认为只勾了一个轮廓，没涉及到创业团队的建设（这是创业失败的重要原因之一）等等要素，是美中不足啊。
+
+劳永超  《Uc影音用户体验改进心得》[录音](http://techparty-media.qiniudn.com/2011/04/uc-vedio.mp3) [slide](http://www.slideshare.net/heyfluke/uc1)
+永超最终决定分享UC影音在产品体验优化方面的经验，并一次过带来了9个十分有份量的心得，个个都是干货！建议做产品要跳出使用技术的思维方式思考、关注用户体验、善于从数据中发现问题等等，每一条心得都是从大量的实践中得出的，行之有效的，听后让人大呼过瘾。谢谢永超的无私奉献。
+
+赖勇浩  《沙龙的故事》 [录音](http://techparty-media.qiniudn.com/2011/04/history.mp3) [slide](http://www.slideshare.net/laiyonghao/techparty-story)
+本次沙龙现场来了不少新朋友，如一些传媒界的朋友及IDGer，为了让新朋友们更好的认识珠三角技术沙龙，沙龙组委赖勇浩又一次（[我为什么说又？](http://techparty.org/2011/04/04/201103-techparty-sz/)）给大伙讲了一遍沙龙的故事。jeff借机在此也发表一些感想吧，07年，zoom quiet大妈南下，在广州组织过几次python会课，从那时起我就结识了多位好友（大部份也是现沙龙的组委），大家一直掺和会课、广州（珠三角）技术沙龙至今，后来我参与组织沙龙的初衷是想把几年来大家一直聚会、交流的习惯持久化下来，好让一直游走于珠三角python用户组、广州（珠三角）技术沙龙的一帮朋友安顿下来，仅此而已，而现在我的目的也达到了，因为现在至少每个月都至少能因为技术而凑上一次，很喜欢这种感觉。谢谢ZQ，谢谢沙龙创始的前辈和组委，也谢谢一直坚持在技术分享一线的各位好朋友！
+
+最后，感谢北京的游戏程序员杨呈杰赞助了他家乡浙江安吉的自产白茶，温馨茶香，让大家可以一尝上品茗茶，而广州的开发人员星星的夫人也带来 05 珍藏的易武普洱茶跟大家分享。白茶有 350、600、800、1200 元每斤共四档，只要说是沙龙会员，都可以获得 9 折优惠，买茶请联系杨燕，电话是18967240928，QQ是29346222。星星夫人的普洱、花茶等有淘宝店一芽二叶（又名桃花养生坊），网址：[http://1ya2ye.taobao.com/](http://1ya2ye.taobao.com/)，欢迎前往选购。
+
+五一将至，在此沙龙预祝大家节日快乐，同时请关注广州沙龙5月的游戏开发专场。
+
