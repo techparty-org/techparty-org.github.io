@@ -32,9 +32,9 @@ inc:
   tagline:      ""
   
   # Comments
-  disqus:
-    # Eg. "exampleblog" Set to false to disable comments
-    shortname:  techparty4gitcafecom
+  #disqus:
+  #  # Eg. "exampleblog" Set to false to disable comments
+  #  shortname:  techparty4gitcafecom
   
   # Sharing settings
   sharing:
