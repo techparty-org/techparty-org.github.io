@@ -214,7 +214,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
-    rack (2.0.6)
+    rack (2.1.1)
     rack-contrib (2.1.0)
       rack (~> 2.0)
     rack-jekyll (0.3.5)
